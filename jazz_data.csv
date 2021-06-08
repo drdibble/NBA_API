@@ -1,0 +1,985 @@
+,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_ABBREVIATION,AGE,ZONE,FGM,FGA,FG_PCT,SEASON,game_id,win
+0,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Restricted Area,2.0,7.0,0.286,,11.0,1.0
+1,202711,Bojan Bogdanovic,1610612762,UTA,32.0,In The Paint (Non-RA),1.0,3.0,0.333,,11.0,1.0
+2,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Mid-Range,0.0,0.0,0.0,,11.0,1.0
+3,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Left Corner 3,0.0,1.0,0.0,,11.0,1.0
+4,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Right Corner 3,1.0,1.0,1.0,,11.0,1.0
+5,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Above the Break 3,1.0,3.0,0.333,,11.0,1.0
+6,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Backcourt,0.0,0.0,0.0,,11.0,1.0
+7,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Corner 3,1.0,2.0,0.5,,11.0,1.0
+8,202324,Derrick Favors,1610612762,UTA,29.0,Restricted Area,3.0,3.0,1.0,,11.0,1.0
+9,202324,Derrick Favors,1610612762,UTA,29.0,In The Paint (Non-RA),1.0,1.0,1.0,,11.0,1.0
+10,202324,Derrick Favors,1610612762,UTA,29.0,Mid-Range,1.0,2.0,0.5,,11.0,1.0
+11,202324,Derrick Favors,1610612762,UTA,29.0,Left Corner 3,0.0,0.0,0.0,,11.0,1.0
+12,202324,Derrick Favors,1610612762,UTA,29.0,Right Corner 3,0.0,0.0,0.0,,11.0,1.0
+13,202324,Derrick Favors,1610612762,UTA,29.0,Above the Break 3,0.0,0.0,0.0,,11.0,1.0
+14,202324,Derrick Favors,1610612762,UTA,29.0,Backcourt,0.0,0.0,0.0,,11.0,1.0
+15,202324,Derrick Favors,1610612762,UTA,29.0,Corner 3,0.0,0.0,0.0,,11.0,1.0
+16,1627777,Georges Niang,1610612762,UTA,27.0,Restricted Area,0.0,0.0,0.0,,11.0,1.0
+17,1627777,Georges Niang,1610612762,UTA,27.0,In The Paint (Non-RA),1.0,1.0,1.0,,11.0,1.0
+18,1627777,Georges Niang,1610612762,UTA,27.0,Mid-Range,0.0,1.0,0.0,,11.0,1.0
+19,1627777,Georges Niang,1610612762,UTA,27.0,Left Corner 3,1.0,1.0,1.0,,11.0,1.0
+20,1627777,Georges Niang,1610612762,UTA,27.0,Right Corner 3,1.0,2.0,0.5,,11.0,1.0
+21,1627777,Georges Niang,1610612762,UTA,27.0,Above the Break 3,0.0,2.0,0.0,,11.0,1.0
+22,1627777,Georges Niang,1610612762,UTA,27.0,Backcourt,0.0,0.0,0.0,,11.0,1.0
+23,1627777,Georges Niang,1610612762,UTA,27.0,Corner 3,2.0,3.0,0.667,,11.0,1.0
+24,1629714,Jarrell Brantley,1610612762,UTA,24.0,Restricted Area,0.0,0.0,0.0,,11.0,1.0
+25,1629714,Jarrell Brantley,1610612762,UTA,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,11.0,1.0
+26,1629714,Jarrell Brantley,1610612762,UTA,24.0,Mid-Range,0.0,0.0,0.0,,11.0,1.0
+27,1629714,Jarrell Brantley,1610612762,UTA,24.0,Left Corner 3,,,,,11.0,1.0
+28,1629714,Jarrell Brantley,1610612762,UTA,24.0,Right Corner 3,,,,,11.0,1.0
+29,1629714,Jarrell Brantley,1610612762,UTA,24.0,Above the Break 3,0.0,0.0,0.0,,11.0,1.0
+30,1629714,Jarrell Brantley,1610612762,UTA,24.0,Backcourt,,,,,11.0,1.0
+31,1629714,Jarrell Brantley,1610612762,UTA,24.0,Corner 3,,,,,11.0,1.0
+32,204060,Joe Ingles,1610612762,UTA,33.0,Restricted Area,1.0,1.0,1.0,,11.0,1.0
+33,204060,Joe Ingles,1610612762,UTA,33.0,In The Paint (Non-RA),0.0,1.0,0.0,,11.0,1.0
+34,204060,Joe Ingles,1610612762,UTA,33.0,Mid-Range,0.0,0.0,0.0,,11.0,1.0
+35,204060,Joe Ingles,1610612762,UTA,33.0,Left Corner 3,0.0,0.0,0.0,,11.0,1.0
+36,204060,Joe Ingles,1610612762,UTA,33.0,Right Corner 3,1.0,1.0,1.0,,11.0,1.0
+37,204060,Joe Ingles,1610612762,UTA,33.0,Above the Break 3,1.0,5.0,0.2,,11.0,1.0
+38,204060,Joe Ingles,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,11.0,1.0
+39,204060,Joe Ingles,1610612762,UTA,33.0,Corner 3,1.0,1.0,1.0,,11.0,1.0
+40,203903,Jordan Clarkson,1610612762,UTA,28.0,Restricted Area,1.0,2.0,0.5,,11.0,1.0
+41,203903,Jordan Clarkson,1610612762,UTA,28.0,In The Paint (Non-RA),4.0,5.0,0.8,,11.0,1.0
+42,203903,Jordan Clarkson,1610612762,UTA,28.0,Mid-Range,0.0,1.0,0.0,,11.0,1.0
+43,203903,Jordan Clarkson,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,11.0,1.0
+44,203903,Jordan Clarkson,1610612762,UTA,28.0,Right Corner 3,0.0,1.0,0.0,,11.0,1.0
+45,203903,Jordan Clarkson,1610612762,UTA,28.0,Above the Break 3,6.0,11.0,0.545,,11.0,1.0
+46,203903,Jordan Clarkson,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,11.0,1.0
+47,203903,Jordan Clarkson,1610612762,UTA,28.0,Corner 3,0.0,1.0,0.0,,11.0,1.0
+48,1629752,Juwan Morgan,1610612762,UTA,24.0,Restricted Area,0.0,0.0,0.0,,11.0,1.0
+49,1629752,Juwan Morgan,1610612762,UTA,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,11.0,1.0
+50,1629752,Juwan Morgan,1610612762,UTA,24.0,Mid-Range,0.0,1.0,0.0,,11.0,1.0
+51,1629752,Juwan Morgan,1610612762,UTA,24.0,Left Corner 3,,,,,11.0,1.0
+52,1629752,Juwan Morgan,1610612762,UTA,24.0,Right Corner 3,,,,,11.0,1.0
+53,1629752,Juwan Morgan,1610612762,UTA,24.0,Above the Break 3,0.0,0.0,0.0,,11.0,1.0
+54,1629752,Juwan Morgan,1610612762,UTA,24.0,Backcourt,,,,,11.0,1.0
+55,1629752,Juwan Morgan,1610612762,UTA,24.0,Corner 3,,,,,11.0,1.0
+56,1629744,Matt Thomas,1610612762,UTA,26.0,Restricted Area,0.0,0.0,0.0,,11.0,1.0
+57,1629744,Matt Thomas,1610612762,UTA,26.0,In The Paint (Non-RA),0.0,0.0,0.0,,11.0,1.0
+58,1629744,Matt Thomas,1610612762,UTA,26.0,Mid-Range,0.0,2.0,0.0,,11.0,1.0
+59,1629744,Matt Thomas,1610612762,UTA,26.0,Left Corner 3,,,,,11.0,1.0
+60,1629744,Matt Thomas,1610612762,UTA,26.0,Right Corner 3,,,,,11.0,1.0
+61,1629744,Matt Thomas,1610612762,UTA,26.0,Above the Break 3,0.0,0.0,0.0,,11.0,1.0
+62,1629744,Matt Thomas,1610612762,UTA,26.0,Backcourt,,,,,11.0,1.0
+63,1629744,Matt Thomas,1610612762,UTA,26.0,Corner 3,,,,,11.0,1.0
+64,201144,Mike Conley,1610612762,UTA,33.0,Restricted Area,0.0,3.0,0.0,,11.0,1.0
+65,201144,Mike Conley,1610612762,UTA,33.0,In The Paint (Non-RA),1.0,2.0,0.5,,11.0,1.0
+66,201144,Mike Conley,1610612762,UTA,33.0,Mid-Range,0.0,2.0,0.0,,11.0,1.0
+67,201144,Mike Conley,1610612762,UTA,33.0,Left Corner 3,0.0,0.0,0.0,,11.0,1.0
+68,201144,Mike Conley,1610612762,UTA,33.0,Right Corner 3,0.0,0.0,0.0,,11.0,1.0
+69,201144,Mike Conley,1610612762,UTA,33.0,Above the Break 3,3.0,3.0,1.0,,11.0,1.0
+70,201144,Mike Conley,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,11.0,1.0
+71,201144,Mike Conley,1610612762,UTA,33.0,Corner 3,0.0,0.0,0.0,,11.0,1.0
+72,1629671,Miye Oni,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,11.0,1.0
+73,1629671,Miye Oni,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,11.0,1.0
+74,1629671,Miye Oni,1610612762,UTA,23.0,Mid-Range,0.0,0.0,0.0,,11.0,1.0
+75,1629671,Miye Oni,1610612762,UTA,23.0,Left Corner 3,1.0,1.0,1.0,,11.0,1.0
+76,1629671,Miye Oni,1610612762,UTA,23.0,Right Corner 3,0.0,0.0,0.0,,11.0,1.0
+77,1629671,Miye Oni,1610612762,UTA,23.0,Above the Break 3,0.0,0.0,0.0,,11.0,1.0
+78,1629671,Miye Oni,1610612762,UTA,23.0,Backcourt,0.0,0.0,0.0,,11.0,1.0
+79,1629671,Miye Oni,1610612762,UTA,23.0,Corner 3,1.0,1.0,1.0,,11.0,1.0
+80,1626220,Royce O'Neale,1610612762,UTA,28.0,Restricted Area,0.0,0.0,0.0,,11.0,1.0
+81,1626220,Royce O'Neale,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,11.0,1.0
+82,1626220,Royce O'Neale,1610612762,UTA,28.0,Mid-Range,1.0,1.0,1.0,,11.0,1.0
+83,1626220,Royce O'Neale,1610612762,UTA,28.0,Left Corner 3,2.0,3.0,0.667,,11.0,1.0
+84,1626220,Royce O'Neale,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,11.0,1.0
+85,1626220,Royce O'Neale,1610612762,UTA,28.0,Above the Break 3,0.0,3.0,0.0,,11.0,1.0
+86,1626220,Royce O'Neale,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,11.0,1.0
+87,1626220,Royce O'Neale,1610612762,UTA,28.0,Corner 3,2.0,3.0,0.667,,11.0,1.0
+88,203497,Rudy Gobert,1610612762,UTA,28.0,Restricted Area,6.0,6.0,1.0,,11.0,1.0
+89,203497,Rudy Gobert,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,1.0,0.0,,11.0,1.0
+90,203497,Rudy Gobert,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,11.0,1.0
+91,203497,Rudy Gobert,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,11.0,1.0
+92,203497,Rudy Gobert,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,11.0,1.0
+93,203497,Rudy Gobert,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,11.0,1.0
+94,203497,Rudy Gobert,1610612762,UTA,28.0,Backcourt,0.0,1.0,0.0,,11.0,1.0
+95,203497,Rudy Gobert,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,11.0,1.0
+96,1630235,Trent Forrest,1610612762,UTA,22.0,Restricted Area,0.0,0.0,0.0,,11.0,1.0
+97,1630235,Trent Forrest,1610612762,UTA,22.0,In The Paint (Non-RA),0.0,1.0,0.0,,11.0,1.0
+98,1630235,Trent Forrest,1610612762,UTA,22.0,Mid-Range,0.0,0.0,0.0,,11.0,1.0
+99,1630235,Trent Forrest,1610612762,UTA,22.0,Left Corner 3,,,,,11.0,1.0
+100,1630235,Trent Forrest,1610612762,UTA,22.0,Right Corner 3,,,,,11.0,1.0
+101,1630235,Trent Forrest,1610612762,UTA,22.0,Above the Break 3,0.0,0.0,0.0,,11.0,1.0
+102,1630235,Trent Forrest,1610612762,UTA,22.0,Backcourt,,,,,11.0,1.0
+103,1630235,Trent Forrest,1610612762,UTA,22.0,Corner 3,,,,,11.0,1.0
+104,1628962,Udoka Azubuike,1610612762,UTA,21.0,Restricted Area,0.0,0.0,0.0,,11.0,1.0
+105,1628962,Udoka Azubuike,1610612762,UTA,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,11.0,1.0
+106,1628962,Udoka Azubuike,1610612762,UTA,21.0,Mid-Range,0.0,0.0,0.0,,11.0,1.0
+107,1628962,Udoka Azubuike,1610612762,UTA,21.0,Left Corner 3,,,,,11.0,1.0
+108,1628962,Udoka Azubuike,1610612762,UTA,21.0,Right Corner 3,,,,,11.0,1.0
+109,1628962,Udoka Azubuike,1610612762,UTA,21.0,Above the Break 3,0.0,0.0,0.0,,11.0,1.0
+110,1628962,Udoka Azubuike,1610612762,UTA,21.0,Backcourt,,,,,11.0,1.0
+111,1628962,Udoka Azubuike,1610612762,UTA,21.0,Corner 3,,,,,11.0,1.0
+0,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Restricted Area,3.0,6.0,0.5,,12.0,1.0
+1,202711,Bojan Bogdanovic,1610612762,UTA,32.0,In The Paint (Non-RA),2.0,4.0,0.5,,12.0,1.0
+2,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Mid-Range,1.0,1.0,1.0,,12.0,1.0
+3,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Left Corner 3,0.0,0.0,0.0,,12.0,1.0
+4,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Right Corner 3,2.0,3.0,0.667,,12.0,1.0
+5,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Above the Break 3,0.0,2.0,0.0,,12.0,1.0
+6,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Backcourt,0.0,0.0,0.0,,12.0,1.0
+7,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Corner 3,2.0,3.0,0.667,,12.0,1.0
+8,202324,Derrick Favors,1610612762,UTA,29.0,Restricted Area,2.0,2.0,1.0,,12.0,1.0
+9,202324,Derrick Favors,1610612762,UTA,29.0,In The Paint (Non-RA),1.0,1.0,1.0,,12.0,1.0
+10,202324,Derrick Favors,1610612762,UTA,29.0,Mid-Range,1.0,2.0,0.5,,12.0,1.0
+11,202324,Derrick Favors,1610612762,UTA,29.0,Left Corner 3,0.0,0.0,0.0,,12.0,1.0
+12,202324,Derrick Favors,1610612762,UTA,29.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+13,202324,Derrick Favors,1610612762,UTA,29.0,Above the Break 3,0.0,0.0,0.0,,12.0,1.0
+14,202324,Derrick Favors,1610612762,UTA,29.0,Backcourt,,,,,12.0,1.0
+15,202324,Derrick Favors,1610612762,UTA,29.0,Corner 3,0.0,0.0,0.0,,12.0,1.0
+16,101141,Ersan Ilyasova,1610612762,UTA,34.0,Restricted Area,0.0,1.0,0.0,,12.0,1.0
+17,101141,Ersan Ilyasova,1610612762,UTA,34.0,In The Paint (Non-RA),0.0,0.0,0.0,,12.0,1.0
+18,101141,Ersan Ilyasova,1610612762,UTA,34.0,Mid-Range,0.0,1.0,0.0,,12.0,1.0
+19,101141,Ersan Ilyasova,1610612762,UTA,34.0,Left Corner 3,,,,,12.0,1.0
+20,101141,Ersan Ilyasova,1610612762,UTA,34.0,Right Corner 3,0.0,1.0,0.0,,12.0,1.0
+21,101141,Ersan Ilyasova,1610612762,UTA,34.0,Above the Break 3,0.0,2.0,0.0,,12.0,1.0
+22,101141,Ersan Ilyasova,1610612762,UTA,34.0,Backcourt,,,,,12.0,1.0
+23,101141,Ersan Ilyasova,1610612762,UTA,34.0,Corner 3,0.0,1.0,0.0,,12.0,1.0
+24,1627777,Georges Niang,1610612762,UTA,27.0,Restricted Area,0.0,0.0,0.0,,12.0,1.0
+25,1627777,Georges Niang,1610612762,UTA,27.0,In The Paint (Non-RA),2.0,3.0,0.667,,12.0,1.0
+26,1627777,Georges Niang,1610612762,UTA,27.0,Mid-Range,0.0,0.0,0.0,,12.0,1.0
+27,1627777,Georges Niang,1610612762,UTA,27.0,Left Corner 3,0.0,1.0,0.0,,12.0,1.0
+28,1627777,Georges Niang,1610612762,UTA,27.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+29,1627777,Georges Niang,1610612762,UTA,27.0,Above the Break 3,2.0,4.0,0.5,,12.0,1.0
+30,1627777,Georges Niang,1610612762,UTA,27.0,Backcourt,0.0,0.0,0.0,,12.0,1.0
+31,1627777,Georges Niang,1610612762,UTA,27.0,Corner 3,0.0,1.0,0.0,,12.0,1.0
+32,1629714,Jarrell Brantley,1610612762,UTA,24.0,Restricted Area,0.0,0.0,0.0,,12.0,1.0
+33,1629714,Jarrell Brantley,1610612762,UTA,24.0,In The Paint (Non-RA),1.0,2.0,0.5,,12.0,1.0
+34,1629714,Jarrell Brantley,1610612762,UTA,24.0,Mid-Range,0.0,0.0,0.0,,12.0,1.0
+35,1629714,Jarrell Brantley,1610612762,UTA,24.0,Left Corner 3,0.0,1.0,0.0,,12.0,1.0
+36,1629714,Jarrell Brantley,1610612762,UTA,24.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+37,1629714,Jarrell Brantley,1610612762,UTA,24.0,Above the Break 3,0.0,0.0,0.0,,12.0,1.0
+38,1629714,Jarrell Brantley,1610612762,UTA,24.0,Backcourt,0.0,0.0,0.0,,12.0,1.0
+39,1629714,Jarrell Brantley,1610612762,UTA,24.0,Corner 3,0.0,1.0,0.0,,12.0,1.0
+40,204060,Joe Ingles,1610612762,UTA,33.0,Restricted Area,0.0,1.0,0.0,,12.0,1.0
+41,204060,Joe Ingles,1610612762,UTA,33.0,In The Paint (Non-RA),1.0,1.0,1.0,,12.0,1.0
+42,204060,Joe Ingles,1610612762,UTA,33.0,Mid-Range,0.0,0.0,0.0,,12.0,1.0
+43,204060,Joe Ingles,1610612762,UTA,33.0,Left Corner 3,0.0,1.0,0.0,,12.0,1.0
+44,204060,Joe Ingles,1610612762,UTA,33.0,Right Corner 3,1.0,1.0,1.0,,12.0,1.0
+45,204060,Joe Ingles,1610612762,UTA,33.0,Above the Break 3,0.0,3.0,0.0,,12.0,1.0
+46,204060,Joe Ingles,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,12.0,1.0
+47,204060,Joe Ingles,1610612762,UTA,33.0,Corner 3,1.0,2.0,0.5,,12.0,1.0
+48,203903,Jordan Clarkson,1610612762,UTA,28.0,Restricted Area,1.0,2.0,0.5,,12.0,1.0
+49,203903,Jordan Clarkson,1610612762,UTA,28.0,In The Paint (Non-RA),2.0,5.0,0.4,,12.0,1.0
+50,203903,Jordan Clarkson,1610612762,UTA,28.0,Mid-Range,0.0,1.0,0.0,,12.0,1.0
+51,203903,Jordan Clarkson,1610612762,UTA,28.0,Left Corner 3,0.0,1.0,0.0,,12.0,1.0
+52,203903,Jordan Clarkson,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+53,203903,Jordan Clarkson,1610612762,UTA,28.0,Above the Break 3,4.0,9.0,0.444,,12.0,1.0
+54,203903,Jordan Clarkson,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,12.0,1.0
+55,203903,Jordan Clarkson,1610612762,UTA,28.0,Corner 3,0.0,1.0,0.0,,12.0,1.0
+56,1629752,Juwan Morgan,1610612762,UTA,24.0,Restricted Area,1.0,2.0,0.5,,12.0,1.0
+57,1629752,Juwan Morgan,1610612762,UTA,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,12.0,1.0
+58,1629752,Juwan Morgan,1610612762,UTA,24.0,Mid-Range,0.0,0.0,0.0,,12.0,1.0
+59,1629752,Juwan Morgan,1610612762,UTA,24.0,Left Corner 3,0.0,0.0,0.0,,12.0,1.0
+60,1629752,Juwan Morgan,1610612762,UTA,24.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+61,1629752,Juwan Morgan,1610612762,UTA,24.0,Above the Break 3,0.0,0.0,0.0,,12.0,1.0
+62,1629752,Juwan Morgan,1610612762,UTA,24.0,Backcourt,0.0,0.0,0.0,,12.0,1.0
+63,1629752,Juwan Morgan,1610612762,UTA,24.0,Corner 3,0.0,0.0,0.0,,12.0,1.0
+64,1629744,Matt Thomas,1610612762,UTA,26.0,Restricted Area,0.0,0.0,0.0,,12.0,1.0
+65,1629744,Matt Thomas,1610612762,UTA,26.0,In The Paint (Non-RA),0.0,0.0,0.0,,12.0,1.0
+66,1629744,Matt Thomas,1610612762,UTA,26.0,Mid-Range,0.0,0.0,0.0,,12.0,1.0
+67,1629744,Matt Thomas,1610612762,UTA,26.0,Left Corner 3,0.0,0.0,0.0,,12.0,1.0
+68,1629744,Matt Thomas,1610612762,UTA,26.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+69,1629744,Matt Thomas,1610612762,UTA,26.0,Above the Break 3,0.0,1.0,0.0,,12.0,1.0
+70,1629744,Matt Thomas,1610612762,UTA,26.0,Backcourt,,,,,12.0,1.0
+71,1629744,Matt Thomas,1610612762,UTA,26.0,Corner 3,0.0,0.0,0.0,,12.0,1.0
+72,201144,Mike Conley,1610612762,UTA,33.0,Restricted Area,0.0,0.0,0.0,,12.0,1.0
+73,201144,Mike Conley,1610612762,UTA,33.0,In The Paint (Non-RA),0.0,3.0,0.0,,12.0,1.0
+74,201144,Mike Conley,1610612762,UTA,33.0,Mid-Range,1.0,1.0,1.0,,12.0,1.0
+75,201144,Mike Conley,1610612762,UTA,33.0,Left Corner 3,0.0,0.0,0.0,,12.0,1.0
+76,201144,Mike Conley,1610612762,UTA,33.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+77,201144,Mike Conley,1610612762,UTA,33.0,Above the Break 3,1.0,3.0,0.333,,12.0,1.0
+78,201144,Mike Conley,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,12.0,1.0
+79,201144,Mike Conley,1610612762,UTA,33.0,Corner 3,0.0,0.0,0.0,,12.0,1.0
+80,1629671,Miye Oni,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,12.0,1.0
+81,1629671,Miye Oni,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,12.0,1.0
+82,1629671,Miye Oni,1610612762,UTA,23.0,Mid-Range,0.0,0.0,0.0,,12.0,1.0
+83,1629671,Miye Oni,1610612762,UTA,23.0,Left Corner 3,0.0,0.0,0.0,,12.0,1.0
+84,1629671,Miye Oni,1610612762,UTA,23.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+85,1629671,Miye Oni,1610612762,UTA,23.0,Above the Break 3,0.0,1.0,0.0,,12.0,1.0
+86,1629671,Miye Oni,1610612762,UTA,23.0,Backcourt,,,,,12.0,1.0
+87,1629671,Miye Oni,1610612762,UTA,23.0,Corner 3,0.0,0.0,0.0,,12.0,1.0
+88,1626220,Royce O'Neale,1610612762,UTA,28.0,Restricted Area,0.0,0.0,0.0,,12.0,1.0
+89,1626220,Royce O'Neale,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,12.0,1.0
+90,1626220,Royce O'Neale,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,12.0,1.0
+91,1626220,Royce O'Neale,1610612762,UTA,28.0,Left Corner 3,1.0,1.0,1.0,,12.0,1.0
+92,1626220,Royce O'Neale,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+93,1626220,Royce O'Neale,1610612762,UTA,28.0,Above the Break 3,1.0,2.0,0.5,,12.0,1.0
+94,1626220,Royce O'Neale,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,12.0,1.0
+95,1626220,Royce O'Neale,1610612762,UTA,28.0,Corner 3,1.0,1.0,1.0,,12.0,1.0
+96,203497,Rudy Gobert,1610612762,UTA,28.0,Restricted Area,5.0,8.0,0.625,,12.0,1.0
+97,203497,Rudy Gobert,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,1.0,0.0,,12.0,1.0
+98,203497,Rudy Gobert,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,12.0,1.0
+99,203497,Rudy Gobert,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,12.0,1.0
+100,203497,Rudy Gobert,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+101,203497,Rudy Gobert,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,12.0,1.0
+102,203497,Rudy Gobert,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,12.0,1.0
+103,203497,Rudy Gobert,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,12.0,1.0
+104,1630235,Trent Forrest,1610612762,UTA,22.0,Restricted Area,1.0,1.0,1.0,,12.0,1.0
+105,1630235,Trent Forrest,1610612762,UTA,22.0,In The Paint (Non-RA),1.0,2.0,0.5,,12.0,1.0
+106,1630235,Trent Forrest,1610612762,UTA,22.0,Mid-Range,1.0,1.0,1.0,,12.0,1.0
+107,1630235,Trent Forrest,1610612762,UTA,22.0,Left Corner 3,1.0,1.0,1.0,,12.0,1.0
+108,1630235,Trent Forrest,1610612762,UTA,22.0,Right Corner 3,0.0,0.0,0.0,,12.0,1.0
+109,1630235,Trent Forrest,1610612762,UTA,22.0,Above the Break 3,0.0,1.0,0.0,,12.0,1.0
+110,1630235,Trent Forrest,1610612762,UTA,22.0,Backcourt,0.0,0.0,0.0,,12.0,1.0
+111,1630235,Trent Forrest,1610612762,UTA,22.0,Corner 3,1.0,1.0,1.0,,12.0,1.0
+112,1628962,Udoka Azubuike,1610612762,UTA,21.0,Restricted Area,0.0,1.0,0.0,,12.0,1.0
+113,1628962,Udoka Azubuike,1610612762,UTA,21.0,In The Paint (Non-RA),0.0,1.0,0.0,,12.0,1.0
+114,1628962,Udoka Azubuike,1610612762,UTA,21.0,Mid-Range,0.0,0.0,0.0,,12.0,1.0
+115,1628962,Udoka Azubuike,1610612762,UTA,21.0,Left Corner 3,0.0,0.0,0.0,,12.0,1.0
+116,1628962,Udoka Azubuike,1610612762,UTA,21.0,Right Corner 3,,,,,12.0,1.0
+117,1628962,Udoka Azubuike,1610612762,UTA,21.0,Above the Break 3,,,,,12.0,1.0
+118,1628962,Udoka Azubuike,1610612762,UTA,21.0,Backcourt,,,,,12.0,1.0
+119,1628962,Udoka Azubuike,1610612762,UTA,21.0,Corner 3,0.0,0.0,0.0,,12.0,1.0
+0,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Restricted Area,3.0,5.0,0.6,,13.0,0.0
+1,202711,Bojan Bogdanovic,1610612762,UTA,32.0,In The Paint (Non-RA),1.0,2.0,0.5,,13.0,0.0
+2,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Mid-Range,1.0,2.0,0.5,,13.0,0.0
+3,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Left Corner 3,0.0,0.0,0.0,,13.0,0.0
+4,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Right Corner 3,0.0,2.0,0.0,,13.0,0.0
+5,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Above the Break 3,0.0,3.0,0.0,,13.0,0.0
+6,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Backcourt,0.0,0.0,0.0,,13.0,0.0
+7,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Corner 3,0.0,2.0,0.0,,13.0,0.0
+8,202324,Derrick Favors,1610612762,UTA,29.0,Restricted Area,0.0,0.0,0.0,,13.0,0.0
+9,202324,Derrick Favors,1610612762,UTA,29.0,In The Paint (Non-RA),1.0,1.0,1.0,,13.0,0.0
+10,202324,Derrick Favors,1610612762,UTA,29.0,Mid-Range,0.0,1.0,0.0,,13.0,0.0
+11,202324,Derrick Favors,1610612762,UTA,29.0,Left Corner 3,0.0,0.0,0.0,,13.0,0.0
+12,202324,Derrick Favors,1610612762,UTA,29.0,Right Corner 3,0.0,0.0,0.0,,13.0,0.0
+13,202324,Derrick Favors,1610612762,UTA,29.0,Above the Break 3,0.0,0.0,0.0,,13.0,0.0
+14,202324,Derrick Favors,1610612762,UTA,29.0,Backcourt,0.0,0.0,0.0,,13.0,0.0
+15,202324,Derrick Favors,1610612762,UTA,29.0,Corner 3,0.0,0.0,0.0,,13.0,0.0
+16,1630190,Elijah Hughes,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,13.0,0.0
+17,1630190,Elijah Hughes,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,13.0,0.0
+18,1630190,Elijah Hughes,1610612762,UTA,23.0,Mid-Range,,,,,13.0,0.0
+19,1630190,Elijah Hughes,1610612762,UTA,23.0,Left Corner 3,0.0,0.0,0.0,,13.0,0.0
+20,1630190,Elijah Hughes,1610612762,UTA,23.0,Right Corner 3,0.0,0.0,0.0,,13.0,0.0
+21,1630190,Elijah Hughes,1610612762,UTA,23.0,Above the Break 3,0.0,0.0,0.0,,13.0,0.0
+22,1630190,Elijah Hughes,1610612762,UTA,23.0,Backcourt,,,,,13.0,0.0
+23,1630190,Elijah Hughes,1610612762,UTA,23.0,Corner 3,0.0,0.0,0.0,,13.0,0.0
+24,1627777,Georges Niang,1610612762,UTA,27.0,Restricted Area,0.0,0.0,0.0,,13.0,0.0
+25,1627777,Georges Niang,1610612762,UTA,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,13.0,0.0
+26,1627777,Georges Niang,1610612762,UTA,27.0,Mid-Range,0.0,1.0,0.0,,13.0,0.0
+27,1627777,Georges Niang,1610612762,UTA,27.0,Left Corner 3,1.0,1.0,1.0,,13.0,0.0
+28,1627777,Georges Niang,1610612762,UTA,27.0,Right Corner 3,0.0,1.0,0.0,,13.0,0.0
+29,1627777,Georges Niang,1610612762,UTA,27.0,Above the Break 3,2.0,4.0,0.5,,13.0,0.0
+30,1627777,Georges Niang,1610612762,UTA,27.0,Backcourt,0.0,0.0,0.0,,13.0,0.0
+31,1627777,Georges Niang,1610612762,UTA,27.0,Corner 3,1.0,2.0,0.5,,13.0,0.0
+32,1629714,Jarrell Brantley,1610612762,UTA,24.0,Restricted Area,0.0,1.0,0.0,,13.0,0.0
+33,1629714,Jarrell Brantley,1610612762,UTA,24.0,In The Paint (Non-RA),1.0,1.0,1.0,,13.0,0.0
+34,1629714,Jarrell Brantley,1610612762,UTA,24.0,Mid-Range,,,,,13.0,0.0
+35,1629714,Jarrell Brantley,1610612762,UTA,24.0,Left Corner 3,1.0,1.0,1.0,,13.0,0.0
+36,1629714,Jarrell Brantley,1610612762,UTA,24.0,Right Corner 3,0.0,0.0,0.0,,13.0,0.0
+37,1629714,Jarrell Brantley,1610612762,UTA,24.0,Above the Break 3,0.0,0.0,0.0,,13.0,0.0
+38,1629714,Jarrell Brantley,1610612762,UTA,24.0,Backcourt,,,,,13.0,0.0
+39,1629714,Jarrell Brantley,1610612762,UTA,24.0,Corner 3,1.0,1.0,1.0,,13.0,0.0
+40,204060,Joe Ingles,1610612762,UTA,33.0,Restricted Area,1.0,4.0,0.25,,13.0,0.0
+41,204060,Joe Ingles,1610612762,UTA,33.0,In The Paint (Non-RA),0.0,0.0,0.0,,13.0,0.0
+42,204060,Joe Ingles,1610612762,UTA,33.0,Mid-Range,0.0,0.0,0.0,,13.0,0.0
+43,204060,Joe Ingles,1610612762,UTA,33.0,Left Corner 3,0.0,0.0,0.0,,13.0,0.0
+44,204060,Joe Ingles,1610612762,UTA,33.0,Right Corner 3,0.0,1.0,0.0,,13.0,0.0
+45,204060,Joe Ingles,1610612762,UTA,33.0,Above the Break 3,3.0,8.0,0.375,,13.0,0.0
+46,204060,Joe Ingles,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,13.0,0.0
+47,204060,Joe Ingles,1610612762,UTA,33.0,Corner 3,0.0,1.0,0.0,,13.0,0.0
+48,203903,Jordan Clarkson,1610612762,UTA,28.0,Restricted Area,3.0,4.0,0.75,,13.0,0.0
+49,203903,Jordan Clarkson,1610612762,UTA,28.0,In The Paint (Non-RA),3.0,3.0,1.0,,13.0,0.0
+50,203903,Jordan Clarkson,1610612762,UTA,28.0,Mid-Range,2.0,2.0,1.0,,13.0,0.0
+51,203903,Jordan Clarkson,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,13.0,0.0
+52,203903,Jordan Clarkson,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,13.0,0.0
+53,203903,Jordan Clarkson,1610612762,UTA,28.0,Above the Break 3,3.0,8.0,0.375,,13.0,0.0
+54,203903,Jordan Clarkson,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,13.0,0.0
+55,203903,Jordan Clarkson,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,13.0,0.0
+56,1629744,Matt Thomas,1610612762,UTA,26.0,Restricted Area,0.0,0.0,0.0,,13.0,0.0
+57,1629744,Matt Thomas,1610612762,UTA,26.0,In The Paint (Non-RA),0.0,0.0,0.0,,13.0,0.0
+58,1629744,Matt Thomas,1610612762,UTA,26.0,Mid-Range,0.0,0.0,0.0,,13.0,0.0
+59,1629744,Matt Thomas,1610612762,UTA,26.0,Left Corner 3,0.0,0.0,0.0,,13.0,0.0
+60,1629744,Matt Thomas,1610612762,UTA,26.0,Right Corner 3,0.0,2.0,0.0,,13.0,0.0
+61,1629744,Matt Thomas,1610612762,UTA,26.0,Above the Break 3,0.0,0.0,0.0,,13.0,0.0
+62,1629744,Matt Thomas,1610612762,UTA,26.0,Backcourt,,,,,13.0,0.0
+63,1629744,Matt Thomas,1610612762,UTA,26.0,Corner 3,0.0,2.0,0.0,,13.0,0.0
+64,1629671,Miye Oni,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,13.0,0.0
+65,1629671,Miye Oni,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,13.0,0.0
+66,1629671,Miye Oni,1610612762,UTA,23.0,Mid-Range,0.0,0.0,0.0,,13.0,0.0
+67,1629671,Miye Oni,1610612762,UTA,23.0,Left Corner 3,0.0,1.0,0.0,,13.0,0.0
+68,1629671,Miye Oni,1610612762,UTA,23.0,Right Corner 3,0.0,0.0,0.0,,13.0,0.0
+69,1629671,Miye Oni,1610612762,UTA,23.0,Above the Break 3,1.0,1.0,1.0,,13.0,0.0
+70,1629671,Miye Oni,1610612762,UTA,23.0,Backcourt,0.0,0.0,0.0,,13.0,0.0
+71,1629671,Miye Oni,1610612762,UTA,23.0,Corner 3,0.0,1.0,0.0,,13.0,0.0
+72,1626220,Royce O'Neale,1610612762,UTA,28.0,Restricted Area,1.0,4.0,0.25,,13.0,0.0
+73,1626220,Royce O'Neale,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,1.0,0.0,,13.0,0.0
+74,1626220,Royce O'Neale,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,13.0,0.0
+75,1626220,Royce O'Neale,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,13.0,0.0
+76,1626220,Royce O'Neale,1610612762,UTA,28.0,Right Corner 3,0.0,1.0,0.0,,13.0,0.0
+77,1626220,Royce O'Neale,1610612762,UTA,28.0,Above the Break 3,0.0,2.0,0.0,,13.0,0.0
+78,1626220,Royce O'Neale,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,13.0,0.0
+79,1626220,Royce O'Neale,1610612762,UTA,28.0,Corner 3,0.0,1.0,0.0,,13.0,0.0
+80,203497,Rudy Gobert,1610612762,UTA,28.0,Restricted Area,6.0,8.0,0.75,,13.0,0.0
+81,203497,Rudy Gobert,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,13.0,0.0
+82,203497,Rudy Gobert,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,13.0,0.0
+83,203497,Rudy Gobert,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,13.0,0.0
+84,203497,Rudy Gobert,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,13.0,0.0
+85,203497,Rudy Gobert,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,13.0,0.0
+86,203497,Rudy Gobert,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,13.0,0.0
+87,203497,Rudy Gobert,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,13.0,0.0
+88,1630235,Trent Forrest,1610612762,UTA,22.0,Restricted Area,0.0,2.0,0.0,,13.0,0.0
+89,1630235,Trent Forrest,1610612762,UTA,22.0,In The Paint (Non-RA),0.0,3.0,0.0,,13.0,0.0
+90,1630235,Trent Forrest,1610612762,UTA,22.0,Mid-Range,0.0,0.0,0.0,,13.0,0.0
+91,1630235,Trent Forrest,1610612762,UTA,22.0,Left Corner 3,0.0,0.0,0.0,,13.0,0.0
+92,1630235,Trent Forrest,1610612762,UTA,22.0,Right Corner 3,1.0,3.0,0.333,,13.0,0.0
+93,1630235,Trent Forrest,1610612762,UTA,22.0,Above the Break 3,0.0,1.0,0.0,,13.0,0.0
+94,1630235,Trent Forrest,1610612762,UTA,22.0,Backcourt,0.0,0.0,0.0,,13.0,0.0
+95,1630235,Trent Forrest,1610612762,UTA,22.0,Corner 3,1.0,3.0,0.333,,13.0,0.0
+96,1628962,Udoka Azubuike,1610612762,UTA,21.0,Restricted Area,0.0,0.0,0.0,,13.0,0.0
+97,1628962,Udoka Azubuike,1610612762,UTA,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,13.0,0.0
+98,1628962,Udoka Azubuike,1610612762,UTA,21.0,Mid-Range,,,,,13.0,0.0
+99,1628962,Udoka Azubuike,1610612762,UTA,21.0,Left Corner 3,0.0,0.0,0.0,,13.0,0.0
+100,1628962,Udoka Azubuike,1610612762,UTA,21.0,Right Corner 3,0.0,0.0,0.0,,13.0,0.0
+101,1628962,Udoka Azubuike,1610612762,UTA,21.0,Above the Break 3,0.0,0.0,0.0,,13.0,0.0
+102,1628962,Udoka Azubuike,1610612762,UTA,21.0,Backcourt,,,,,13.0,0.0
+103,1628962,Udoka Azubuike,1610612762,UTA,21.0,Corner 3,0.0,0.0,0.0,,13.0,0.0
+0,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Restricted Area,1.0,7.0,0.143,,14.0,0.0
+1,202711,Bojan Bogdanovic,1610612762,UTA,32.0,In The Paint (Non-RA),3.0,3.0,1.0,,14.0,0.0
+2,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Mid-Range,1.0,3.0,0.333,,14.0,0.0
+3,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Left Corner 3,2.0,2.0,1.0,,14.0,0.0
+4,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Right Corner 3,0.0,0.0,0.0,,14.0,0.0
+5,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Above the Break 3,2.0,6.0,0.333,,14.0,0.0
+6,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Backcourt,,,,,14.0,0.0
+7,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Corner 3,2.0,2.0,1.0,,14.0,0.0
+8,202324,Derrick Favors,1610612762,UTA,29.0,Restricted Area,0.0,0.0,0.0,,14.0,0.0
+9,202324,Derrick Favors,1610612762,UTA,29.0,In The Paint (Non-RA),0.0,1.0,0.0,,14.0,0.0
+10,202324,Derrick Favors,1610612762,UTA,29.0,Mid-Range,0.0,0.0,0.0,,14.0,0.0
+11,202324,Derrick Favors,1610612762,UTA,29.0,Left Corner 3,0.0,0.0,0.0,,14.0,0.0
+12,202324,Derrick Favors,1610612762,UTA,29.0,Right Corner 3,0.0,0.0,0.0,,14.0,0.0
+13,202324,Derrick Favors,1610612762,UTA,29.0,Above the Break 3,0.0,0.0,0.0,,14.0,0.0
+14,202324,Derrick Favors,1610612762,UTA,29.0,Backcourt,,,,,14.0,0.0
+15,202324,Derrick Favors,1610612762,UTA,29.0,Corner 3,0.0,0.0,0.0,,14.0,0.0
+16,1627777,Georges Niang,1610612762,UTA,27.0,Restricted Area,0.0,0.0,0.0,,14.0,0.0
+17,1627777,Georges Niang,1610612762,UTA,27.0,In The Paint (Non-RA),1.0,3.0,0.333,,14.0,0.0
+18,1627777,Georges Niang,1610612762,UTA,27.0,Mid-Range,0.0,0.0,0.0,,14.0,0.0
+19,1627777,Georges Niang,1610612762,UTA,27.0,Left Corner 3,0.0,0.0,0.0,,14.0,0.0
+20,1627777,Georges Niang,1610612762,UTA,27.0,Right Corner 3,0.0,0.0,0.0,,14.0,0.0
+21,1627777,Georges Niang,1610612762,UTA,27.0,Above the Break 3,1.0,4.0,0.25,,14.0,0.0
+22,1627777,Georges Niang,1610612762,UTA,27.0,Backcourt,0.0,0.0,0.0,,14.0,0.0
+23,1627777,Georges Niang,1610612762,UTA,27.0,Corner 3,0.0,0.0,0.0,,14.0,0.0
+24,204060,Joe Ingles,1610612762,UTA,33.0,Restricted Area,0.0,0.0,0.0,,14.0,0.0
+25,204060,Joe Ingles,1610612762,UTA,33.0,In The Paint (Non-RA),0.0,0.0,0.0,,14.0,0.0
+26,204060,Joe Ingles,1610612762,UTA,33.0,Mid-Range,1.0,1.0,1.0,,14.0,0.0
+27,204060,Joe Ingles,1610612762,UTA,33.0,Left Corner 3,0.0,0.0,0.0,,14.0,0.0
+28,204060,Joe Ingles,1610612762,UTA,33.0,Right Corner 3,0.0,0.0,0.0,,14.0,0.0
+29,204060,Joe Ingles,1610612762,UTA,33.0,Above the Break 3,1.0,6.0,0.167,,14.0,0.0
+30,204060,Joe Ingles,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,14.0,0.0
+31,204060,Joe Ingles,1610612762,UTA,33.0,Corner 3,0.0,0.0,0.0,,14.0,0.0
+32,203903,Jordan Clarkson,1610612762,UTA,28.0,Restricted Area,4.0,5.0,0.8,,14.0,0.0
+33,203903,Jordan Clarkson,1610612762,UTA,28.0,In The Paint (Non-RA),7.0,11.0,0.636,,14.0,0.0
+34,203903,Jordan Clarkson,1610612762,UTA,28.0,Mid-Range,0.0,1.0,0.0,,14.0,0.0
+35,203903,Jordan Clarkson,1610612762,UTA,28.0,Left Corner 3,0.0,1.0,0.0,,14.0,0.0
+36,203903,Jordan Clarkson,1610612762,UTA,28.0,Right Corner 3,0.0,3.0,0.0,,14.0,0.0
+37,203903,Jordan Clarkson,1610612762,UTA,28.0,Above the Break 3,5.0,12.0,0.417,,14.0,0.0
+38,203903,Jordan Clarkson,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,14.0,0.0
+39,203903,Jordan Clarkson,1610612762,UTA,28.0,Corner 3,0.0,4.0,0.0,,14.0,0.0
+40,1629744,Matt Thomas,1610612762,UTA,26.0,Restricted Area,0.0,0.0,0.0,,14.0,0.0
+41,1629744,Matt Thomas,1610612762,UTA,26.0,In The Paint (Non-RA),1.0,1.0,1.0,,14.0,0.0
+42,1629744,Matt Thomas,1610612762,UTA,26.0,Mid-Range,0.0,0.0,0.0,,14.0,0.0
+43,1629744,Matt Thomas,1610612762,UTA,26.0,Left Corner 3,0.0,0.0,0.0,,14.0,0.0
+44,1629744,Matt Thomas,1610612762,UTA,26.0,Right Corner 3,,,,,14.0,0.0
+45,1629744,Matt Thomas,1610612762,UTA,26.0,Above the Break 3,0.0,0.0,0.0,,14.0,0.0
+46,1629744,Matt Thomas,1610612762,UTA,26.0,Backcourt,,,,,14.0,0.0
+47,1629744,Matt Thomas,1610612762,UTA,26.0,Corner 3,0.0,0.0,0.0,,14.0,0.0
+48,1629671,Miye Oni,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,14.0,0.0
+49,1629671,Miye Oni,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,14.0,0.0
+50,1629671,Miye Oni,1610612762,UTA,23.0,Mid-Range,0.0,0.0,0.0,,14.0,0.0
+51,1629671,Miye Oni,1610612762,UTA,23.0,Left Corner 3,0.0,1.0,0.0,,14.0,0.0
+52,1629671,Miye Oni,1610612762,UTA,23.0,Right Corner 3,0.0,0.0,0.0,,14.0,0.0
+53,1629671,Miye Oni,1610612762,UTA,23.0,Above the Break 3,0.0,1.0,0.0,,14.0,0.0
+54,1629671,Miye Oni,1610612762,UTA,23.0,Backcourt,0.0,0.0,0.0,,14.0,0.0
+55,1629671,Miye Oni,1610612762,UTA,23.0,Corner 3,0.0,1.0,0.0,,14.0,0.0
+56,1626220,Royce O'Neale,1610612762,UTA,28.0,Restricted Area,2.0,3.0,0.667,,14.0,0.0
+57,1626220,Royce O'Neale,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,14.0,0.0
+58,1626220,Royce O'Neale,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,14.0,0.0
+59,1626220,Royce O'Neale,1610612762,UTA,28.0,Left Corner 3,1.0,2.0,0.5,,14.0,0.0
+60,1626220,Royce O'Neale,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,14.0,0.0
+61,1626220,Royce O'Neale,1610612762,UTA,28.0,Above the Break 3,1.0,4.0,0.25,,14.0,0.0
+62,1626220,Royce O'Neale,1610612762,UTA,28.0,Backcourt,,,,,14.0,0.0
+63,1626220,Royce O'Neale,1610612762,UTA,28.0,Corner 3,1.0,2.0,0.5,,14.0,0.0
+64,203497,Rudy Gobert,1610612762,UTA,28.0,Restricted Area,4.0,6.0,0.667,,14.0,0.0
+65,203497,Rudy Gobert,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,14.0,0.0
+66,203497,Rudy Gobert,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,14.0,0.0
+67,203497,Rudy Gobert,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,14.0,0.0
+68,203497,Rudy Gobert,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,14.0,0.0
+69,203497,Rudy Gobert,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,14.0,0.0
+70,203497,Rudy Gobert,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,14.0,0.0
+71,203497,Rudy Gobert,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,14.0,0.0
+72,1630235,Trent Forrest,1610612762,UTA,22.0,Restricted Area,2.0,2.0,1.0,,14.0,0.0
+73,1630235,Trent Forrest,1610612762,UTA,22.0,In The Paint (Non-RA),1.0,1.0,1.0,,14.0,0.0
+74,1630235,Trent Forrest,1610612762,UTA,22.0,Mid-Range,0.0,0.0,0.0,,14.0,0.0
+75,1630235,Trent Forrest,1610612762,UTA,22.0,Left Corner 3,0.0,0.0,0.0,,14.0,0.0
+76,1630235,Trent Forrest,1610612762,UTA,22.0,Right Corner 3,0.0,1.0,0.0,,14.0,0.0
+77,1630235,Trent Forrest,1610612762,UTA,22.0,Above the Break 3,0.0,0.0,0.0,,14.0,0.0
+78,1630235,Trent Forrest,1610612762,UTA,22.0,Backcourt,,,,,14.0,0.0
+79,1630235,Trent Forrest,1610612762,UTA,22.0,Corner 3,0.0,1.0,0.0,,14.0,0.0
+0,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Restricted Area,4.0,5.0,0.8,,15.0,1.0
+1,202711,Bojan Bogdanovic,1610612762,UTA,32.0,In The Paint (Non-RA),1.0,6.0,0.167,,15.0,1.0
+2,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Mid-Range,1.0,1.0,1.0,,15.0,1.0
+3,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Left Corner 3,0.0,1.0,0.0,,15.0,1.0
+4,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Right Corner 3,0.0,0.0,0.0,,15.0,1.0
+5,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Above the Break 3,1.0,3.0,0.333,,15.0,1.0
+6,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Backcourt,0.0,0.0,0.0,,15.0,1.0
+7,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Corner 3,0.0,1.0,0.0,,15.0,1.0
+8,202324,Derrick Favors,1610612762,UTA,29.0,Restricted Area,2.0,2.0,1.0,,15.0,1.0
+9,202324,Derrick Favors,1610612762,UTA,29.0,In The Paint (Non-RA),0.0,0.0,0.0,,15.0,1.0
+10,202324,Derrick Favors,1610612762,UTA,29.0,Mid-Range,0.0,0.0,0.0,,15.0,1.0
+11,202324,Derrick Favors,1610612762,UTA,29.0,Left Corner 3,0.0,0.0,0.0,,15.0,1.0
+12,202324,Derrick Favors,1610612762,UTA,29.0,Right Corner 3,0.0,0.0,0.0,,15.0,1.0
+13,202324,Derrick Favors,1610612762,UTA,29.0,Above the Break 3,0.0,0.0,0.0,,15.0,1.0
+14,202324,Derrick Favors,1610612762,UTA,29.0,Backcourt,,,,,15.0,1.0
+15,202324,Derrick Favors,1610612762,UTA,29.0,Corner 3,0.0,0.0,0.0,,15.0,1.0
+16,1627777,Georges Niang,1610612762,UTA,27.0,Restricted Area,1.0,1.0,1.0,,15.0,1.0
+17,1627777,Georges Niang,1610612762,UTA,27.0,In The Paint (Non-RA),2.0,3.0,0.667,,15.0,1.0
+18,1627777,Georges Niang,1610612762,UTA,27.0,Mid-Range,0.0,0.0,0.0,,15.0,1.0
+19,1627777,Georges Niang,1610612762,UTA,27.0,Left Corner 3,3.0,4.0,0.75,,15.0,1.0
+20,1627777,Georges Niang,1610612762,UTA,27.0,Right Corner 3,2.0,2.0,1.0,,15.0,1.0
+21,1627777,Georges Niang,1610612762,UTA,27.0,Above the Break 3,1.0,2.0,0.5,,15.0,1.0
+22,1627777,Georges Niang,1610612762,UTA,27.0,Backcourt,0.0,0.0,0.0,,15.0,1.0
+23,1627777,Georges Niang,1610612762,UTA,27.0,Corner 3,5.0,6.0,0.833,,15.0,1.0
+24,204060,Joe Ingles,1610612762,UTA,33.0,Restricted Area,4.0,4.0,1.0,,15.0,1.0
+25,204060,Joe Ingles,1610612762,UTA,33.0,In The Paint (Non-RA),0.0,0.0,0.0,,15.0,1.0
+26,204060,Joe Ingles,1610612762,UTA,33.0,Mid-Range,0.0,0.0,0.0,,15.0,1.0
+27,204060,Joe Ingles,1610612762,UTA,33.0,Left Corner 3,0.0,0.0,0.0,,15.0,1.0
+28,204060,Joe Ingles,1610612762,UTA,33.0,Right Corner 3,0.0,1.0,0.0,,15.0,1.0
+29,204060,Joe Ingles,1610612762,UTA,33.0,Above the Break 3,2.0,5.0,0.4,,15.0,1.0
+30,204060,Joe Ingles,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,15.0,1.0
+31,204060,Joe Ingles,1610612762,UTA,33.0,Corner 3,0.0,1.0,0.0,,15.0,1.0
+32,203903,Jordan Clarkson,1610612762,UTA,28.0,Restricted Area,2.0,2.0,1.0,,15.0,1.0
+33,203903,Jordan Clarkson,1610612762,UTA,28.0,In The Paint (Non-RA),4.0,8.0,0.5,,15.0,1.0
+34,203903,Jordan Clarkson,1610612762,UTA,28.0,Mid-Range,0.0,1.0,0.0,,15.0,1.0
+35,203903,Jordan Clarkson,1610612762,UTA,28.0,Left Corner 3,0.0,1.0,0.0,,15.0,1.0
+36,203903,Jordan Clarkson,1610612762,UTA,28.0,Right Corner 3,0.0,1.0,0.0,,15.0,1.0
+37,203903,Jordan Clarkson,1610612762,UTA,28.0,Above the Break 3,2.0,5.0,0.4,,15.0,1.0
+38,203903,Jordan Clarkson,1610612762,UTA,28.0,Backcourt,,,,,15.0,1.0
+39,203903,Jordan Clarkson,1610612762,UTA,28.0,Corner 3,0.0,2.0,0.0,,15.0,1.0
+40,1629744,Matt Thomas,1610612762,UTA,26.0,Restricted Area,0.0,0.0,0.0,,15.0,1.0
+41,1629744,Matt Thomas,1610612762,UTA,26.0,In The Paint (Non-RA),0.0,1.0,0.0,,15.0,1.0
+42,1629744,Matt Thomas,1610612762,UTA,26.0,Mid-Range,1.0,1.0,1.0,,15.0,1.0
+43,1629744,Matt Thomas,1610612762,UTA,26.0,Left Corner 3,0.0,0.0,0.0,,15.0,1.0
+44,1629744,Matt Thomas,1610612762,UTA,26.0,Right Corner 3,1.0,1.0,1.0,,15.0,1.0
+45,1629744,Matt Thomas,1610612762,UTA,26.0,Above the Break 3,0.0,2.0,0.0,,15.0,1.0
+46,1629744,Matt Thomas,1610612762,UTA,26.0,Backcourt,0.0,0.0,0.0,,15.0,1.0
+47,1629744,Matt Thomas,1610612762,UTA,26.0,Corner 3,1.0,1.0,1.0,,15.0,1.0
+48,1629671,Miye Oni,1610612762,UTA,23.0,Restricted Area,0.0,1.0,0.0,,15.0,1.0
+49,1629671,Miye Oni,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,15.0,1.0
+50,1629671,Miye Oni,1610612762,UTA,23.0,Mid-Range,0.0,0.0,0.0,,15.0,1.0
+51,1629671,Miye Oni,1610612762,UTA,23.0,Left Corner 3,0.0,0.0,0.0,,15.0,1.0
+52,1629671,Miye Oni,1610612762,UTA,23.0,Right Corner 3,0.0,1.0,0.0,,15.0,1.0
+53,1629671,Miye Oni,1610612762,UTA,23.0,Above the Break 3,0.0,0.0,0.0,,15.0,1.0
+54,1629671,Miye Oni,1610612762,UTA,23.0,Backcourt,0.0,0.0,0.0,,15.0,1.0
+55,1629671,Miye Oni,1610612762,UTA,23.0,Corner 3,0.0,1.0,0.0,,15.0,1.0
+56,1626220,Royce O'Neale,1610612762,UTA,28.0,Restricted Area,1.0,1.0,1.0,,15.0,1.0
+57,1626220,Royce O'Neale,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,15.0,1.0
+58,1626220,Royce O'Neale,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,15.0,1.0
+59,1626220,Royce O'Neale,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,15.0,1.0
+60,1626220,Royce O'Neale,1610612762,UTA,28.0,Right Corner 3,1.0,1.0,1.0,,15.0,1.0
+61,1626220,Royce O'Neale,1610612762,UTA,28.0,Above the Break 3,2.0,5.0,0.4,,15.0,1.0
+62,1626220,Royce O'Neale,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,15.0,1.0
+63,1626220,Royce O'Neale,1610612762,UTA,28.0,Corner 3,1.0,1.0,1.0,,15.0,1.0
+64,203497,Rudy Gobert,1610612762,UTA,28.0,Restricted Area,6.0,9.0,0.667,,15.0,1.0
+65,203497,Rudy Gobert,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,15.0,1.0
+66,203497,Rudy Gobert,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,15.0,1.0
+67,203497,Rudy Gobert,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,15.0,1.0
+68,203497,Rudy Gobert,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,15.0,1.0
+69,203497,Rudy Gobert,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,15.0,1.0
+70,203497,Rudy Gobert,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,15.0,1.0
+71,203497,Rudy Gobert,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,15.0,1.0
+72,1630235,Trent Forrest,1610612762,UTA,22.0,Restricted Area,0.0,0.0,0.0,,15.0,1.0
+73,1630235,Trent Forrest,1610612762,UTA,22.0,In The Paint (Non-RA),1.0,1.0,1.0,,15.0,1.0
+74,1630235,Trent Forrest,1610612762,UTA,22.0,Mid-Range,0.0,0.0,0.0,,15.0,1.0
+75,1630235,Trent Forrest,1610612762,UTA,22.0,Left Corner 3,0.0,3.0,0.0,,15.0,1.0
+76,1630235,Trent Forrest,1610612762,UTA,22.0,Right Corner 3,0.0,0.0,0.0,,15.0,1.0
+77,1630235,Trent Forrest,1610612762,UTA,22.0,Above the Break 3,0.0,0.0,0.0,,15.0,1.0
+78,1630235,Trent Forrest,1610612762,UTA,22.0,Backcourt,,,,,15.0,1.0
+79,1630235,Trent Forrest,1610612762,UTA,22.0,Corner 3,0.0,3.0,0.0,,15.0,1.0
+0,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Restricted Area,3.0,3.0,1.0,,16.0,1.0
+1,202711,Bojan Bogdanovic,1610612762,UTA,32.0,In The Paint (Non-RA),4.0,8.0,0.5,,16.0,1.0
+2,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Mid-Range,1.0,1.0,1.0,,16.0,1.0
+3,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Left Corner 3,1.0,1.0,1.0,,16.0,1.0
+4,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Right Corner 3,2.0,2.0,1.0,,16.0,1.0
+5,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Above the Break 3,5.0,8.0,0.625,,16.0,1.0
+6,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Backcourt,0.0,0.0,0.0,,16.0,1.0
+7,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Corner 3,3.0,3.0,1.0,,16.0,1.0
+8,202324,Derrick Favors,1610612762,UTA,29.0,Restricted Area,1.0,1.0,1.0,,16.0,1.0
+9,202324,Derrick Favors,1610612762,UTA,29.0,In The Paint (Non-RA),0.0,0.0,0.0,,16.0,1.0
+10,202324,Derrick Favors,1610612762,UTA,29.0,Mid-Range,0.0,0.0,0.0,,16.0,1.0
+11,202324,Derrick Favors,1610612762,UTA,29.0,Left Corner 3,0.0,0.0,0.0,,16.0,1.0
+12,202324,Derrick Favors,1610612762,UTA,29.0,Right Corner 3,0.0,0.0,0.0,,16.0,1.0
+13,202324,Derrick Favors,1610612762,UTA,29.0,Above the Break 3,0.0,0.0,0.0,,16.0,1.0
+14,202324,Derrick Favors,1610612762,UTA,29.0,Backcourt,0.0,0.0,0.0,,16.0,1.0
+15,202324,Derrick Favors,1610612762,UTA,29.0,Corner 3,0.0,0.0,0.0,,16.0,1.0
+16,101141,Ersan Ilyasova,1610612762,UTA,34.0,Restricted Area,0.0,1.0,0.0,,16.0,1.0
+17,101141,Ersan Ilyasova,1610612762,UTA,34.0,In The Paint (Non-RA),0.0,0.0,0.0,,16.0,1.0
+18,101141,Ersan Ilyasova,1610612762,UTA,34.0,Mid-Range,0.0,1.0,0.0,,16.0,1.0
+19,101141,Ersan Ilyasova,1610612762,UTA,34.0,Left Corner 3,,,,,16.0,1.0
+20,101141,Ersan Ilyasova,1610612762,UTA,34.0,Right Corner 3,0.0,0.0,0.0,,16.0,1.0
+21,101141,Ersan Ilyasova,1610612762,UTA,34.0,Above the Break 3,1.0,1.0,1.0,,16.0,1.0
+22,101141,Ersan Ilyasova,1610612762,UTA,34.0,Backcourt,0.0,0.0,0.0,,16.0,1.0
+23,101141,Ersan Ilyasova,1610612762,UTA,34.0,Corner 3,0.0,0.0,0.0,,16.0,1.0
+24,1627777,Georges Niang,1610612762,UTA,27.0,Restricted Area,1.0,2.0,0.5,,16.0,1.0
+25,1627777,Georges Niang,1610612762,UTA,27.0,In The Paint (Non-RA),1.0,2.0,0.5,,16.0,1.0
+26,1627777,Georges Niang,1610612762,UTA,27.0,Mid-Range,0.0,0.0,0.0,,16.0,1.0
+27,1627777,Georges Niang,1610612762,UTA,27.0,Left Corner 3,0.0,1.0,0.0,,16.0,1.0
+28,1627777,Georges Niang,1610612762,UTA,27.0,Right Corner 3,1.0,1.0,1.0,,16.0,1.0
+29,1627777,Georges Niang,1610612762,UTA,27.0,Above the Break 3,2.0,4.0,0.5,,16.0,1.0
+30,1627777,Georges Niang,1610612762,UTA,27.0,Backcourt,0.0,0.0,0.0,,16.0,1.0
+31,1627777,Georges Niang,1610612762,UTA,27.0,Corner 3,1.0,2.0,0.5,,16.0,1.0
+32,204060,Joe Ingles,1610612762,UTA,33.0,Restricted Area,0.0,0.0,0.0,,16.0,1.0
+33,204060,Joe Ingles,1610612762,UTA,33.0,In The Paint (Non-RA),1.0,3.0,0.333,,16.0,1.0
+34,204060,Joe Ingles,1610612762,UTA,33.0,Mid-Range,0.0,0.0,0.0,,16.0,1.0
+35,204060,Joe Ingles,1610612762,UTA,33.0,Left Corner 3,0.0,2.0,0.0,,16.0,1.0
+36,204060,Joe Ingles,1610612762,UTA,33.0,Right Corner 3,0.0,0.0,0.0,,16.0,1.0
+37,204060,Joe Ingles,1610612762,UTA,33.0,Above the Break 3,2.0,4.0,0.5,,16.0,1.0
+38,204060,Joe Ingles,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,16.0,1.0
+39,204060,Joe Ingles,1610612762,UTA,33.0,Corner 3,0.0,2.0,0.0,,16.0,1.0
+40,203903,Jordan Clarkson,1610612762,UTA,28.0,Restricted Area,0.0,0.0,0.0,,16.0,1.0
+41,203903,Jordan Clarkson,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,5.0,0.0,,16.0,1.0
+42,203903,Jordan Clarkson,1610612762,UTA,28.0,Mid-Range,0.0,1.0,0.0,,16.0,1.0
+43,203903,Jordan Clarkson,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,16.0,1.0
+44,203903,Jordan Clarkson,1610612762,UTA,28.0,Right Corner 3,0.0,1.0,0.0,,16.0,1.0
+45,203903,Jordan Clarkson,1610612762,UTA,28.0,Above the Break 3,6.0,13.0,0.462,,16.0,1.0
+46,203903,Jordan Clarkson,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,16.0,1.0
+47,203903,Jordan Clarkson,1610612762,UTA,28.0,Corner 3,0.0,1.0,0.0,,16.0,1.0
+48,1629671,Miye Oni,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,16.0,1.0
+49,1629671,Miye Oni,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,16.0,1.0
+50,1629671,Miye Oni,1610612762,UTA,23.0,Mid-Range,0.0,0.0,0.0,,16.0,1.0
+51,1629671,Miye Oni,1610612762,UTA,23.0,Left Corner 3,0.0,1.0,0.0,,16.0,1.0
+52,1629671,Miye Oni,1610612762,UTA,23.0,Right Corner 3,,,,,16.0,1.0
+53,1629671,Miye Oni,1610612762,UTA,23.0,Above the Break 3,0.0,0.0,0.0,,16.0,1.0
+54,1629671,Miye Oni,1610612762,UTA,23.0,Backcourt,0.0,0.0,0.0,,16.0,1.0
+55,1629671,Miye Oni,1610612762,UTA,23.0,Corner 3,0.0,1.0,0.0,,16.0,1.0
+56,1626220,Royce O'Neale,1610612762,UTA,28.0,Restricted Area,2.0,2.0,1.0,,16.0,1.0
+57,1626220,Royce O'Neale,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,16.0,1.0
+58,1626220,Royce O'Neale,1610612762,UTA,28.0,Mid-Range,0.0,1.0,0.0,,16.0,1.0
+59,1626220,Royce O'Neale,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,16.0,1.0
+60,1626220,Royce O'Neale,1610612762,UTA,28.0,Right Corner 3,0.0,1.0,0.0,,16.0,1.0
+61,1626220,Royce O'Neale,1610612762,UTA,28.0,Above the Break 3,1.0,3.0,0.333,,16.0,1.0
+62,1626220,Royce O'Neale,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,16.0,1.0
+63,1626220,Royce O'Neale,1610612762,UTA,28.0,Corner 3,0.0,1.0,0.0,,16.0,1.0
+64,203497,Rudy Gobert,1610612762,UTA,28.0,Restricted Area,5.0,7.0,0.714,,16.0,1.0
+65,203497,Rudy Gobert,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,2.0,0.0,,16.0,1.0
+66,203497,Rudy Gobert,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,16.0,1.0
+67,203497,Rudy Gobert,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,16.0,1.0
+68,203497,Rudy Gobert,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,16.0,1.0
+69,203497,Rudy Gobert,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,16.0,1.0
+70,203497,Rudy Gobert,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,16.0,1.0
+71,203497,Rudy Gobert,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,16.0,1.0
+72,1630235,Trent Forrest,1610612762,UTA,22.0,Restricted Area,0.0,0.0,0.0,,16.0,1.0
+73,1630235,Trent Forrest,1610612762,UTA,22.0,In The Paint (Non-RA),2.0,2.0,1.0,,16.0,1.0
+74,1630235,Trent Forrest,1610612762,UTA,22.0,Mid-Range,1.0,1.0,1.0,,16.0,1.0
+75,1630235,Trent Forrest,1610612762,UTA,22.0,Left Corner 3,0.0,1.0,0.0,,16.0,1.0
+76,1630235,Trent Forrest,1610612762,UTA,22.0,Right Corner 3,0.0,2.0,0.0,,16.0,1.0
+77,1630235,Trent Forrest,1610612762,UTA,22.0,Above the Break 3,0.0,0.0,0.0,,16.0,1.0
+78,1630235,Trent Forrest,1610612762,UTA,22.0,Backcourt,,,,,16.0,1.0
+79,1630235,Trent Forrest,1610612762,UTA,22.0,Corner 3,0.0,3.0,0.0,,16.0,1.0
+0,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Restricted Area,3.0,4.0,0.75,,17.0,1.0
+1,202711,Bojan Bogdanovic,1610612762,UTA,32.0,In The Paint (Non-RA),3.0,4.0,0.75,,17.0,1.0
+2,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Mid-Range,1.0,1.0,1.0,,17.0,1.0
+3,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Left Corner 3,0.0,0.0,0.0,,17.0,1.0
+4,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Right Corner 3,1.0,1.0,1.0,,17.0,1.0
+5,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Above the Break 3,2.0,3.0,0.667,,17.0,1.0
+6,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Backcourt,0.0,0.0,0.0,,17.0,1.0
+7,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Corner 3,1.0,1.0,1.0,,17.0,1.0
+8,202324,Derrick Favors,1610612762,UTA,29.0,Restricted Area,0.0,1.0,0.0,,17.0,1.0
+9,202324,Derrick Favors,1610612762,UTA,29.0,In The Paint (Non-RA),2.0,2.0,1.0,,17.0,1.0
+10,202324,Derrick Favors,1610612762,UTA,29.0,Mid-Range,0.0,0.0,0.0,,17.0,1.0
+11,202324,Derrick Favors,1610612762,UTA,29.0,Left Corner 3,0.0,0.0,0.0,,17.0,1.0
+12,202324,Derrick Favors,1610612762,UTA,29.0,Right Corner 3,0.0,0.0,0.0,,17.0,1.0
+13,202324,Derrick Favors,1610612762,UTA,29.0,Above the Break 3,0.0,0.0,0.0,,17.0,1.0
+14,202324,Derrick Favors,1610612762,UTA,29.0,Backcourt,0.0,0.0,0.0,,17.0,1.0
+15,202324,Derrick Favors,1610612762,UTA,29.0,Corner 3,0.0,0.0,0.0,,17.0,1.0
+16,1630190,Elijah Hughes,1610612762,UTA,23.0,Restricted Area,0.0,1.0,0.0,,17.0,1.0
+17,1630190,Elijah Hughes,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,17.0,1.0
+18,1630190,Elijah Hughes,1610612762,UTA,23.0,Mid-Range,0.0,0.0,0.0,,17.0,1.0
+19,1630190,Elijah Hughes,1610612762,UTA,23.0,Left Corner 3,0.0,0.0,0.0,,17.0,1.0
+20,1630190,Elijah Hughes,1610612762,UTA,23.0,Right Corner 3,0.0,0.0,0.0,,17.0,1.0
+21,1630190,Elijah Hughes,1610612762,UTA,23.0,Above the Break 3,2.0,2.0,1.0,,17.0,1.0
+22,1630190,Elijah Hughes,1610612762,UTA,23.0,Backcourt,,,,,17.0,1.0
+23,1630190,Elijah Hughes,1610612762,UTA,23.0,Corner 3,0.0,0.0,0.0,,17.0,1.0
+24,101141,Ersan Ilyasova,1610612762,UTA,34.0,Restricted Area,0.0,0.0,0.0,,17.0,1.0
+25,101141,Ersan Ilyasova,1610612762,UTA,34.0,In The Paint (Non-RA),0.0,0.0,0.0,,17.0,1.0
+26,101141,Ersan Ilyasova,1610612762,UTA,34.0,Mid-Range,0.0,1.0,0.0,,17.0,1.0
+27,101141,Ersan Ilyasova,1610612762,UTA,34.0,Left Corner 3,0.0,1.0,0.0,,17.0,1.0
+28,101141,Ersan Ilyasova,1610612762,UTA,34.0,Right Corner 3,0.0,0.0,0.0,,17.0,1.0
+29,101141,Ersan Ilyasova,1610612762,UTA,34.0,Above the Break 3,0.0,0.0,0.0,,17.0,1.0
+30,101141,Ersan Ilyasova,1610612762,UTA,34.0,Backcourt,,,,,17.0,1.0
+31,101141,Ersan Ilyasova,1610612762,UTA,34.0,Corner 3,0.0,1.0,0.0,,17.0,1.0
+32,1627777,Georges Niang,1610612762,UTA,27.0,Restricted Area,0.0,0.0,0.0,,17.0,1.0
+33,1627777,Georges Niang,1610612762,UTA,27.0,In The Paint (Non-RA),1.0,1.0,1.0,,17.0,1.0
+34,1627777,Georges Niang,1610612762,UTA,27.0,Mid-Range,0.0,1.0,0.0,,17.0,1.0
+35,1627777,Georges Niang,1610612762,UTA,27.0,Left Corner 3,1.0,2.0,0.5,,17.0,1.0
+36,1627777,Georges Niang,1610612762,UTA,27.0,Right Corner 3,0.0,0.0,0.0,,17.0,1.0
+37,1627777,Georges Niang,1610612762,UTA,27.0,Above the Break 3,2.0,5.0,0.4,,17.0,1.0
+38,1627777,Georges Niang,1610612762,UTA,27.0,Backcourt,0.0,0.0,0.0,,17.0,1.0
+39,1627777,Georges Niang,1610612762,UTA,27.0,Corner 3,1.0,2.0,0.5,,17.0,1.0
+40,1629714,Jarrell Brantley,1610612762,UTA,24.0,Restricted Area,1.0,1.0,1.0,,17.0,1.0
+41,1629714,Jarrell Brantley,1610612762,UTA,24.0,In The Paint (Non-RA),0.0,2.0,0.0,,17.0,1.0
+42,1629714,Jarrell Brantley,1610612762,UTA,24.0,Mid-Range,0.0,0.0,0.0,,17.0,1.0
+43,1629714,Jarrell Brantley,1610612762,UTA,24.0,Left Corner 3,0.0,1.0,0.0,,17.0,1.0
+44,1629714,Jarrell Brantley,1610612762,UTA,24.0,Right Corner 3,1.0,1.0,1.0,,17.0,1.0
+45,1629714,Jarrell Brantley,1610612762,UTA,24.0,Above the Break 3,0.0,0.0,0.0,,17.0,1.0
+46,1629714,Jarrell Brantley,1610612762,UTA,24.0,Backcourt,,,,,17.0,1.0
+47,1629714,Jarrell Brantley,1610612762,UTA,24.0,Corner 3,1.0,2.0,0.5,,17.0,1.0
+48,204060,Joe Ingles,1610612762,UTA,33.0,Restricted Area,0.0,0.0,0.0,,17.0,1.0
+49,204060,Joe Ingles,1610612762,UTA,33.0,In The Paint (Non-RA),2.0,3.0,0.667,,17.0,1.0
+50,204060,Joe Ingles,1610612762,UTA,33.0,Mid-Range,0.0,0.0,0.0,,17.0,1.0
+51,204060,Joe Ingles,1610612762,UTA,33.0,Left Corner 3,1.0,2.0,0.5,,17.0,1.0
+52,204060,Joe Ingles,1610612762,UTA,33.0,Right Corner 3,0.0,0.0,0.0,,17.0,1.0
+53,204060,Joe Ingles,1610612762,UTA,33.0,Above the Break 3,2.0,6.0,0.333,,17.0,1.0
+54,204060,Joe Ingles,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,17.0,1.0
+55,204060,Joe Ingles,1610612762,UTA,33.0,Corner 3,1.0,2.0,0.5,,17.0,1.0
+56,203903,Jordan Clarkson,1610612762,UTA,28.0,Restricted Area,1.0,2.0,0.5,,17.0,1.0
+57,203903,Jordan Clarkson,1610612762,UTA,28.0,In The Paint (Non-RA),7.0,8.0,0.875,,17.0,1.0
+58,203903,Jordan Clarkson,1610612762,UTA,28.0,Mid-Range,2.0,2.0,1.0,,17.0,1.0
+59,203903,Jordan Clarkson,1610612762,UTA,28.0,Left Corner 3,0.0,1.0,0.0,,17.0,1.0
+60,203903,Jordan Clarkson,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,17.0,1.0
+61,203903,Jordan Clarkson,1610612762,UTA,28.0,Above the Break 3,2.0,3.0,0.667,,17.0,1.0
+62,203903,Jordan Clarkson,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,17.0,1.0
+63,203903,Jordan Clarkson,1610612762,UTA,28.0,Corner 3,0.0,1.0,0.0,,17.0,1.0
+64,1629752,Juwan Morgan,1610612762,UTA,24.0,Restricted Area,0.0,1.0,0.0,,17.0,1.0
+65,1629752,Juwan Morgan,1610612762,UTA,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,17.0,1.0
+66,1629752,Juwan Morgan,1610612762,UTA,24.0,Mid-Range,0.0,0.0,0.0,,17.0,1.0
+67,1629752,Juwan Morgan,1610612762,UTA,24.0,Left Corner 3,0.0,0.0,0.0,,17.0,1.0
+68,1629752,Juwan Morgan,1610612762,UTA,24.0,Right Corner 3,0.0,0.0,0.0,,17.0,1.0
+69,1629752,Juwan Morgan,1610612762,UTA,24.0,Above the Break 3,0.0,0.0,0.0,,17.0,1.0
+70,1629752,Juwan Morgan,1610612762,UTA,24.0,Backcourt,,,,,17.0,1.0
+71,1629752,Juwan Morgan,1610612762,UTA,24.0,Corner 3,0.0,0.0,0.0,,17.0,1.0
+72,1629744,Matt Thomas,1610612762,UTA,26.0,Restricted Area,0.0,0.0,0.0,,17.0,1.0
+73,1629744,Matt Thomas,1610612762,UTA,26.0,In The Paint (Non-RA),0.0,0.0,0.0,,17.0,1.0
+74,1629744,Matt Thomas,1610612762,UTA,26.0,Mid-Range,1.0,1.0,1.0,,17.0,1.0
+75,1629744,Matt Thomas,1610612762,UTA,26.0,Left Corner 3,0.0,1.0,0.0,,17.0,1.0
+76,1629744,Matt Thomas,1610612762,UTA,26.0,Right Corner 3,0.0,1.0,0.0,,17.0,1.0
+77,1629744,Matt Thomas,1610612762,UTA,26.0,Above the Break 3,1.0,5.0,0.2,,17.0,1.0
+78,1629744,Matt Thomas,1610612762,UTA,26.0,Backcourt,,,,,17.0,1.0
+79,1629744,Matt Thomas,1610612762,UTA,26.0,Corner 3,0.0,2.0,0.0,,17.0,1.0
+80,1629671,Miye Oni,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,17.0,1.0
+81,1629671,Miye Oni,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,17.0,1.0
+82,1629671,Miye Oni,1610612762,UTA,23.0,Mid-Range,0.0,0.0,0.0,,17.0,1.0
+83,1629671,Miye Oni,1610612762,UTA,23.0,Left Corner 3,0.0,0.0,0.0,,17.0,1.0
+84,1629671,Miye Oni,1610612762,UTA,23.0,Right Corner 3,1.0,1.0,1.0,,17.0,1.0
+85,1629671,Miye Oni,1610612762,UTA,23.0,Above the Break 3,1.0,2.0,0.5,,17.0,1.0
+86,1629671,Miye Oni,1610612762,UTA,23.0,Backcourt,0.0,0.0,0.0,,17.0,1.0
+87,1629671,Miye Oni,1610612762,UTA,23.0,Corner 3,1.0,1.0,1.0,,17.0,1.0
+88,1626220,Royce O'Neale,1610612762,UTA,28.0,Restricted Area,1.0,1.0,1.0,,17.0,1.0
+89,1626220,Royce O'Neale,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,1.0,0.0,,17.0,1.0
+90,1626220,Royce O'Neale,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,17.0,1.0
+91,1626220,Royce O'Neale,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,17.0,1.0
+92,1626220,Royce O'Neale,1610612762,UTA,28.0,Right Corner 3,0.0,1.0,0.0,,17.0,1.0
+93,1626220,Royce O'Neale,1610612762,UTA,28.0,Above the Break 3,1.0,1.0,1.0,,17.0,1.0
+94,1626220,Royce O'Neale,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,17.0,1.0
+95,1626220,Royce O'Neale,1610612762,UTA,28.0,Corner 3,0.0,1.0,0.0,,17.0,1.0
+96,203497,Rudy Gobert,1610612762,UTA,28.0,Restricted Area,3.0,6.0,0.5,,17.0,1.0
+97,203497,Rudy Gobert,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,17.0,1.0
+98,203497,Rudy Gobert,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,17.0,1.0
+99,203497,Rudy Gobert,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,17.0,1.0
+100,203497,Rudy Gobert,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,17.0,1.0
+101,203497,Rudy Gobert,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,17.0,1.0
+102,203497,Rudy Gobert,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,17.0,1.0
+103,203497,Rudy Gobert,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,17.0,1.0
+104,1630235,Trent Forrest,1610612762,UTA,22.0,Restricted Area,1.0,1.0,1.0,,17.0,1.0
+105,1630235,Trent Forrest,1610612762,UTA,22.0,In The Paint (Non-RA),1.0,1.0,1.0,,17.0,1.0
+106,1630235,Trent Forrest,1610612762,UTA,22.0,Mid-Range,1.0,1.0,1.0,,17.0,1.0
+107,1630235,Trent Forrest,1610612762,UTA,22.0,Left Corner 3,0.0,0.0,0.0,,17.0,1.0
+108,1630235,Trent Forrest,1610612762,UTA,22.0,Right Corner 3,0.0,0.0,0.0,,17.0,1.0
+109,1630235,Trent Forrest,1610612762,UTA,22.0,Above the Break 3,0.0,1.0,0.0,,17.0,1.0
+110,1630235,Trent Forrest,1610612762,UTA,22.0,Backcourt,0.0,0.0,0.0,,17.0,1.0
+111,1630235,Trent Forrest,1610612762,UTA,22.0,Corner 3,0.0,0.0,0.0,,17.0,1.0
+0,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Restricted Area,6.0,6.0,1.0,,18.0,1.0
+1,202711,Bojan Bogdanovic,1610612762,UTA,32.0,In The Paint (Non-RA),2.0,4.0,0.5,,18.0,1.0
+2,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Mid-Range,0.0,0.0,0.0,,18.0,1.0
+3,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Left Corner 3,1.0,3.0,0.333,,18.0,1.0
+4,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Right Corner 3,0.0,1.0,0.0,,18.0,1.0
+5,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Above the Break 3,1.0,3.0,0.333,,18.0,1.0
+6,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Backcourt,0.0,0.0,0.0,,18.0,1.0
+7,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Corner 3,1.0,4.0,0.25,,18.0,1.0
+8,202324,Derrick Favors,1610612762,UTA,29.0,Restricted Area,1.0,4.0,0.25,,18.0,1.0
+9,202324,Derrick Favors,1610612762,UTA,29.0,In The Paint (Non-RA),1.0,1.0,1.0,,18.0,1.0
+10,202324,Derrick Favors,1610612762,UTA,29.0,Mid-Range,0.0,0.0,0.0,,18.0,1.0
+11,202324,Derrick Favors,1610612762,UTA,29.0,Left Corner 3,0.0,0.0,0.0,,18.0,1.0
+12,202324,Derrick Favors,1610612762,UTA,29.0,Right Corner 3,0.0,0.0,0.0,,18.0,1.0
+13,202324,Derrick Favors,1610612762,UTA,29.0,Above the Break 3,0.0,0.0,0.0,,18.0,1.0
+14,202324,Derrick Favors,1610612762,UTA,29.0,Backcourt,,,,,18.0,1.0
+15,202324,Derrick Favors,1610612762,UTA,29.0,Corner 3,0.0,0.0,0.0,,18.0,1.0
+16,1630190,Elijah Hughes,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,18.0,1.0
+17,1630190,Elijah Hughes,1610612762,UTA,23.0,In The Paint (Non-RA),,,,,18.0,1.0
+18,1630190,Elijah Hughes,1610612762,UTA,23.0,Mid-Range,,,,,18.0,1.0
+19,1630190,Elijah Hughes,1610612762,UTA,23.0,Left Corner 3,,,,,18.0,1.0
+20,1630190,Elijah Hughes,1610612762,UTA,23.0,Right Corner 3,,,,,18.0,1.0
+21,1630190,Elijah Hughes,1610612762,UTA,23.0,Above the Break 3,0.0,1.0,0.0,,18.0,1.0
+22,1630190,Elijah Hughes,1610612762,UTA,23.0,Backcourt,,,,,18.0,1.0
+23,1630190,Elijah Hughes,1610612762,UTA,23.0,Corner 3,,,,,18.0,1.0
+24,1627777,Georges Niang,1610612762,UTA,27.0,Restricted Area,0.0,0.0,0.0,,18.0,1.0
+25,1627777,Georges Niang,1610612762,UTA,27.0,In The Paint (Non-RA),1.0,3.0,0.333,,18.0,1.0
+26,1627777,Georges Niang,1610612762,UTA,27.0,Mid-Range,0.0,1.0,0.0,,18.0,1.0
+27,1627777,Georges Niang,1610612762,UTA,27.0,Left Corner 3,0.0,1.0,0.0,,18.0,1.0
+28,1627777,Georges Niang,1610612762,UTA,27.0,Right Corner 3,2.0,4.0,0.5,,18.0,1.0
+29,1627777,Georges Niang,1610612762,UTA,27.0,Above the Break 3,1.0,1.0,1.0,,18.0,1.0
+30,1627777,Georges Niang,1610612762,UTA,27.0,Backcourt,0.0,0.0,0.0,,18.0,1.0
+31,1627777,Georges Niang,1610612762,UTA,27.0,Corner 3,2.0,5.0,0.4,,18.0,1.0
+32,1629714,Jarrell Brantley,1610612762,UTA,24.0,Restricted Area,0.0,0.0,0.0,,18.0,1.0
+33,1629714,Jarrell Brantley,1610612762,UTA,24.0,In The Paint (Non-RA),,,,,18.0,1.0
+34,1629714,Jarrell Brantley,1610612762,UTA,24.0,Mid-Range,,,,,18.0,1.0
+35,1629714,Jarrell Brantley,1610612762,UTA,24.0,Left Corner 3,,,,,18.0,1.0
+36,1629714,Jarrell Brantley,1610612762,UTA,24.0,Right Corner 3,,,,,18.0,1.0
+37,1629714,Jarrell Brantley,1610612762,UTA,24.0,Above the Break 3,0.0,1.0,0.0,,18.0,1.0
+38,1629714,Jarrell Brantley,1610612762,UTA,24.0,Backcourt,,,,,18.0,1.0
+39,1629714,Jarrell Brantley,1610612762,UTA,24.0,Corner 3,,,,,18.0,1.0
+40,204060,Joe Ingles,1610612762,UTA,33.0,Restricted Area,2.0,2.0,1.0,,18.0,1.0
+41,204060,Joe Ingles,1610612762,UTA,33.0,In The Paint (Non-RA),1.0,2.0,0.5,,18.0,1.0
+42,204060,Joe Ingles,1610612762,UTA,33.0,Mid-Range,0.0,0.0,0.0,,18.0,1.0
+43,204060,Joe Ingles,1610612762,UTA,33.0,Left Corner 3,0.0,1.0,0.0,,18.0,1.0
+44,204060,Joe Ingles,1610612762,UTA,33.0,Right Corner 3,0.0,1.0,0.0,,18.0,1.0
+45,204060,Joe Ingles,1610612762,UTA,33.0,Above the Break 3,2.0,5.0,0.4,,18.0,1.0
+46,204060,Joe Ingles,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,18.0,1.0
+47,204060,Joe Ingles,1610612762,UTA,33.0,Corner 3,0.0,2.0,0.0,,18.0,1.0
+48,203903,Jordan Clarkson,1610612762,UTA,28.0,Restricted Area,0.0,1.0,0.0,,18.0,1.0
+49,203903,Jordan Clarkson,1610612762,UTA,28.0,In The Paint (Non-RA),5.0,7.0,0.714,,18.0,1.0
+50,203903,Jordan Clarkson,1610612762,UTA,28.0,Mid-Range,0.0,2.0,0.0,,18.0,1.0
+51,203903,Jordan Clarkson,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,18.0,1.0
+52,203903,Jordan Clarkson,1610612762,UTA,28.0,Right Corner 3,0.0,1.0,0.0,,18.0,1.0
+53,203903,Jordan Clarkson,1610612762,UTA,28.0,Above the Break 3,2.0,9.0,0.222,,18.0,1.0
+54,203903,Jordan Clarkson,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,18.0,1.0
+55,203903,Jordan Clarkson,1610612762,UTA,28.0,Corner 3,0.0,1.0,0.0,,18.0,1.0
+56,1629752,Juwan Morgan,1610612762,UTA,24.0,Restricted Area,0.0,0.0,0.0,,18.0,1.0
+57,1629752,Juwan Morgan,1610612762,UTA,24.0,In The Paint (Non-RA),,,,,18.0,1.0
+58,1629752,Juwan Morgan,1610612762,UTA,24.0,Mid-Range,,,,,18.0,1.0
+59,1629752,Juwan Morgan,1610612762,UTA,24.0,Left Corner 3,,,,,18.0,1.0
+60,1629752,Juwan Morgan,1610612762,UTA,24.0,Right Corner 3,,,,,18.0,1.0
+61,1629752,Juwan Morgan,1610612762,UTA,24.0,Above the Break 3,0.0,0.0,0.0,,18.0,1.0
+62,1629752,Juwan Morgan,1610612762,UTA,24.0,Backcourt,,,,,18.0,1.0
+63,1629752,Juwan Morgan,1610612762,UTA,24.0,Corner 3,,,,,18.0,1.0
+64,1629744,Matt Thomas,1610612762,UTA,26.0,Restricted Area,0.0,0.0,0.0,,18.0,1.0
+65,1629744,Matt Thomas,1610612762,UTA,26.0,In The Paint (Non-RA),,,,,18.0,1.0
+66,1629744,Matt Thomas,1610612762,UTA,26.0,Mid-Range,,,,,18.0,1.0
+67,1629744,Matt Thomas,1610612762,UTA,26.0,Left Corner 3,,,,,18.0,1.0
+68,1629744,Matt Thomas,1610612762,UTA,26.0,Right Corner 3,,,,,18.0,1.0
+69,1629744,Matt Thomas,1610612762,UTA,26.0,Above the Break 3,0.0,0.0,0.0,,18.0,1.0
+70,1629744,Matt Thomas,1610612762,UTA,26.0,Backcourt,,,,,18.0,1.0
+71,1629744,Matt Thomas,1610612762,UTA,26.0,Corner 3,,,,,18.0,1.0
+72,1629671,Miye Oni,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,18.0,1.0
+73,1629671,Miye Oni,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,18.0,1.0
+74,1629671,Miye Oni,1610612762,UTA,23.0,Mid-Range,0.0,0.0,0.0,,18.0,1.0
+75,1629671,Miye Oni,1610612762,UTA,23.0,Left Corner 3,0.0,0.0,0.0,,18.0,1.0
+76,1629671,Miye Oni,1610612762,UTA,23.0,Right Corner 3,0.0,0.0,0.0,,18.0,1.0
+77,1629671,Miye Oni,1610612762,UTA,23.0,Above the Break 3,0.0,0.0,0.0,,18.0,1.0
+78,1629671,Miye Oni,1610612762,UTA,23.0,Backcourt,0.0,0.0,0.0,,18.0,1.0
+79,1629671,Miye Oni,1610612762,UTA,23.0,Corner 3,0.0,0.0,0.0,,18.0,1.0
+80,1626220,Royce O'Neale,1610612762,UTA,28.0,Restricted Area,1.0,1.0,1.0,,18.0,1.0
+81,1626220,Royce O'Neale,1610612762,UTA,28.0,In The Paint (Non-RA),1.0,1.0,1.0,,18.0,1.0
+82,1626220,Royce O'Neale,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,18.0,1.0
+83,1626220,Royce O'Neale,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,18.0,1.0
+84,1626220,Royce O'Neale,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,18.0,1.0
+85,1626220,Royce O'Neale,1610612762,UTA,28.0,Above the Break 3,1.0,2.0,0.5,,18.0,1.0
+86,1626220,Royce O'Neale,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,18.0,1.0
+87,1626220,Royce O'Neale,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,18.0,1.0
+88,203497,Rudy Gobert,1610612762,UTA,28.0,Restricted Area,10.0,13.0,0.769,,18.0,1.0
+89,203497,Rudy Gobert,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,1.0,0.0,,18.0,1.0
+90,203497,Rudy Gobert,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,18.0,1.0
+91,203497,Rudy Gobert,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,18.0,1.0
+92,203497,Rudy Gobert,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,18.0,1.0
+93,203497,Rudy Gobert,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,18.0,1.0
+94,203497,Rudy Gobert,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,18.0,1.0
+95,203497,Rudy Gobert,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,18.0,1.0
+96,1630235,Trent Forrest,1610612762,UTA,22.0,Restricted Area,1.0,2.0,0.5,,18.0,1.0
+97,1630235,Trent Forrest,1610612762,UTA,22.0,In The Paint (Non-RA),1.0,1.0,1.0,,18.0,1.0
+98,1630235,Trent Forrest,1610612762,UTA,22.0,Mid-Range,0.0,0.0,0.0,,18.0,1.0
+99,1630235,Trent Forrest,1610612762,UTA,22.0,Left Corner 3,0.0,1.0,0.0,,18.0,1.0
+100,1630235,Trent Forrest,1610612762,UTA,22.0,Right Corner 3,1.0,1.0,1.0,,18.0,1.0
+101,1630235,Trent Forrest,1610612762,UTA,22.0,Above the Break 3,0.0,0.0,0.0,,18.0,1.0
+102,1630235,Trent Forrest,1610612762,UTA,22.0,Backcourt,0.0,0.0,0.0,,18.0,1.0
+103,1630235,Trent Forrest,1610612762,UTA,22.0,Corner 3,1.0,2.0,0.5,,18.0,1.0
+0,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Restricted Area,3.0,6.0,0.5,,19.0,1.0
+1,202711,Bojan Bogdanovic,1610612762,UTA,32.0,In The Paint (Non-RA),3.0,4.0,0.75,,19.0,1.0
+2,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Mid-Range,0.0,1.0,0.0,,19.0,1.0
+3,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Left Corner 3,1.0,1.0,1.0,,19.0,1.0
+4,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Right Corner 3,2.0,6.0,0.333,,19.0,1.0
+5,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Above the Break 3,3.0,4.0,0.75,,19.0,1.0
+6,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Backcourt,0.0,0.0,0.0,,19.0,1.0
+7,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Corner 3,3.0,7.0,0.429,,19.0,1.0
+8,202324,Derrick Favors,1610612762,UTA,29.0,Restricted Area,2.0,2.0,1.0,,19.0,1.0
+9,202324,Derrick Favors,1610612762,UTA,29.0,In The Paint (Non-RA),0.0,0.0,0.0,,19.0,1.0
+10,202324,Derrick Favors,1610612762,UTA,29.0,Mid-Range,0.0,0.0,0.0,,19.0,1.0
+11,202324,Derrick Favors,1610612762,UTA,29.0,Left Corner 3,0.0,0.0,0.0,,19.0,1.0
+12,202324,Derrick Favors,1610612762,UTA,29.0,Right Corner 3,0.0,0.0,0.0,,19.0,1.0
+13,202324,Derrick Favors,1610612762,UTA,29.0,Above the Break 3,0.0,0.0,0.0,,19.0,1.0
+14,202324,Derrick Favors,1610612762,UTA,29.0,Backcourt,0.0,0.0,0.0,,19.0,1.0
+15,202324,Derrick Favors,1610612762,UTA,29.0,Corner 3,0.0,0.0,0.0,,19.0,1.0
+16,101141,Ersan Ilyasova,1610612762,UTA,34.0,Restricted Area,0.0,0.0,0.0,,19.0,1.0
+17,101141,Ersan Ilyasova,1610612762,UTA,34.0,In The Paint (Non-RA),0.0,0.0,0.0,,19.0,1.0
+18,101141,Ersan Ilyasova,1610612762,UTA,34.0,Mid-Range,0.0,0.0,0.0,,19.0,1.0
+19,101141,Ersan Ilyasova,1610612762,UTA,34.0,Left Corner 3,0.0,1.0,0.0,,19.0,1.0
+20,101141,Ersan Ilyasova,1610612762,UTA,34.0,Right Corner 3,1.0,1.0,1.0,,19.0,1.0
+21,101141,Ersan Ilyasova,1610612762,UTA,34.0,Above the Break 3,0.0,2.0,0.0,,19.0,1.0
+22,101141,Ersan Ilyasova,1610612762,UTA,34.0,Backcourt,0.0,0.0,0.0,,19.0,1.0
+23,101141,Ersan Ilyasova,1610612762,UTA,34.0,Corner 3,1.0,2.0,0.5,,19.0,1.0
+24,1627777,Georges Niang,1610612762,UTA,27.0,Restricted Area,0.0,2.0,0.0,,19.0,1.0
+25,1627777,Georges Niang,1610612762,UTA,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,19.0,1.0
+26,1627777,Georges Niang,1610612762,UTA,27.0,Mid-Range,0.0,0.0,0.0,,19.0,1.0
+27,1627777,Georges Niang,1610612762,UTA,27.0,Left Corner 3,0.0,2.0,0.0,,19.0,1.0
+28,1627777,Georges Niang,1610612762,UTA,27.0,Right Corner 3,0.0,0.0,0.0,,19.0,1.0
+29,1627777,Georges Niang,1610612762,UTA,27.0,Above the Break 3,1.0,3.0,0.333,,19.0,1.0
+30,1627777,Georges Niang,1610612762,UTA,27.0,Backcourt,0.0,0.0,0.0,,19.0,1.0
+31,1627777,Georges Niang,1610612762,UTA,27.0,Corner 3,0.0,2.0,0.0,,19.0,1.0
+32,204060,Joe Ingles,1610612762,UTA,33.0,Restricted Area,0.0,0.0,0.0,,19.0,1.0
+33,204060,Joe Ingles,1610612762,UTA,33.0,In The Paint (Non-RA),0.0,1.0,0.0,,19.0,1.0
+34,204060,Joe Ingles,1610612762,UTA,33.0,Mid-Range,0.0,0.0,0.0,,19.0,1.0
+35,204060,Joe Ingles,1610612762,UTA,33.0,Left Corner 3,0.0,0.0,0.0,,19.0,1.0
+36,204060,Joe Ingles,1610612762,UTA,33.0,Right Corner 3,0.0,0.0,0.0,,19.0,1.0
+37,204060,Joe Ingles,1610612762,UTA,33.0,Above the Break 3,4.0,7.0,0.571,,19.0,1.0
+38,204060,Joe Ingles,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,19.0,1.0
+39,204060,Joe Ingles,1610612762,UTA,33.0,Corner 3,0.0,0.0,0.0,,19.0,1.0
+40,203903,Jordan Clarkson,1610612762,UTA,28.0,Restricted Area,2.0,2.0,1.0,,19.0,1.0
+41,203903,Jordan Clarkson,1610612762,UTA,28.0,In The Paint (Non-RA),3.0,9.0,0.333,,19.0,1.0
+42,203903,Jordan Clarkson,1610612762,UTA,28.0,Mid-Range,0.0,1.0,0.0,,19.0,1.0
+43,203903,Jordan Clarkson,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,19.0,1.0
+44,203903,Jordan Clarkson,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,19.0,1.0
+45,203903,Jordan Clarkson,1610612762,UTA,28.0,Above the Break 3,1.0,6.0,0.167,,19.0,1.0
+46,203903,Jordan Clarkson,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,19.0,1.0
+47,203903,Jordan Clarkson,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,19.0,1.0
+48,1629744,Matt Thomas,1610612762,UTA,26.0,Restricted Area,0.0,0.0,0.0,,19.0,1.0
+49,1629744,Matt Thomas,1610612762,UTA,26.0,In The Paint (Non-RA),0.0,0.0,0.0,,19.0,1.0
+50,1629744,Matt Thomas,1610612762,UTA,26.0,Mid-Range,0.0,0.0,0.0,,19.0,1.0
+51,1629744,Matt Thomas,1610612762,UTA,26.0,Left Corner 3,0.0,0.0,0.0,,19.0,1.0
+52,1629744,Matt Thomas,1610612762,UTA,26.0,Right Corner 3,0.0,0.0,0.0,,19.0,1.0
+53,1629744,Matt Thomas,1610612762,UTA,26.0,Above the Break 3,0.0,0.0,0.0,,19.0,1.0
+54,1629744,Matt Thomas,1610612762,UTA,26.0,Backcourt,0.0,0.0,0.0,,19.0,1.0
+55,1629744,Matt Thomas,1610612762,UTA,26.0,Corner 3,0.0,0.0,0.0,,19.0,1.0
+56,1626220,Royce O'Neale,1610612762,UTA,28.0,Restricted Area,0.0,0.0,0.0,,19.0,1.0
+57,1626220,Royce O'Neale,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,19.0,1.0
+58,1626220,Royce O'Neale,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,19.0,1.0
+59,1626220,Royce O'Neale,1610612762,UTA,28.0,Left Corner 3,1.0,2.0,0.5,,19.0,1.0
+60,1626220,Royce O'Neale,1610612762,UTA,28.0,Right Corner 3,0.0,1.0,0.0,,19.0,1.0
+61,1626220,Royce O'Neale,1610612762,UTA,28.0,Above the Break 3,2.0,2.0,1.0,,19.0,1.0
+62,1626220,Royce O'Neale,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,19.0,1.0
+63,1626220,Royce O'Neale,1610612762,UTA,28.0,Corner 3,1.0,3.0,0.333,,19.0,1.0
+64,203497,Rudy Gobert,1610612762,UTA,28.0,Restricted Area,6.0,8.0,0.75,,19.0,1.0
+65,203497,Rudy Gobert,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,19.0,1.0
+66,203497,Rudy Gobert,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,19.0,1.0
+67,203497,Rudy Gobert,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,19.0,1.0
+68,203497,Rudy Gobert,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,19.0,1.0
+69,203497,Rudy Gobert,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,19.0,1.0
+70,203497,Rudy Gobert,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,19.0,1.0
+71,203497,Rudy Gobert,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,19.0,1.0
+72,1630235,Trent Forrest,1610612762,UTA,22.0,Restricted Area,0.0,0.0,0.0,,19.0,1.0
+73,1630235,Trent Forrest,1610612762,UTA,22.0,In The Paint (Non-RA),1.0,1.0,1.0,,19.0,1.0
+74,1630235,Trent Forrest,1610612762,UTA,22.0,Mid-Range,0.0,0.0,0.0,,19.0,1.0
+75,1630235,Trent Forrest,1610612762,UTA,22.0,Left Corner 3,1.0,1.0,1.0,,19.0,1.0
+76,1630235,Trent Forrest,1610612762,UTA,22.0,Right Corner 3,0.0,0.0,0.0,,19.0,1.0
+77,1630235,Trent Forrest,1610612762,UTA,22.0,Above the Break 3,0.0,2.0,0.0,,19.0,1.0
+78,1630235,Trent Forrest,1610612762,UTA,22.0,Backcourt,0.0,0.0,0.0,,19.0,1.0
+79,1630235,Trent Forrest,1610612762,UTA,22.0,Corner 3,1.0,1.0,1.0,,19.0,1.0
+0,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Restricted Area,1.0,1.0,1.0,,20.0,0.0
+1,202711,Bojan Bogdanovic,1610612762,UTA,32.0,In The Paint (Non-RA),3.0,4.0,0.75,,20.0,0.0
+2,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Mid-Range,0.0,0.0,0.0,,20.0,0.0
+3,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Left Corner 3,0.0,0.0,0.0,,20.0,0.0
+4,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Right Corner 3,1.0,1.0,1.0,,20.0,0.0
+5,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Above the Break 3,1.0,5.0,0.2,,20.0,0.0
+6,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Backcourt,0.0,0.0,0.0,,20.0,0.0
+7,202711,Bojan Bogdanovic,1610612762,UTA,32.0,Corner 3,1.0,1.0,1.0,,20.0,0.0
+8,202324,Derrick Favors,1610612762,UTA,29.0,Restricted Area,4.0,4.0,1.0,,20.0,0.0
+9,202324,Derrick Favors,1610612762,UTA,29.0,In The Paint (Non-RA),0.0,0.0,0.0,,20.0,0.0
+10,202324,Derrick Favors,1610612762,UTA,29.0,Mid-Range,0.0,0.0,0.0,,20.0,0.0
+11,202324,Derrick Favors,1610612762,UTA,29.0,Left Corner 3,0.0,0.0,0.0,,20.0,0.0
+12,202324,Derrick Favors,1610612762,UTA,29.0,Right Corner 3,0.0,0.0,0.0,,20.0,0.0
+13,202324,Derrick Favors,1610612762,UTA,29.0,Above the Break 3,0.0,0.0,0.0,,20.0,0.0
+14,202324,Derrick Favors,1610612762,UTA,29.0,Backcourt,,,,,20.0,0.0
+15,202324,Derrick Favors,1610612762,UTA,29.0,Corner 3,0.0,0.0,0.0,,20.0,0.0
+16,1630190,Elijah Hughes,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,20.0,0.0
+17,1630190,Elijah Hughes,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,20.0,0.0
+18,1630190,Elijah Hughes,1610612762,UTA,23.0,Mid-Range,0.0,1.0,0.0,,20.0,0.0
+19,1630190,Elijah Hughes,1610612762,UTA,23.0,Left Corner 3,0.0,1.0,0.0,,20.0,0.0
+20,1630190,Elijah Hughes,1610612762,UTA,23.0,Right Corner 3,,,,,20.0,0.0
+21,1630190,Elijah Hughes,1610612762,UTA,23.0,Above the Break 3,0.0,1.0,0.0,,20.0,0.0
+22,1630190,Elijah Hughes,1610612762,UTA,23.0,Backcourt,0.0,0.0,0.0,,20.0,0.0
+23,1630190,Elijah Hughes,1610612762,UTA,23.0,Corner 3,0.0,1.0,0.0,,20.0,0.0
+24,101141,Ersan Ilyasova,1610612762,UTA,34.0,Restricted Area,0.0,0.0,0.0,,20.0,0.0
+25,101141,Ersan Ilyasova,1610612762,UTA,34.0,In The Paint (Non-RA),0.0,0.0,0.0,,20.0,0.0
+26,101141,Ersan Ilyasova,1610612762,UTA,34.0,Mid-Range,0.0,0.0,0.0,,20.0,0.0
+27,101141,Ersan Ilyasova,1610612762,UTA,34.0,Left Corner 3,0.0,0.0,0.0,,20.0,0.0
+28,101141,Ersan Ilyasova,1610612762,UTA,34.0,Right Corner 3,0.0,0.0,0.0,,20.0,0.0
+29,101141,Ersan Ilyasova,1610612762,UTA,34.0,Above the Break 3,2.0,2.0,1.0,,20.0,0.0
+30,101141,Ersan Ilyasova,1610612762,UTA,34.0,Backcourt,,,,,20.0,0.0
+31,101141,Ersan Ilyasova,1610612762,UTA,34.0,Corner 3,0.0,0.0,0.0,,20.0,0.0
+32,1627777,Georges Niang,1610612762,UTA,27.0,Restricted Area,0.0,1.0,0.0,,20.0,0.0
+33,1627777,Georges Niang,1610612762,UTA,27.0,In The Paint (Non-RA),1.0,2.0,0.5,,20.0,0.0
+34,1627777,Georges Niang,1610612762,UTA,27.0,Mid-Range,0.0,0.0,0.0,,20.0,0.0
+35,1627777,Georges Niang,1610612762,UTA,27.0,Left Corner 3,0.0,2.0,0.0,,20.0,0.0
+36,1627777,Georges Niang,1610612762,UTA,27.0,Right Corner 3,0.0,1.0,0.0,,20.0,0.0
+37,1627777,Georges Niang,1610612762,UTA,27.0,Above the Break 3,2.0,4.0,0.5,,20.0,0.0
+38,1627777,Georges Niang,1610612762,UTA,27.0,Backcourt,,,,,20.0,0.0
+39,1627777,Georges Niang,1610612762,UTA,27.0,Corner 3,0.0,3.0,0.0,,20.0,0.0
+40,1629714,Jarrell Brantley,1610612762,UTA,24.0,Restricted Area,0.0,0.0,0.0,,20.0,0.0
+41,1629714,Jarrell Brantley,1610612762,UTA,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,20.0,0.0
+42,1629714,Jarrell Brantley,1610612762,UTA,24.0,Mid-Range,0.0,1.0,0.0,,20.0,0.0
+43,1629714,Jarrell Brantley,1610612762,UTA,24.0,Left Corner 3,0.0,0.0,0.0,,20.0,0.0
+44,1629714,Jarrell Brantley,1610612762,UTA,24.0,Right Corner 3,,,,,20.0,0.0
+45,1629714,Jarrell Brantley,1610612762,UTA,24.0,Above the Break 3,0.0,0.0,0.0,,20.0,0.0
+46,1629714,Jarrell Brantley,1610612762,UTA,24.0,Backcourt,0.0,0.0,0.0,,20.0,0.0
+47,1629714,Jarrell Brantley,1610612762,UTA,24.0,Corner 3,0.0,0.0,0.0,,20.0,0.0
+48,204060,Joe Ingles,1610612762,UTA,33.0,Restricted Area,2.0,2.0,1.0,,20.0,0.0
+49,204060,Joe Ingles,1610612762,UTA,33.0,In The Paint (Non-RA),1.0,4.0,0.25,,20.0,0.0
+50,204060,Joe Ingles,1610612762,UTA,33.0,Mid-Range,1.0,1.0,1.0,,20.0,0.0
+51,204060,Joe Ingles,1610612762,UTA,33.0,Left Corner 3,0.0,1.0,0.0,,20.0,0.0
+52,204060,Joe Ingles,1610612762,UTA,33.0,Right Corner 3,0.0,0.0,0.0,,20.0,0.0
+53,204060,Joe Ingles,1610612762,UTA,33.0,Above the Break 3,1.0,6.0,0.167,,20.0,0.0
+54,204060,Joe Ingles,1610612762,UTA,33.0,Backcourt,0.0,0.0,0.0,,20.0,0.0
+55,204060,Joe Ingles,1610612762,UTA,33.0,Corner 3,0.0,1.0,0.0,,20.0,0.0
+56,203903,Jordan Clarkson,1610612762,UTA,28.0,Restricted Area,0.0,0.0,0.0,,20.0,0.0
+57,203903,Jordan Clarkson,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,4.0,0.0,,20.0,0.0
+58,203903,Jordan Clarkson,1610612762,UTA,28.0,Mid-Range,1.0,3.0,0.333,,20.0,0.0
+59,203903,Jordan Clarkson,1610612762,UTA,28.0,Left Corner 3,0.0,1.0,0.0,,20.0,0.0
+60,203903,Jordan Clarkson,1610612762,UTA,28.0,Right Corner 3,0.0,1.0,0.0,,20.0,0.0
+61,203903,Jordan Clarkson,1610612762,UTA,28.0,Above the Break 3,2.0,6.0,0.333,,20.0,0.0
+62,203903,Jordan Clarkson,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,20.0,0.0
+63,203903,Jordan Clarkson,1610612762,UTA,28.0,Corner 3,0.0,2.0,0.0,,20.0,0.0
+64,1629752,Juwan Morgan,1610612762,UTA,24.0,Restricted Area,1.0,1.0,1.0,,20.0,0.0
+65,1629752,Juwan Morgan,1610612762,UTA,24.0,In The Paint (Non-RA),0.0,1.0,0.0,,20.0,0.0
+66,1629752,Juwan Morgan,1610612762,UTA,24.0,Mid-Range,0.0,0.0,0.0,,20.0,0.0
+67,1629752,Juwan Morgan,1610612762,UTA,24.0,Left Corner 3,0.0,0.0,0.0,,20.0,0.0
+68,1629752,Juwan Morgan,1610612762,UTA,24.0,Right Corner 3,,,,,20.0,0.0
+69,1629752,Juwan Morgan,1610612762,UTA,24.0,Above the Break 3,1.0,1.0,1.0,,20.0,0.0
+70,1629752,Juwan Morgan,1610612762,UTA,24.0,Backcourt,0.0,0.0,0.0,,20.0,0.0
+71,1629752,Juwan Morgan,1610612762,UTA,24.0,Corner 3,0.0,0.0,0.0,,20.0,0.0
+72,1629744,Matt Thomas,1610612762,UTA,26.0,Restricted Area,0.0,0.0,0.0,,20.0,0.0
+73,1629744,Matt Thomas,1610612762,UTA,26.0,In The Paint (Non-RA),0.0,2.0,0.0,,20.0,0.0
+74,1629744,Matt Thomas,1610612762,UTA,26.0,Mid-Range,2.0,2.0,1.0,,20.0,0.0
+75,1629744,Matt Thomas,1610612762,UTA,26.0,Left Corner 3,0.0,0.0,0.0,,20.0,0.0
+76,1629744,Matt Thomas,1610612762,UTA,26.0,Right Corner 3,,,,,20.0,0.0
+77,1629744,Matt Thomas,1610612762,UTA,26.0,Above the Break 3,2.0,2.0,1.0,,20.0,0.0
+78,1629744,Matt Thomas,1610612762,UTA,26.0,Backcourt,0.0,0.0,0.0,,20.0,0.0
+79,1629744,Matt Thomas,1610612762,UTA,26.0,Corner 3,0.0,0.0,0.0,,20.0,0.0
+80,1629671,Miye Oni,1610612762,UTA,23.0,Restricted Area,0.0,0.0,0.0,,20.0,0.0
+81,1629671,Miye Oni,1610612762,UTA,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,20.0,0.0
+82,1629671,Miye Oni,1610612762,UTA,23.0,Mid-Range,0.0,0.0,0.0,,20.0,0.0
+83,1629671,Miye Oni,1610612762,UTA,23.0,Left Corner 3,0.0,0.0,0.0,,20.0,0.0
+84,1629671,Miye Oni,1610612762,UTA,23.0,Right Corner 3,,,,,20.0,0.0
+85,1629671,Miye Oni,1610612762,UTA,23.0,Above the Break 3,1.0,1.0,1.0,,20.0,0.0
+86,1629671,Miye Oni,1610612762,UTA,23.0,Backcourt,0.0,0.0,0.0,,20.0,0.0
+87,1629671,Miye Oni,1610612762,UTA,23.0,Corner 3,0.0,0.0,0.0,,20.0,0.0
+88,1626220,Royce O'Neale,1610612762,UTA,28.0,Restricted Area,0.0,1.0,0.0,,20.0,0.0
+89,1626220,Royce O'Neale,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,20.0,0.0
+90,1626220,Royce O'Neale,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,20.0,0.0
+91,1626220,Royce O'Neale,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,20.0,0.0
+92,1626220,Royce O'Neale,1610612762,UTA,28.0,Right Corner 3,1.0,1.0,1.0,,20.0,0.0
+93,1626220,Royce O'Neale,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,20.0,0.0
+94,1626220,Royce O'Neale,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,20.0,0.0
+95,1626220,Royce O'Neale,1610612762,UTA,28.0,Corner 3,1.0,1.0,1.0,,20.0,0.0
+96,203497,Rudy Gobert,1610612762,UTA,28.0,Restricted Area,3.0,3.0,1.0,,20.0,0.0
+97,203497,Rudy Gobert,1610612762,UTA,28.0,In The Paint (Non-RA),0.0,1.0,0.0,,20.0,0.0
+98,203497,Rudy Gobert,1610612762,UTA,28.0,Mid-Range,0.0,0.0,0.0,,20.0,0.0
+99,203497,Rudy Gobert,1610612762,UTA,28.0,Left Corner 3,0.0,0.0,0.0,,20.0,0.0
+100,203497,Rudy Gobert,1610612762,UTA,28.0,Right Corner 3,0.0,0.0,0.0,,20.0,0.0
+101,203497,Rudy Gobert,1610612762,UTA,28.0,Above the Break 3,0.0,0.0,0.0,,20.0,0.0
+102,203497,Rudy Gobert,1610612762,UTA,28.0,Backcourt,0.0,0.0,0.0,,20.0,0.0
+103,203497,Rudy Gobert,1610612762,UTA,28.0,Corner 3,0.0,0.0,0.0,,20.0,0.0
+104,1630235,Trent Forrest,1610612762,UTA,22.0,Restricted Area,0.0,0.0,0.0,,20.0,0.0
+105,1630235,Trent Forrest,1610612762,UTA,22.0,In The Paint (Non-RA),1.0,1.0,1.0,,20.0,0.0
+106,1630235,Trent Forrest,1610612762,UTA,22.0,Mid-Range,0.0,1.0,0.0,,20.0,0.0
+107,1630235,Trent Forrest,1610612762,UTA,22.0,Left Corner 3,0.0,0.0,0.0,,20.0,0.0
+108,1630235,Trent Forrest,1610612762,UTA,22.0,Right Corner 3,0.0,0.0,0.0,,20.0,0.0
+109,1630235,Trent Forrest,1610612762,UTA,22.0,Above the Break 3,0.0,2.0,0.0,,20.0,0.0
+110,1630235,Trent Forrest,1610612762,UTA,22.0,Backcourt,,,,,20.0,0.0
+111,1630235,Trent Forrest,1610612762,UTA,22.0,Corner 3,0.0,0.0,0.0,,20.0,0.0

@@ -1,0 +1,897 @@
+,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_ABBREVIATION,AGE,ZONE,FGM,FGA,FG_PCT,SEASON,game_id,win
+0,1629632,Coby White,1610612741,CHI,21.0,Restricted Area,1.0,2.0,0.5,,31,1.0
+1,1629632,Coby White,1610612741,CHI,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,31,1.0
+2,1629632,Coby White,1610612741,CHI,21.0,Mid-Range,1.0,2.0,0.5,,31,1.0
+3,1629632,Coby White,1610612741,CHI,21.0,Left Corner 3,0.0,0.0,0.0,,31,1.0
+4,1629632,Coby White,1610612741,CHI,21.0,Right Corner 3,0.0,0.0,0.0,,31,1.0
+5,1629632,Coby White,1610612741,CHI,21.0,Above the Break 3,4.0,9.0,0.444,,31,1.0
+6,1629632,Coby White,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,31,1.0
+7,1629632,Coby White,1610612741,CHI,21.0,Corner 3,0.0,0.0,0.0,,31,1.0
+8,1626245,Cristiano Felicio,1610612741,CHI,28.0,Restricted Area,2.0,2.0,1.0,,31,1.0
+9,1626245,Cristiano Felicio,1610612741,CHI,28.0,In The Paint (Non-RA),0.0,1.0,0.0,,31,1.0
+10,1626245,Cristiano Felicio,1610612741,CHI,28.0,Mid-Range,0.0,1.0,0.0,,31,1.0
+11,1626245,Cristiano Felicio,1610612741,CHI,28.0,Left Corner 3,0.0,0.0,0.0,,31,1.0
+12,1626245,Cristiano Felicio,1610612741,CHI,28.0,Right Corner 3,,,,,31,1.0
+13,1626245,Cristiano Felicio,1610612741,CHI,28.0,Above the Break 3,0.0,1.0,0.0,,31,1.0
+14,1626245,Cristiano Felicio,1610612741,CHI,28.0,Backcourt,0.0,0.0,0.0,,31,1.0
+15,1626245,Cristiano Felicio,1610612741,CHI,28.0,Corner 3,0.0,0.0,0.0,,31,1.0
+16,1627756,Denzel Valentine,1610612741,CHI,27.0,Restricted Area,1.0,3.0,0.333,,31,1.0
+17,1627756,Denzel Valentine,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,1.0,0.0,,31,1.0
+18,1627756,Denzel Valentine,1610612741,CHI,27.0,Mid-Range,0.0,1.0,0.0,,31,1.0
+19,1627756,Denzel Valentine,1610612741,CHI,27.0,Left Corner 3,2.0,2.0,1.0,,31,1.0
+20,1627756,Denzel Valentine,1610612741,CHI,27.0,Right Corner 3,,,,,31,1.0
+21,1627756,Denzel Valentine,1610612741,CHI,27.0,Above the Break 3,0.0,2.0,0.0,,31,1.0
+22,1627756,Denzel Valentine,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,31,1.0
+23,1627756,Denzel Valentine,1610612741,CHI,27.0,Corner 3,2.0,2.0,1.0,,31,1.0
+24,1629653,Devon Dotson,1610612741,CHI,21.0,Restricted Area,4.0,4.0,1.0,,31,1.0
+25,1629653,Devon Dotson,1610612741,CHI,21.0,In The Paint (Non-RA),0.0,1.0,0.0,,31,1.0
+26,1629653,Devon Dotson,1610612741,CHI,21.0,Mid-Range,0.0,0.0,0.0,,31,1.0
+27,1629653,Devon Dotson,1610612741,CHI,21.0,Left Corner 3,0.0,1.0,0.0,,31,1.0
+28,1629653,Devon Dotson,1610612741,CHI,21.0,Right Corner 3,,,,,31,1.0
+29,1629653,Devon Dotson,1610612741,CHI,21.0,Above the Break 3,1.0,4.0,0.25,,31,1.0
+30,1629653,Devon Dotson,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,31,1.0
+31,1629653,Devon Dotson,1610612741,CHI,21.0,Corner 3,0.0,1.0,0.0,,31,1.0
+32,202066,Garrett Temple,1610612741,CHI,35.0,Restricted Area,1.0,1.0,1.0,,31,1.0
+33,202066,Garrett Temple,1610612741,CHI,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,31,1.0
+34,202066,Garrett Temple,1610612741,CHI,35.0,Mid-Range,1.0,2.0,0.5,,31,1.0
+35,202066,Garrett Temple,1610612741,CHI,35.0,Left Corner 3,0.0,0.0,0.0,,31,1.0
+36,202066,Garrett Temple,1610612741,CHI,35.0,Right Corner 3,0.0,0.0,0.0,,31,1.0
+37,202066,Garrett Temple,1610612741,CHI,35.0,Above the Break 3,1.0,2.0,0.5,,31,1.0
+38,202066,Garrett Temple,1610612741,CHI,35.0,Backcourt,0.0,0.0,0.0,,31,1.0
+39,202066,Garrett Temple,1610612741,CHI,35.0,Corner 3,0.0,0.0,0.0,,31,1.0
+40,1629750,Javonte Green,1610612741,CHI,27.0,Restricted Area,3.0,3.0,1.0,,31,1.0
+41,1629750,Javonte Green,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,1.0,0.0,,31,1.0
+42,1629750,Javonte Green,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,31,1.0
+43,1629750,Javonte Green,1610612741,CHI,27.0,Left Corner 3,0.0,0.0,0.0,,31,1.0
+44,1629750,Javonte Green,1610612741,CHI,27.0,Right Corner 3,0.0,0.0,0.0,,31,1.0
+45,1629750,Javonte Green,1610612741,CHI,27.0,Above the Break 3,0.0,1.0,0.0,,31,1.0
+46,1629750,Javonte Green,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,31,1.0
+47,1629750,Javonte Green,1610612741,CHI,27.0,Corner 3,0.0,0.0,0.0,,31,1.0
+48,1628374,Lauri Markkanen,1610612741,CHI,24.0,Restricted Area,1.0,3.0,0.333,,31,1.0
+49,1628374,Lauri Markkanen,1610612741,CHI,24.0,In The Paint (Non-RA),1.0,1.0,1.0,,31,1.0
+50,1628374,Lauri Markkanen,1610612741,CHI,24.0,Mid-Range,2.0,3.0,0.667,,31,1.0
+51,1628374,Lauri Markkanen,1610612741,CHI,24.0,Left Corner 3,0.0,0.0,0.0,,31,1.0
+52,1628374,Lauri Markkanen,1610612741,CHI,24.0,Right Corner 3,0.0,0.0,0.0,,31,1.0
+53,1628374,Lauri Markkanen,1610612741,CHI,24.0,Above the Break 3,2.0,4.0,0.5,,31,1.0
+54,1628374,Lauri Markkanen,1610612741,CHI,24.0,Backcourt,0.0,0.0,0.0,,31,1.0
+55,1628374,Lauri Markkanen,1610612741,CHI,24.0,Corner 3,0.0,0.0,0.0,,31,1.0
+56,1630172,Patrick Williams,1610612741,CHI,19.0,Restricted Area,3.0,4.0,0.75,,31,1.0
+57,1630172,Patrick Williams,1610612741,CHI,19.0,In The Paint (Non-RA),1.0,1.0,1.0,,31,1.0
+58,1630172,Patrick Williams,1610612741,CHI,19.0,Mid-Range,0.0,2.0,0.0,,31,1.0
+59,1630172,Patrick Williams,1610612741,CHI,19.0,Left Corner 3,0.0,0.0,0.0,,31,1.0
+60,1630172,Patrick Williams,1610612741,CHI,19.0,Right Corner 3,0.0,0.0,0.0,,31,1.0
+61,1630172,Patrick Williams,1610612741,CHI,19.0,Above the Break 3,0.0,1.0,0.0,,31,1.0
+62,1630172,Patrick Williams,1610612741,CHI,19.0,Backcourt,0.0,0.0,0.0,,31,1.0
+63,1630172,Patrick Williams,1610612741,CHI,19.0,Corner 3,0.0,0.0,0.0,,31,1.0
+64,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,31,1.0
+65,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,In The Paint (Non-RA),1.0,1.0,1.0,,31,1.0
+66,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Mid-Range,0.0,1.0,0.0,,31,1.0
+67,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Left Corner 3,0.0,0.0,0.0,,31,1.0
+68,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Right Corner 3,,,,,31,1.0
+69,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Above the Break 3,4.0,4.0,1.0,,31,1.0
+70,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,31,1.0
+71,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Corner 3,0.0,0.0,0.0,,31,1.0
+72,201152,Thaddeus Young,1610612741,CHI,32.0,Restricted Area,8.0,10.0,0.8,,31,1.0
+73,201152,Thaddeus Young,1610612741,CHI,32.0,In The Paint (Non-RA),0.0,3.0,0.0,,31,1.0
+74,201152,Thaddeus Young,1610612741,CHI,32.0,Mid-Range,0.0,1.0,0.0,,31,1.0
+75,201152,Thaddeus Young,1610612741,CHI,32.0,Left Corner 3,0.0,1.0,0.0,,31,1.0
+76,201152,Thaddeus Young,1610612741,CHI,32.0,Right Corner 3,0.0,0.0,0.0,,31,1.0
+77,201152,Thaddeus Young,1610612741,CHI,32.0,Above the Break 3,0.0,0.0,0.0,,31,1.0
+78,201152,Thaddeus Young,1610612741,CHI,32.0,Backcourt,0.0,0.0,0.0,,31,1.0
+79,201152,Thaddeus Young,1610612741,CHI,32.0,Corner 3,0.0,1.0,0.0,,31,1.0
+0,1629690,Adam Mokoka,1610612741,CHI,22.0,Restricted Area,0.0,1.0,0.0,,32,0.0
+1,1629690,Adam Mokoka,1610612741,CHI,22.0,In The Paint (Non-RA),0.0,0.0,0.0,,32,0.0
+2,1629690,Adam Mokoka,1610612741,CHI,22.0,Mid-Range,0.0,0.0,0.0,,32,0.0
+3,1629690,Adam Mokoka,1610612741,CHI,22.0,Left Corner 3,,,,,32,0.0
+4,1629690,Adam Mokoka,1610612741,CHI,22.0,Right Corner 3,,,,,32,0.0
+5,1629690,Adam Mokoka,1610612741,CHI,22.0,Above the Break 3,0.0,0.0,0.0,,32,0.0
+6,1629690,Adam Mokoka,1610612741,CHI,22.0,Backcourt,0.0,0.0,0.0,,32,0.0
+7,1629690,Adam Mokoka,1610612741,CHI,22.0,Corner 3,,,,,32,0.0
+8,1629632,Coby White,1610612741,CHI,21.0,Restricted Area,0.0,4.0,0.0,,32,0.0
+9,1629632,Coby White,1610612741,CHI,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,32,0.0
+10,1629632,Coby White,1610612741,CHI,21.0,Mid-Range,0.0,0.0,0.0,,32,0.0
+11,1629632,Coby White,1610612741,CHI,21.0,Left Corner 3,0.0,0.0,0.0,,32,0.0
+12,1629632,Coby White,1610612741,CHI,21.0,Right Corner 3,0.0,0.0,0.0,,32,0.0
+13,1629632,Coby White,1610612741,CHI,21.0,Above the Break 3,1.0,6.0,0.167,,32,0.0
+14,1629632,Coby White,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,32,0.0
+15,1629632,Coby White,1610612741,CHI,21.0,Corner 3,0.0,0.0,0.0,,32,0.0
+16,1626245,Cristiano Felicio,1610612741,CHI,28.0,Restricted Area,1.0,1.0,1.0,,32,0.0
+17,1626245,Cristiano Felicio,1610612741,CHI,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,32,0.0
+18,1626245,Cristiano Felicio,1610612741,CHI,28.0,Mid-Range,0.0,0.0,0.0,,32,0.0
+19,1626245,Cristiano Felicio,1610612741,CHI,28.0,Left Corner 3,,,,,32,0.0
+20,1626245,Cristiano Felicio,1610612741,CHI,28.0,Right Corner 3,,,,,32,0.0
+21,1626245,Cristiano Felicio,1610612741,CHI,28.0,Above the Break 3,0.0,0.0,0.0,,32,0.0
+22,1626245,Cristiano Felicio,1610612741,CHI,28.0,Backcourt,0.0,0.0,0.0,,32,0.0
+23,1626245,Cristiano Felicio,1610612741,CHI,28.0,Corner 3,,,,,32,0.0
+24,1627756,Denzel Valentine,1610612741,CHI,27.0,Restricted Area,0.0,1.0,0.0,,32,0.0
+25,1627756,Denzel Valentine,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,2.0,0.0,,32,0.0
+26,1627756,Denzel Valentine,1610612741,CHI,27.0,Mid-Range,0.0,1.0,0.0,,32,0.0
+27,1627756,Denzel Valentine,1610612741,CHI,27.0,Left Corner 3,0.0,0.0,0.0,,32,0.0
+28,1627756,Denzel Valentine,1610612741,CHI,27.0,Right Corner 3,0.0,0.0,0.0,,32,0.0
+29,1627756,Denzel Valentine,1610612741,CHI,27.0,Above the Break 3,0.0,3.0,0.0,,32,0.0
+30,1627756,Denzel Valentine,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,32,0.0
+31,1627756,Denzel Valentine,1610612741,CHI,27.0,Corner 3,0.0,0.0,0.0,,32,0.0
+32,1629653,Devon Dotson,1610612741,CHI,21.0,Restricted Area,0.0,0.0,0.0,,32,0.0
+33,1629653,Devon Dotson,1610612741,CHI,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,32,0.0
+34,1629653,Devon Dotson,1610612741,CHI,21.0,Mid-Range,0.0,0.0,0.0,,32,0.0
+35,1629653,Devon Dotson,1610612741,CHI,21.0,Left Corner 3,,,,,32,0.0
+36,1629653,Devon Dotson,1610612741,CHI,21.0,Right Corner 3,,,,,32,0.0
+37,1629653,Devon Dotson,1610612741,CHI,21.0,Above the Break 3,0.0,1.0,0.0,,32,0.0
+38,1629653,Devon Dotson,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,32,0.0
+39,1629653,Devon Dotson,1610612741,CHI,21.0,Corner 3,,,,,32,0.0
+40,202066,Garrett Temple,1610612741,CHI,35.0,Restricted Area,0.0,3.0,0.0,,32,0.0
+41,202066,Garrett Temple,1610612741,CHI,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,32,0.0
+42,202066,Garrett Temple,1610612741,CHI,35.0,Mid-Range,1.0,1.0,1.0,,32,0.0
+43,202066,Garrett Temple,1610612741,CHI,35.0,Left Corner 3,0.0,1.0,0.0,,32,0.0
+44,202066,Garrett Temple,1610612741,CHI,35.0,Right Corner 3,0.0,0.0,0.0,,32,0.0
+45,202066,Garrett Temple,1610612741,CHI,35.0,Above the Break 3,2.0,6.0,0.333,,32,0.0
+46,202066,Garrett Temple,1610612741,CHI,35.0,Backcourt,0.0,0.0,0.0,,32,0.0
+47,202066,Garrett Temple,1610612741,CHI,35.0,Corner 3,0.0,1.0,0.0,,32,0.0
+48,1629750,Javonte Green,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,32,0.0
+49,1629750,Javonte Green,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,1.0,0.0,,32,0.0
+50,1629750,Javonte Green,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,32,0.0
+51,1629750,Javonte Green,1610612741,CHI,27.0,Left Corner 3,0.0,0.0,0.0,,32,0.0
+52,1629750,Javonte Green,1610612741,CHI,27.0,Right Corner 3,0.0,0.0,0.0,,32,0.0
+53,1629750,Javonte Green,1610612741,CHI,27.0,Above the Break 3,0.0,1.0,0.0,,32,0.0
+54,1629750,Javonte Green,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,32,0.0
+55,1629750,Javonte Green,1610612741,CHI,27.0,Corner 3,0.0,0.0,0.0,,32,0.0
+56,1628374,Lauri Markkanen,1610612741,CHI,24.0,Restricted Area,1.0,2.0,0.5,,32,0.0
+57,1628374,Lauri Markkanen,1610612741,CHI,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,32,0.0
+58,1628374,Lauri Markkanen,1610612741,CHI,24.0,Mid-Range,0.0,1.0,0.0,,32,0.0
+59,1628374,Lauri Markkanen,1610612741,CHI,24.0,Left Corner 3,0.0,0.0,0.0,,32,0.0
+60,1628374,Lauri Markkanen,1610612741,CHI,24.0,Right Corner 3,1.0,1.0,1.0,,32,0.0
+61,1628374,Lauri Markkanen,1610612741,CHI,24.0,Above the Break 3,3.0,6.0,0.5,,32,0.0
+62,1628374,Lauri Markkanen,1610612741,CHI,24.0,Backcourt,0.0,0.0,0.0,,32,0.0
+63,1628374,Lauri Markkanen,1610612741,CHI,24.0,Corner 3,1.0,1.0,1.0,,32,0.0
+64,202696,Nikola Vucevic,1610612741,CHI,30.0,Restricted Area,0.0,0.0,0.0,,32,0.0
+65,202696,Nikola Vucevic,1610612741,CHI,30.0,In The Paint (Non-RA),2.0,5.0,0.4,,32,0.0
+66,202696,Nikola Vucevic,1610612741,CHI,30.0,Mid-Range,2.0,5.0,0.4,,32,0.0
+67,202696,Nikola Vucevic,1610612741,CHI,30.0,Left Corner 3,0.0,0.0,0.0,,32,0.0
+68,202696,Nikola Vucevic,1610612741,CHI,30.0,Right Corner 3,0.0,0.0,0.0,,32,0.0
+69,202696,Nikola Vucevic,1610612741,CHI,30.0,Above the Break 3,0.0,8.0,0.0,,32,0.0
+70,202696,Nikola Vucevic,1610612741,CHI,30.0,Backcourt,0.0,0.0,0.0,,32,0.0
+71,202696,Nikola Vucevic,1610612741,CHI,30.0,Corner 3,0.0,0.0,0.0,,32,0.0
+72,1630172,Patrick Williams,1610612741,CHI,19.0,Restricted Area,4.0,5.0,0.8,,32,0.0
+73,1630172,Patrick Williams,1610612741,CHI,19.0,In The Paint (Non-RA),1.0,2.0,0.5,,32,0.0
+74,1630172,Patrick Williams,1610612741,CHI,19.0,Mid-Range,1.0,3.0,0.333,,32,0.0
+75,1630172,Patrick Williams,1610612741,CHI,19.0,Left Corner 3,0.0,0.0,0.0,,32,0.0
+76,1630172,Patrick Williams,1610612741,CHI,19.0,Right Corner 3,0.0,0.0,0.0,,32,0.0
+77,1630172,Patrick Williams,1610612741,CHI,19.0,Above the Break 3,3.0,4.0,0.75,,32,0.0
+78,1630172,Patrick Williams,1610612741,CHI,19.0,Backcourt,0.0,0.0,0.0,,32,0.0
+79,1630172,Patrick Williams,1610612741,CHI,19.0,Corner 3,0.0,0.0,0.0,,32,0.0
+80,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,32,0.0
+81,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,In The Paint (Non-RA),1.0,2.0,0.5,,32,0.0
+82,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,32,0.0
+83,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Left Corner 3,0.0,0.0,0.0,,32,0.0
+84,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Right Corner 3,0.0,0.0,0.0,,32,0.0
+85,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Above the Break 3,1.0,3.0,0.333,,32,0.0
+86,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,32,0.0
+87,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Corner 3,0.0,0.0,0.0,,32,0.0
+88,201152,Thaddeus Young,1610612741,CHI,32.0,Restricted Area,5.0,9.0,0.556,,32,0.0
+89,201152,Thaddeus Young,1610612741,CHI,32.0,In The Paint (Non-RA),4.0,8.0,0.5,,32,0.0
+90,201152,Thaddeus Young,1610612741,CHI,32.0,Mid-Range,0.0,0.0,0.0,,32,0.0
+91,201152,Thaddeus Young,1610612741,CHI,32.0,Left Corner 3,0.0,1.0,0.0,,32,0.0
+92,201152,Thaddeus Young,1610612741,CHI,32.0,Right Corner 3,0.0,0.0,0.0,,32,0.0
+93,201152,Thaddeus Young,1610612741,CHI,32.0,Above the Break 3,0.0,0.0,0.0,,32,0.0
+94,201152,Thaddeus Young,1610612741,CHI,32.0,Backcourt,0.0,0.0,0.0,,32,0.0
+95,201152,Thaddeus Young,1610612741,CHI,32.0,Corner 3,0.0,1.0,0.0,,32,0.0
+0,1629632,Coby White,1610612741,CHI,21.0,Restricted Area,2.0,3.0,0.667,,33,1.0
+1,1629632,Coby White,1610612741,CHI,21.0,In The Paint (Non-RA),1.0,1.0,1.0,,33,1.0
+2,1629632,Coby White,1610612741,CHI,21.0,Mid-Range,1.0,1.0,1.0,,33,1.0
+3,1629632,Coby White,1610612741,CHI,21.0,Left Corner 3,1.0,1.0,1.0,,33,1.0
+4,1629632,Coby White,1610612741,CHI,21.0,Right Corner 3,0.0,0.0,0.0,,33,1.0
+5,1629632,Coby White,1610612741,CHI,21.0,Above the Break 3,2.0,6.0,0.333,,33,1.0
+6,1629632,Coby White,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,33,1.0
+7,1629632,Coby White,1610612741,CHI,21.0,Corner 3,1.0,1.0,1.0,,33,1.0
+8,202066,Garrett Temple,1610612741,CHI,35.0,Restricted Area,1.0,1.0,1.0,,33,1.0
+9,202066,Garrett Temple,1610612741,CHI,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,33,1.0
+10,202066,Garrett Temple,1610612741,CHI,35.0,Mid-Range,0.0,0.0,0.0,,33,1.0
+11,202066,Garrett Temple,1610612741,CHI,35.0,Left Corner 3,0.0,0.0,0.0,,33,1.0
+12,202066,Garrett Temple,1610612741,CHI,35.0,Right Corner 3,0.0,0.0,0.0,,33,1.0
+13,202066,Garrett Temple,1610612741,CHI,35.0,Above the Break 3,0.0,0.0,0.0,,33,1.0
+14,202066,Garrett Temple,1610612741,CHI,35.0,Backcourt,0.0,0.0,0.0,,33,1.0
+15,202066,Garrett Temple,1610612741,CHI,35.0,Corner 3,0.0,0.0,0.0,,33,1.0
+16,1629750,Javonte Green,1610612741,CHI,27.0,Restricted Area,2.0,3.0,0.667,,33,1.0
+17,1629750,Javonte Green,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,33,1.0
+18,1629750,Javonte Green,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,33,1.0
+19,1629750,Javonte Green,1610612741,CHI,27.0,Left Corner 3,0.0,1.0,0.0,,33,1.0
+20,1629750,Javonte Green,1610612741,CHI,27.0,Right Corner 3,1.0,1.0,1.0,,33,1.0
+21,1629750,Javonte Green,1610612741,CHI,27.0,Above the Break 3,1.0,1.0,1.0,,33,1.0
+22,1629750,Javonte Green,1610612741,CHI,27.0,Backcourt,,,,,33,1.0
+23,1629750,Javonte Green,1610612741,CHI,27.0,Corner 3,1.0,2.0,0.5,,33,1.0
+24,1628374,Lauri Markkanen,1610612741,CHI,24.0,Restricted Area,0.0,0.0,0.0,,33,1.0
+25,1628374,Lauri Markkanen,1610612741,CHI,24.0,In The Paint (Non-RA),1.0,1.0,1.0,,33,1.0
+26,1628374,Lauri Markkanen,1610612741,CHI,24.0,Mid-Range,0.0,0.0,0.0,,33,1.0
+27,1628374,Lauri Markkanen,1610612741,CHI,24.0,Left Corner 3,0.0,0.0,0.0,,33,1.0
+28,1628374,Lauri Markkanen,1610612741,CHI,24.0,Right Corner 3,1.0,1.0,1.0,,33,1.0
+29,1628374,Lauri Markkanen,1610612741,CHI,24.0,Above the Break 3,5.0,8.0,0.625,,33,1.0
+30,1628374,Lauri Markkanen,1610612741,CHI,24.0,Backcourt,,,,,33,1.0
+31,1628374,Lauri Markkanen,1610612741,CHI,24.0,Corner 3,1.0,1.0,1.0,,33,1.0
+32,202696,Nikola Vucevic,1610612741,CHI,30.0,Restricted Area,1.0,1.0,1.0,,33,1.0
+33,202696,Nikola Vucevic,1610612741,CHI,30.0,In The Paint (Non-RA),2.0,4.0,0.5,,33,1.0
+34,202696,Nikola Vucevic,1610612741,CHI,30.0,Mid-Range,2.0,7.0,0.286,,33,1.0
+35,202696,Nikola Vucevic,1610612741,CHI,30.0,Left Corner 3,0.0,0.0,0.0,,33,1.0
+36,202696,Nikola Vucevic,1610612741,CHI,30.0,Right Corner 3,0.0,0.0,0.0,,33,1.0
+37,202696,Nikola Vucevic,1610612741,CHI,30.0,Above the Break 3,2.0,7.0,0.286,,33,1.0
+38,202696,Nikola Vucevic,1610612741,CHI,30.0,Backcourt,0.0,0.0,0.0,,33,1.0
+39,202696,Nikola Vucevic,1610612741,CHI,30.0,Corner 3,0.0,0.0,0.0,,33,1.0
+40,1630172,Patrick Williams,1610612741,CHI,19.0,Restricted Area,2.0,5.0,0.4,,33,1.0
+41,1630172,Patrick Williams,1610612741,CHI,19.0,In The Paint (Non-RA),0.0,0.0,0.0,,33,1.0
+42,1630172,Patrick Williams,1610612741,CHI,19.0,Mid-Range,0.0,0.0,0.0,,33,1.0
+43,1630172,Patrick Williams,1610612741,CHI,19.0,Left Corner 3,0.0,1.0,0.0,,33,1.0
+44,1630172,Patrick Williams,1610612741,CHI,19.0,Right Corner 3,1.0,1.0,1.0,,33,1.0
+45,1630172,Patrick Williams,1610612741,CHI,19.0,Above the Break 3,0.0,1.0,0.0,,33,1.0
+46,1630172,Patrick Williams,1610612741,CHI,19.0,Backcourt,0.0,0.0,0.0,,33,1.0
+47,1630172,Patrick Williams,1610612741,CHI,19.0,Corner 3,1.0,2.0,0.5,,33,1.0
+48,201152,Thaddeus Young,1610612741,CHI,32.0,Restricted Area,4.0,5.0,0.8,,33,1.0
+49,201152,Thaddeus Young,1610612741,CHI,32.0,In The Paint (Non-RA),1.0,3.0,0.333,,33,1.0
+50,201152,Thaddeus Young,1610612741,CHI,32.0,Mid-Range,0.0,0.0,0.0,,33,1.0
+51,201152,Thaddeus Young,1610612741,CHI,32.0,Left Corner 3,0.0,0.0,0.0,,33,1.0
+52,201152,Thaddeus Young,1610612741,CHI,32.0,Right Corner 3,0.0,0.0,0.0,,33,1.0
+53,201152,Thaddeus Young,1610612741,CHI,32.0,Above the Break 3,0.0,0.0,0.0,,33,1.0
+54,201152,Thaddeus Young,1610612741,CHI,32.0,Backcourt,0.0,0.0,0.0,,33,1.0
+55,201152,Thaddeus Young,1610612741,CHI,32.0,Corner 3,0.0,0.0,0.0,,33,1.0
+56,203107,Tomas Satoransky,1610612741,CHI,29.0,Restricted Area,2.0,2.0,1.0,,33,1.0
+57,203107,Tomas Satoransky,1610612741,CHI,29.0,In The Paint (Non-RA),1.0,2.0,0.5,,33,1.0
+58,203107,Tomas Satoransky,1610612741,CHI,29.0,Mid-Range,0.0,0.0,0.0,,33,1.0
+59,203107,Tomas Satoransky,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,33,1.0
+60,203107,Tomas Satoransky,1610612741,CHI,29.0,Right Corner 3,0.0,0.0,0.0,,33,1.0
+61,203107,Tomas Satoransky,1610612741,CHI,29.0,Above the Break 3,0.0,0.0,0.0,,33,1.0
+62,203107,Tomas Satoransky,1610612741,CHI,29.0,Backcourt,,,,,33,1.0
+63,203107,Tomas Satoransky,1610612741,CHI,29.0,Corner 3,0.0,0.0,0.0,,33,1.0
+64,203897,Zach LaVine,1610612741,CHI,26.0,Restricted Area,4.0,5.0,0.8,,33,1.0
+65,203897,Zach LaVine,1610612741,CHI,26.0,In The Paint (Non-RA),0.0,1.0,0.0,,33,1.0
+66,203897,Zach LaVine,1610612741,CHI,26.0,Mid-Range,1.0,2.0,0.5,,33,1.0
+67,203897,Zach LaVine,1610612741,CHI,26.0,Left Corner 3,0.0,0.0,0.0,,33,1.0
+68,203897,Zach LaVine,1610612741,CHI,26.0,Right Corner 3,0.0,0.0,0.0,,33,1.0
+69,203897,Zach LaVine,1610612741,CHI,26.0,Above the Break 3,3.0,7.0,0.429,,33,1.0
+70,203897,Zach LaVine,1610612741,CHI,26.0,Backcourt,0.0,0.0,0.0,,33,1.0
+71,203897,Zach LaVine,1610612741,CHI,26.0,Corner 3,0.0,0.0,0.0,,33,1.0
+0,1629632,Coby White,1610612741,CHI,21.0,Restricted Area,1.0,3.0,0.333,,34,0.0
+1,1629632,Coby White,1610612741,CHI,21.0,In The Paint (Non-RA),1.0,2.0,0.5,,34,0.0
+2,1629632,Coby White,1610612741,CHI,21.0,Mid-Range,0.0,1.0,0.0,,34,0.0
+3,1629632,Coby White,1610612741,CHI,21.0,Left Corner 3,0.0,0.0,0.0,,34,0.0
+4,1629632,Coby White,1610612741,CHI,21.0,Right Corner 3,0.0,0.0,0.0,,34,0.0
+5,1629632,Coby White,1610612741,CHI,21.0,Above the Break 3,4.0,11.0,0.364,,34,0.0
+6,1629632,Coby White,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,34,0.0
+7,1629632,Coby White,1610612741,CHI,21.0,Corner 3,0.0,0.0,0.0,,34,0.0
+8,1628464,Daniel Theis,1610612741,CHI,29.0,Restricted Area,1.0,1.0,1.0,,34,0.0
+9,1628464,Daniel Theis,1610612741,CHI,29.0,In The Paint (Non-RA),0.0,1.0,0.0,,34,0.0
+10,1628464,Daniel Theis,1610612741,CHI,29.0,Mid-Range,0.0,0.0,0.0,,34,0.0
+11,1628464,Daniel Theis,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,34,0.0
+12,1628464,Daniel Theis,1610612741,CHI,29.0,Right Corner 3,,,,,34,0.0
+13,1628464,Daniel Theis,1610612741,CHI,29.0,Above the Break 3,2.0,2.0,1.0,,34,0.0
+14,1628464,Daniel Theis,1610612741,CHI,29.0,Backcourt,0.0,0.0,0.0,,34,0.0
+15,1628464,Daniel Theis,1610612741,CHI,29.0,Corner 3,0.0,0.0,0.0,,34,0.0
+16,202066,Garrett Temple,1610612741,CHI,35.0,Restricted Area,2.0,3.0,0.667,,34,0.0
+17,202066,Garrett Temple,1610612741,CHI,35.0,In The Paint (Non-RA),0.0,1.0,0.0,,34,0.0
+18,202066,Garrett Temple,1610612741,CHI,35.0,Mid-Range,0.0,1.0,0.0,,34,0.0
+19,202066,Garrett Temple,1610612741,CHI,35.0,Left Corner 3,0.0,2.0,0.0,,34,0.0
+20,202066,Garrett Temple,1610612741,CHI,35.0,Right Corner 3,0.0,0.0,0.0,,34,0.0
+21,202066,Garrett Temple,1610612741,CHI,35.0,Above the Break 3,0.0,1.0,0.0,,34,0.0
+22,202066,Garrett Temple,1610612741,CHI,35.0,Backcourt,0.0,0.0,0.0,,34,0.0
+23,202066,Garrett Temple,1610612741,CHI,35.0,Corner 3,0.0,2.0,0.0,,34,0.0
+24,1629750,Javonte Green,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,34,0.0
+25,1629750,Javonte Green,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,34,0.0
+26,1629750,Javonte Green,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,34,0.0
+27,1629750,Javonte Green,1610612741,CHI,27.0,Left Corner 3,,,,,34,0.0
+28,1629750,Javonte Green,1610612741,CHI,27.0,Right Corner 3,,,,,34,0.0
+29,1629750,Javonte Green,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,34,0.0
+30,1629750,Javonte Green,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,34,0.0
+31,1629750,Javonte Green,1610612741,CHI,27.0,Corner 3,,,,,34,0.0
+32,1628374,Lauri Markkanen,1610612741,CHI,24.0,Restricted Area,1.0,1.0,1.0,,34,0.0
+33,1628374,Lauri Markkanen,1610612741,CHI,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,34,0.0
+34,1628374,Lauri Markkanen,1610612741,CHI,24.0,Mid-Range,0.0,0.0,0.0,,34,0.0
+35,1628374,Lauri Markkanen,1610612741,CHI,24.0,Left Corner 3,0.0,0.0,0.0,,34,0.0
+36,1628374,Lauri Markkanen,1610612741,CHI,24.0,Right Corner 3,0.0,0.0,0.0,,34,0.0
+37,1628374,Lauri Markkanen,1610612741,CHI,24.0,Above the Break 3,3.0,7.0,0.429,,34,0.0
+38,1628374,Lauri Markkanen,1610612741,CHI,24.0,Backcourt,0.0,0.0,0.0,,34,0.0
+39,1628374,Lauri Markkanen,1610612741,CHI,24.0,Corner 3,0.0,0.0,0.0,,34,0.0
+40,202696,Nikola Vucevic,1610612741,CHI,30.0,Restricted Area,2.0,2.0,1.0,,34,0.0
+41,202696,Nikola Vucevic,1610612741,CHI,30.0,In The Paint (Non-RA),0.0,5.0,0.0,,34,0.0
+42,202696,Nikola Vucevic,1610612741,CHI,30.0,Mid-Range,1.0,5.0,0.2,,34,0.0
+43,202696,Nikola Vucevic,1610612741,CHI,30.0,Left Corner 3,0.0,0.0,0.0,,34,0.0
+44,202696,Nikola Vucevic,1610612741,CHI,30.0,Right Corner 3,0.0,0.0,0.0,,34,0.0
+45,202696,Nikola Vucevic,1610612741,CHI,30.0,Above the Break 3,2.0,6.0,0.333,,34,0.0
+46,202696,Nikola Vucevic,1610612741,CHI,30.0,Backcourt,0.0,0.0,0.0,,34,0.0
+47,202696,Nikola Vucevic,1610612741,CHI,30.0,Corner 3,0.0,0.0,0.0,,34,0.0
+48,1630172,Patrick Williams,1610612741,CHI,19.0,Restricted Area,0.0,0.0,0.0,,34,0.0
+49,1630172,Patrick Williams,1610612741,CHI,19.0,In The Paint (Non-RA),0.0,0.0,0.0,,34,0.0
+50,1630172,Patrick Williams,1610612741,CHI,19.0,Mid-Range,1.0,1.0,1.0,,34,0.0
+51,1630172,Patrick Williams,1610612741,CHI,19.0,Left Corner 3,1.0,1.0,1.0,,34,0.0
+52,1630172,Patrick Williams,1610612741,CHI,19.0,Right Corner 3,0.0,0.0,0.0,,34,0.0
+53,1630172,Patrick Williams,1610612741,CHI,19.0,Above the Break 3,0.0,0.0,0.0,,34,0.0
+54,1630172,Patrick Williams,1610612741,CHI,19.0,Backcourt,0.0,0.0,0.0,,34,0.0
+55,1630172,Patrick Williams,1610612741,CHI,19.0,Corner 3,1.0,1.0,1.0,,34,0.0
+56,201152,Thaddeus Young,1610612741,CHI,32.0,Restricted Area,1.0,4.0,0.25,,34,0.0
+57,201152,Thaddeus Young,1610612741,CHI,32.0,In The Paint (Non-RA),1.0,2.0,0.5,,34,0.0
+58,201152,Thaddeus Young,1610612741,CHI,32.0,Mid-Range,0.0,2.0,0.0,,34,0.0
+59,201152,Thaddeus Young,1610612741,CHI,32.0,Left Corner 3,0.0,0.0,0.0,,34,0.0
+60,201152,Thaddeus Young,1610612741,CHI,32.0,Right Corner 3,0.0,0.0,0.0,,34,0.0
+61,201152,Thaddeus Young,1610612741,CHI,32.0,Above the Break 3,0.0,1.0,0.0,,34,0.0
+62,201152,Thaddeus Young,1610612741,CHI,32.0,Backcourt,0.0,1.0,0.0,,34,0.0
+63,201152,Thaddeus Young,1610612741,CHI,32.0,Corner 3,0.0,0.0,0.0,,34,0.0
+64,203107,Tomas Satoransky,1610612741,CHI,29.0,Restricted Area,0.0,0.0,0.0,,34,0.0
+65,203107,Tomas Satoransky,1610612741,CHI,29.0,In The Paint (Non-RA),0.0,1.0,0.0,,34,0.0
+66,203107,Tomas Satoransky,1610612741,CHI,29.0,Mid-Range,0.0,0.0,0.0,,34,0.0
+67,203107,Tomas Satoransky,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,34,0.0
+68,203107,Tomas Satoransky,1610612741,CHI,29.0,Right Corner 3,,,,,34,0.0
+69,203107,Tomas Satoransky,1610612741,CHI,29.0,Above the Break 3,0.0,1.0,0.0,,34,0.0
+70,203107,Tomas Satoransky,1610612741,CHI,29.0,Backcourt,,,,,34,0.0
+71,203107,Tomas Satoransky,1610612741,CHI,29.0,Corner 3,0.0,0.0,0.0,,34,0.0
+72,203897,Zach LaVine,1610612741,CHI,26.0,Restricted Area,5.0,7.0,0.714,,34,0.0
+73,203897,Zach LaVine,1610612741,CHI,26.0,In The Paint (Non-RA),2.0,4.0,0.5,,34,0.0
+74,203897,Zach LaVine,1610612741,CHI,26.0,Mid-Range,2.0,5.0,0.4,,34,0.0
+75,203897,Zach LaVine,1610612741,CHI,26.0,Left Corner 3,1.0,1.0,1.0,,34,0.0
+76,203897,Zach LaVine,1610612741,CHI,26.0,Right Corner 3,0.0,0.0,0.0,,34,0.0
+77,203897,Zach LaVine,1610612741,CHI,26.0,Above the Break 3,5.0,10.0,0.5,,34,0.0
+78,203897,Zach LaVine,1610612741,CHI,26.0,Backcourt,0.0,0.0,0.0,,34,0.0
+79,203897,Zach LaVine,1610612741,CHI,26.0,Corner 3,1.0,1.0,1.0,,34,0.0
+0,1629632,Coby White,1610612741,CHI,21.0,Restricted Area,1.0,2.0,0.5,,35,1.0
+1,1629632,Coby White,1610612741,CHI,21.0,In The Paint (Non-RA),2.0,2.0,1.0,,35,1.0
+2,1629632,Coby White,1610612741,CHI,21.0,Mid-Range,0.0,1.0,0.0,,35,1.0
+3,1629632,Coby White,1610612741,CHI,21.0,Left Corner 3,2.0,2.0,1.0,,35,1.0
+4,1629632,Coby White,1610612741,CHI,21.0,Right Corner 3,2.0,2.0,1.0,,35,1.0
+5,1629632,Coby White,1610612741,CHI,21.0,Above the Break 3,1.0,7.0,0.143,,35,1.0
+6,1629632,Coby White,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,35,1.0
+7,1629632,Coby White,1610612741,CHI,21.0,Corner 3,4.0,4.0,1.0,,35,1.0
+8,202066,Garrett Temple,1610612741,CHI,35.0,Restricted Area,0.0,1.0,0.0,,35,1.0
+9,202066,Garrett Temple,1610612741,CHI,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,35,1.0
+10,202066,Garrett Temple,1610612741,CHI,35.0,Mid-Range,0.0,0.0,0.0,,35,1.0
+11,202066,Garrett Temple,1610612741,CHI,35.0,Left Corner 3,0.0,0.0,0.0,,35,1.0
+12,202066,Garrett Temple,1610612741,CHI,35.0,Right Corner 3,0.0,1.0,0.0,,35,1.0
+13,202066,Garrett Temple,1610612741,CHI,35.0,Above the Break 3,0.0,0.0,0.0,,35,1.0
+14,202066,Garrett Temple,1610612741,CHI,35.0,Backcourt,0.0,0.0,0.0,,35,1.0
+15,202066,Garrett Temple,1610612741,CHI,35.0,Corner 3,0.0,1.0,0.0,,35,1.0
+16,1629750,Javonte Green,1610612741,CHI,27.0,Restricted Area,1.0,2.0,0.5,,35,1.0
+17,1629750,Javonte Green,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,35,1.0
+18,1629750,Javonte Green,1610612741,CHI,27.0,Mid-Range,1.0,1.0,1.0,,35,1.0
+19,1629750,Javonte Green,1610612741,CHI,27.0,Left Corner 3,0.0,0.0,0.0,,35,1.0
+20,1629750,Javonte Green,1610612741,CHI,27.0,Right Corner 3,0.0,0.0,0.0,,35,1.0
+21,1629750,Javonte Green,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,35,1.0
+22,1629750,Javonte Green,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,35,1.0
+23,1629750,Javonte Green,1610612741,CHI,27.0,Corner 3,0.0,0.0,0.0,,35,1.0
+24,1628374,Lauri Markkanen,1610612741,CHI,24.0,Restricted Area,1.0,1.0,1.0,,35,1.0
+25,1628374,Lauri Markkanen,1610612741,CHI,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,35,1.0
+26,1628374,Lauri Markkanen,1610612741,CHI,24.0,Mid-Range,0.0,0.0,0.0,,35,1.0
+27,1628374,Lauri Markkanen,1610612741,CHI,24.0,Left Corner 3,0.0,0.0,0.0,,35,1.0
+28,1628374,Lauri Markkanen,1610612741,CHI,24.0,Right Corner 3,0.0,0.0,0.0,,35,1.0
+29,1628374,Lauri Markkanen,1610612741,CHI,24.0,Above the Break 3,0.0,1.0,0.0,,35,1.0
+30,1628374,Lauri Markkanen,1610612741,CHI,24.0,Backcourt,0.0,0.0,0.0,,35,1.0
+31,1628374,Lauri Markkanen,1610612741,CHI,24.0,Corner 3,0.0,0.0,0.0,,35,1.0
+32,202696,Nikola Vucevic,1610612741,CHI,30.0,Restricted Area,3.0,5.0,0.6,,35,1.0
+33,202696,Nikola Vucevic,1610612741,CHI,30.0,In The Paint (Non-RA),5.0,7.0,0.714,,35,1.0
+34,202696,Nikola Vucevic,1610612741,CHI,30.0,Mid-Range,5.0,7.0,0.714,,35,1.0
+35,202696,Nikola Vucevic,1610612741,CHI,30.0,Left Corner 3,0.0,0.0,0.0,,35,1.0
+36,202696,Nikola Vucevic,1610612741,CHI,30.0,Right Corner 3,0.0,0.0,0.0,,35,1.0
+37,202696,Nikola Vucevic,1610612741,CHI,30.0,Above the Break 3,1.0,8.0,0.125,,35,1.0
+38,202696,Nikola Vucevic,1610612741,CHI,30.0,Backcourt,0.0,0.0,0.0,,35,1.0
+39,202696,Nikola Vucevic,1610612741,CHI,30.0,Corner 3,0.0,0.0,0.0,,35,1.0
+40,1630172,Patrick Williams,1610612741,CHI,19.0,Restricted Area,2.0,2.0,1.0,,35,1.0
+41,1630172,Patrick Williams,1610612741,CHI,19.0,In The Paint (Non-RA),0.0,1.0,0.0,,35,1.0
+42,1630172,Patrick Williams,1610612741,CHI,19.0,Mid-Range,0.0,0.0,0.0,,35,1.0
+43,1630172,Patrick Williams,1610612741,CHI,19.0,Left Corner 3,0.0,0.0,0.0,,35,1.0
+44,1630172,Patrick Williams,1610612741,CHI,19.0,Right Corner 3,0.0,0.0,0.0,,35,1.0
+45,1630172,Patrick Williams,1610612741,CHI,19.0,Above the Break 3,0.0,1.0,0.0,,35,1.0
+46,1630172,Patrick Williams,1610612741,CHI,19.0,Backcourt,,,,,35,1.0
+47,1630172,Patrick Williams,1610612741,CHI,19.0,Corner 3,0.0,0.0,0.0,,35,1.0
+48,201152,Thaddeus Young,1610612741,CHI,32.0,Restricted Area,1.0,4.0,0.25,,35,1.0
+49,201152,Thaddeus Young,1610612741,CHI,32.0,In The Paint (Non-RA),1.0,3.0,0.333,,35,1.0
+50,201152,Thaddeus Young,1610612741,CHI,32.0,Mid-Range,0.0,0.0,0.0,,35,1.0
+51,201152,Thaddeus Young,1610612741,CHI,32.0,Left Corner 3,2.0,2.0,1.0,,35,1.0
+52,201152,Thaddeus Young,1610612741,CHI,32.0,Right Corner 3,0.0,1.0,0.0,,35,1.0
+53,201152,Thaddeus Young,1610612741,CHI,32.0,Above the Break 3,0.0,0.0,0.0,,35,1.0
+54,201152,Thaddeus Young,1610612741,CHI,32.0,Backcourt,0.0,0.0,0.0,,35,1.0
+55,201152,Thaddeus Young,1610612741,CHI,32.0,Corner 3,2.0,3.0,0.667,,35,1.0
+56,203107,Tomas Satoransky,1610612741,CHI,29.0,Restricted Area,1.0,1.0,1.0,,35,1.0
+57,203107,Tomas Satoransky,1610612741,CHI,29.0,In The Paint (Non-RA),0.0,1.0,0.0,,35,1.0
+58,203107,Tomas Satoransky,1610612741,CHI,29.0,Mid-Range,0.0,0.0,0.0,,35,1.0
+59,203107,Tomas Satoransky,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,35,1.0
+60,203107,Tomas Satoransky,1610612741,CHI,29.0,Right Corner 3,,,,,35,1.0
+61,203107,Tomas Satoransky,1610612741,CHI,29.0,Above the Break 3,1.0,2.0,0.5,,35,1.0
+62,203107,Tomas Satoransky,1610612741,CHI,29.0,Backcourt,,,,,35,1.0
+63,203107,Tomas Satoransky,1610612741,CHI,29.0,Corner 3,0.0,0.0,0.0,,35,1.0
+64,203897,Zach LaVine,1610612741,CHI,26.0,Restricted Area,5.0,7.0,0.714,,35,1.0
+65,203897,Zach LaVine,1610612741,CHI,26.0,In The Paint (Non-RA),0.0,2.0,0.0,,35,1.0
+66,203897,Zach LaVine,1610612741,CHI,26.0,Mid-Range,2.0,2.0,1.0,,35,1.0
+67,203897,Zach LaVine,1610612741,CHI,26.0,Left Corner 3,0.0,0.0,0.0,,35,1.0
+68,203897,Zach LaVine,1610612741,CHI,26.0,Right Corner 3,0.0,0.0,0.0,,35,1.0
+69,203897,Zach LaVine,1610612741,CHI,26.0,Above the Break 3,3.0,5.0,0.6,,35,1.0
+70,203897,Zach LaVine,1610612741,CHI,26.0,Backcourt,0.0,0.0,0.0,,35,1.0
+71,203897,Zach LaVine,1610612741,CHI,26.0,Corner 3,0.0,0.0,0.0,,35,1.0
+0,1629632,Coby White,1610612741,CHI,21.0,Restricted Area,2.0,2.0,1.0,,36,1.0
+1,1629632,Coby White,1610612741,CHI,21.0,In The Paint (Non-RA),0.0,1.0,0.0,,36,1.0
+2,1629632,Coby White,1610612741,CHI,21.0,Mid-Range,0.0,1.0,0.0,,36,1.0
+3,1629632,Coby White,1610612741,CHI,21.0,Left Corner 3,2.0,2.0,1.0,,36,1.0
+4,1629632,Coby White,1610612741,CHI,21.0,Right Corner 3,1.0,1.0,1.0,,36,1.0
+5,1629632,Coby White,1610612741,CHI,21.0,Above the Break 3,4.0,9.0,0.444,,36,1.0
+6,1629632,Coby White,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,36,1.0
+7,1629632,Coby White,1610612741,CHI,21.0,Corner 3,3.0,3.0,1.0,,36,1.0
+8,1626245,Cristiano Felicio,1610612741,CHI,28.0,Restricted Area,0.0,0.0,0.0,,36,1.0
+9,1626245,Cristiano Felicio,1610612741,CHI,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,36,1.0
+10,1626245,Cristiano Felicio,1610612741,CHI,28.0,Mid-Range,0.0,0.0,0.0,,36,1.0
+11,1626245,Cristiano Felicio,1610612741,CHI,28.0,Left Corner 3,,,,,36,1.0
+12,1626245,Cristiano Felicio,1610612741,CHI,28.0,Right Corner 3,,,,,36,1.0
+13,1626245,Cristiano Felicio,1610612741,CHI,28.0,Above the Break 3,0.0,0.0,0.0,,36,1.0
+14,1626245,Cristiano Felicio,1610612741,CHI,28.0,Backcourt,,,,,36,1.0
+15,1626245,Cristiano Felicio,1610612741,CHI,28.0,Corner 3,,,,,36,1.0
+16,1628464,Daniel Theis,1610612741,CHI,29.0,Restricted Area,1.0,3.0,0.333,,36,1.0
+17,1628464,Daniel Theis,1610612741,CHI,29.0,In The Paint (Non-RA),0.0,1.0,0.0,,36,1.0
+18,1628464,Daniel Theis,1610612741,CHI,29.0,Mid-Range,1.0,2.0,0.5,,36,1.0
+19,1628464,Daniel Theis,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,36,1.0
+20,1628464,Daniel Theis,1610612741,CHI,29.0,Right Corner 3,0.0,0.0,0.0,,36,1.0
+21,1628464,Daniel Theis,1610612741,CHI,29.0,Above the Break 3,1.0,3.0,0.333,,36,1.0
+22,1628464,Daniel Theis,1610612741,CHI,29.0,Backcourt,0.0,0.0,0.0,,36,1.0
+23,1628464,Daniel Theis,1610612741,CHI,29.0,Corner 3,0.0,0.0,0.0,,36,1.0
+24,1627756,Denzel Valentine,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,36,1.0
+25,1627756,Denzel Valentine,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,36,1.0
+26,1627756,Denzel Valentine,1610612741,CHI,27.0,Mid-Range,1.0,1.0,1.0,,36,1.0
+27,1627756,Denzel Valentine,1610612741,CHI,27.0,Left Corner 3,,,,,36,1.0
+28,1627756,Denzel Valentine,1610612741,CHI,27.0,Right Corner 3,,,,,36,1.0
+29,1627756,Denzel Valentine,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,36,1.0
+30,1627756,Denzel Valentine,1610612741,CHI,27.0,Backcourt,,,,,36,1.0
+31,1627756,Denzel Valentine,1610612741,CHI,27.0,Corner 3,,,,,36,1.0
+32,1629653,Devon Dotson,1610612741,CHI,21.0,Restricted Area,1.0,1.0,1.0,,36,1.0
+33,1629653,Devon Dotson,1610612741,CHI,21.0,In The Paint (Non-RA),1.0,1.0,1.0,,36,1.0
+34,1629653,Devon Dotson,1610612741,CHI,21.0,Mid-Range,0.0,0.0,0.0,,36,1.0
+35,1629653,Devon Dotson,1610612741,CHI,21.0,Left Corner 3,,,,,36,1.0
+36,1629653,Devon Dotson,1610612741,CHI,21.0,Right Corner 3,,,,,36,1.0
+37,1629653,Devon Dotson,1610612741,CHI,21.0,Above the Break 3,0.0,0.0,0.0,,36,1.0
+38,1629653,Devon Dotson,1610612741,CHI,21.0,Backcourt,,,,,36,1.0
+39,1629653,Devon Dotson,1610612741,CHI,21.0,Corner 3,,,,,36,1.0
+40,202066,Garrett Temple,1610612741,CHI,35.0,Restricted Area,0.0,2.0,0.0,,36,1.0
+41,202066,Garrett Temple,1610612741,CHI,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,36,1.0
+42,202066,Garrett Temple,1610612741,CHI,35.0,Mid-Range,0.0,1.0,0.0,,36,1.0
+43,202066,Garrett Temple,1610612741,CHI,35.0,Left Corner 3,0.0,0.0,0.0,,36,1.0
+44,202066,Garrett Temple,1610612741,CHI,35.0,Right Corner 3,1.0,2.0,0.5,,36,1.0
+45,202066,Garrett Temple,1610612741,CHI,35.0,Above the Break 3,0.0,0.0,0.0,,36,1.0
+46,202066,Garrett Temple,1610612741,CHI,35.0,Backcourt,0.0,0.0,0.0,,36,1.0
+47,202066,Garrett Temple,1610612741,CHI,35.0,Corner 3,1.0,2.0,0.5,,36,1.0
+48,1629750,Javonte Green,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,36,1.0
+49,1629750,Javonte Green,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,36,1.0
+50,1629750,Javonte Green,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,36,1.0
+51,1629750,Javonte Green,1610612741,CHI,27.0,Left Corner 3,1.0,1.0,1.0,,36,1.0
+52,1629750,Javonte Green,1610612741,CHI,27.0,Right Corner 3,,,,,36,1.0
+53,1629750,Javonte Green,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,36,1.0
+54,1629750,Javonte Green,1610612741,CHI,27.0,Backcourt,,,,,36,1.0
+55,1629750,Javonte Green,1610612741,CHI,27.0,Corner 3,1.0,1.0,1.0,,36,1.0
+56,1628374,Lauri Markkanen,1610612741,CHI,24.0,Restricted Area,0.0,2.0,0.0,,36,1.0
+57,1628374,Lauri Markkanen,1610612741,CHI,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,36,1.0
+58,1628374,Lauri Markkanen,1610612741,CHI,24.0,Mid-Range,0.0,0.0,0.0,,36,1.0
+59,1628374,Lauri Markkanen,1610612741,CHI,24.0,Left Corner 3,0.0,0.0,0.0,,36,1.0
+60,1628374,Lauri Markkanen,1610612741,CHI,24.0,Right Corner 3,0.0,0.0,0.0,,36,1.0
+61,1628374,Lauri Markkanen,1610612741,CHI,24.0,Above the Break 3,1.0,3.0,0.333,,36,1.0
+62,1628374,Lauri Markkanen,1610612741,CHI,24.0,Backcourt,0.0,0.0,0.0,,36,1.0
+63,1628374,Lauri Markkanen,1610612741,CHI,24.0,Corner 3,0.0,0.0,0.0,,36,1.0
+64,202696,Nikola Vucevic,1610612741,CHI,30.0,Restricted Area,2.0,5.0,0.4,,36,1.0
+65,202696,Nikola Vucevic,1610612741,CHI,30.0,In The Paint (Non-RA),2.0,2.0,1.0,,36,1.0
+66,202696,Nikola Vucevic,1610612741,CHI,30.0,Mid-Range,1.0,5.0,0.2,,36,1.0
+67,202696,Nikola Vucevic,1610612741,CHI,30.0,Left Corner 3,0.0,0.0,0.0,,36,1.0
+68,202696,Nikola Vucevic,1610612741,CHI,30.0,Right Corner 3,0.0,0.0,0.0,,36,1.0
+69,202696,Nikola Vucevic,1610612741,CHI,30.0,Above the Break 3,2.0,4.0,0.5,,36,1.0
+70,202696,Nikola Vucevic,1610612741,CHI,30.0,Backcourt,0.0,0.0,0.0,,36,1.0
+71,202696,Nikola Vucevic,1610612741,CHI,30.0,Corner 3,0.0,0.0,0.0,,36,1.0
+72,1630172,Patrick Williams,1610612741,CHI,19.0,Restricted Area,1.0,3.0,0.333,,36,1.0
+73,1630172,Patrick Williams,1610612741,CHI,19.0,In The Paint (Non-RA),0.0,0.0,0.0,,36,1.0
+74,1630172,Patrick Williams,1610612741,CHI,19.0,Mid-Range,1.0,1.0,1.0,,36,1.0
+75,1630172,Patrick Williams,1610612741,CHI,19.0,Left Corner 3,0.0,1.0,0.0,,36,1.0
+76,1630172,Patrick Williams,1610612741,CHI,19.0,Right Corner 3,1.0,1.0,1.0,,36,1.0
+77,1630172,Patrick Williams,1610612741,CHI,19.0,Above the Break 3,0.0,1.0,0.0,,36,1.0
+78,1630172,Patrick Williams,1610612741,CHI,19.0,Backcourt,0.0,0.0,0.0,,36,1.0
+79,1630172,Patrick Williams,1610612741,CHI,19.0,Corner 3,1.0,2.0,0.5,,36,1.0
+80,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,36,1.0
+81,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,36,1.0
+82,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,36,1.0
+83,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Left Corner 3,,,,,36,1.0
+84,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Right Corner 3,,,,,36,1.0
+85,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Above the Break 3,1.0,1.0,1.0,,36,1.0
+86,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Backcourt,,,,,36,1.0
+87,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Corner 3,,,,,36,1.0
+88,201152,Thaddeus Young,1610612741,CHI,32.0,Restricted Area,2.0,2.0,1.0,,36,1.0
+89,201152,Thaddeus Young,1610612741,CHI,32.0,In The Paint (Non-RA),0.0,2.0,0.0,,36,1.0
+90,201152,Thaddeus Young,1610612741,CHI,32.0,Mid-Range,0.0,2.0,0.0,,36,1.0
+91,201152,Thaddeus Young,1610612741,CHI,32.0,Left Corner 3,0.0,0.0,0.0,,36,1.0
+92,201152,Thaddeus Young,1610612741,CHI,32.0,Right Corner 3,0.0,0.0,0.0,,36,1.0
+93,201152,Thaddeus Young,1610612741,CHI,32.0,Above the Break 3,0.0,0.0,0.0,,36,1.0
+94,201152,Thaddeus Young,1610612741,CHI,32.0,Backcourt,0.0,0.0,0.0,,36,1.0
+95,201152,Thaddeus Young,1610612741,CHI,32.0,Corner 3,0.0,0.0,0.0,,36,1.0
+96,203107,Tomas Satoransky,1610612741,CHI,29.0,Restricted Area,0.0,1.0,0.0,,36,1.0
+97,203107,Tomas Satoransky,1610612741,CHI,29.0,In The Paint (Non-RA),0.0,1.0,0.0,,36,1.0
+98,203107,Tomas Satoransky,1610612741,CHI,29.0,Mid-Range,2.0,3.0,0.667,,36,1.0
+99,203107,Tomas Satoransky,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,36,1.0
+100,203107,Tomas Satoransky,1610612741,CHI,29.0,Right Corner 3,0.0,0.0,0.0,,36,1.0
+101,203107,Tomas Satoransky,1610612741,CHI,29.0,Above the Break 3,0.0,1.0,0.0,,36,1.0
+102,203107,Tomas Satoransky,1610612741,CHI,29.0,Backcourt,0.0,0.0,0.0,,36,1.0
+103,203107,Tomas Satoransky,1610612741,CHI,29.0,Corner 3,0.0,0.0,0.0,,36,1.0
+104,203897,Zach LaVine,1610612741,CHI,26.0,Restricted Area,5.0,10.0,0.5,,36,1.0
+105,203897,Zach LaVine,1610612741,CHI,26.0,In The Paint (Non-RA),0.0,1.0,0.0,,36,1.0
+106,203897,Zach LaVine,1610612741,CHI,26.0,Mid-Range,2.0,4.0,0.5,,36,1.0
+107,203897,Zach LaVine,1610612741,CHI,26.0,Left Corner 3,1.0,2.0,0.5,,36,1.0
+108,203897,Zach LaVine,1610612741,CHI,26.0,Right Corner 3,0.0,0.0,0.0,,36,1.0
+109,203897,Zach LaVine,1610612741,CHI,26.0,Above the Break 3,2.0,7.0,0.286,,36,1.0
+110,203897,Zach LaVine,1610612741,CHI,26.0,Backcourt,0.0,0.0,0.0,,36,1.0
+111,203897,Zach LaVine,1610612741,CHI,26.0,Corner 3,1.0,2.0,0.5,,36,1.0
+0,1629632,Coby White,1610612741,CHI,21.0,Restricted Area,2.0,4.0,0.5,,37,1.0
+1,1629632,Coby White,1610612741,CHI,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+2,1629632,Coby White,1610612741,CHI,21.0,Mid-Range,0.0,0.0,0.0,,37,1.0
+3,1629632,Coby White,1610612741,CHI,21.0,Left Corner 3,0.0,1.0,0.0,,37,1.0
+4,1629632,Coby White,1610612741,CHI,21.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+5,1629632,Coby White,1610612741,CHI,21.0,Above the Break 3,3.0,7.0,0.429,,37,1.0
+6,1629632,Coby White,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,37,1.0
+7,1629632,Coby White,1610612741,CHI,21.0,Corner 3,0.0,1.0,0.0,,37,1.0
+8,1626245,Cristiano Felicio,1610612741,CHI,28.0,Restricted Area,0.0,0.0,0.0,,37,1.0
+9,1626245,Cristiano Felicio,1610612741,CHI,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+10,1626245,Cristiano Felicio,1610612741,CHI,28.0,Mid-Range,0.0,0.0,0.0,,37,1.0
+11,1626245,Cristiano Felicio,1610612741,CHI,28.0,Left Corner 3,,,,,37,1.0
+12,1626245,Cristiano Felicio,1610612741,CHI,28.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+13,1626245,Cristiano Felicio,1610612741,CHI,28.0,Above the Break 3,0.0,0.0,0.0,,37,1.0
+14,1626245,Cristiano Felicio,1610612741,CHI,28.0,Backcourt,,,,,37,1.0
+15,1626245,Cristiano Felicio,1610612741,CHI,28.0,Corner 3,0.0,0.0,0.0,,37,1.0
+16,1628464,Daniel Theis,1610612741,CHI,29.0,Restricted Area,4.0,4.0,1.0,,37,1.0
+17,1628464,Daniel Theis,1610612741,CHI,29.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+18,1628464,Daniel Theis,1610612741,CHI,29.0,Mid-Range,0.0,2.0,0.0,,37,1.0
+19,1628464,Daniel Theis,1610612741,CHI,29.0,Left Corner 3,0.0,1.0,0.0,,37,1.0
+20,1628464,Daniel Theis,1610612741,CHI,29.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+21,1628464,Daniel Theis,1610612741,CHI,29.0,Above the Break 3,1.0,1.0,1.0,,37,1.0
+22,1628464,Daniel Theis,1610612741,CHI,29.0,Backcourt,0.0,0.0,0.0,,37,1.0
+23,1628464,Daniel Theis,1610612741,CHI,29.0,Corner 3,0.0,1.0,0.0,,37,1.0
+24,1627756,Denzel Valentine,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,37,1.0
+25,1627756,Denzel Valentine,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+26,1627756,Denzel Valentine,1610612741,CHI,27.0,Mid-Range,0.0,1.0,0.0,,37,1.0
+27,1627756,Denzel Valentine,1610612741,CHI,27.0,Left Corner 3,,,,,37,1.0
+28,1627756,Denzel Valentine,1610612741,CHI,27.0,Right Corner 3,1.0,1.0,1.0,,37,1.0
+29,1627756,Denzel Valentine,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,37,1.0
+30,1627756,Denzel Valentine,1610612741,CHI,27.0,Backcourt,,,,,37,1.0
+31,1627756,Denzel Valentine,1610612741,CHI,27.0,Corner 3,1.0,1.0,1.0,,37,1.0
+32,1629653,Devon Dotson,1610612741,CHI,21.0,Restricted Area,0.0,0.0,0.0,,37,1.0
+33,1629653,Devon Dotson,1610612741,CHI,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+34,1629653,Devon Dotson,1610612741,CHI,21.0,Mid-Range,0.0,0.0,0.0,,37,1.0
+35,1629653,Devon Dotson,1610612741,CHI,21.0,Left Corner 3,,,,,37,1.0
+36,1629653,Devon Dotson,1610612741,CHI,21.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+37,1629653,Devon Dotson,1610612741,CHI,21.0,Above the Break 3,0.0,0.0,0.0,,37,1.0
+38,1629653,Devon Dotson,1610612741,CHI,21.0,Backcourt,,,,,37,1.0
+39,1629653,Devon Dotson,1610612741,CHI,21.0,Corner 3,0.0,0.0,0.0,,37,1.0
+40,202066,Garrett Temple,1610612741,CHI,35.0,Restricted Area,3.0,5.0,0.6,,37,1.0
+41,202066,Garrett Temple,1610612741,CHI,35.0,In The Paint (Non-RA),0.0,1.0,0.0,,37,1.0
+42,202066,Garrett Temple,1610612741,CHI,35.0,Mid-Range,0.0,0.0,0.0,,37,1.0
+43,202066,Garrett Temple,1610612741,CHI,35.0,Left Corner 3,0.0,0.0,0.0,,37,1.0
+44,202066,Garrett Temple,1610612741,CHI,35.0,Right Corner 3,2.0,2.0,1.0,,37,1.0
+45,202066,Garrett Temple,1610612741,CHI,35.0,Above the Break 3,0.0,3.0,0.0,,37,1.0
+46,202066,Garrett Temple,1610612741,CHI,35.0,Backcourt,0.0,0.0,0.0,,37,1.0
+47,202066,Garrett Temple,1610612741,CHI,35.0,Corner 3,2.0,2.0,1.0,,37,1.0
+48,1629750,Javonte Green,1610612741,CHI,27.0,Restricted Area,0.0,1.0,0.0,,37,1.0
+49,1629750,Javonte Green,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+50,1629750,Javonte Green,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,37,1.0
+51,1629750,Javonte Green,1610612741,CHI,27.0,Left Corner 3,0.0,1.0,0.0,,37,1.0
+52,1629750,Javonte Green,1610612741,CHI,27.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+53,1629750,Javonte Green,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,37,1.0
+54,1629750,Javonte Green,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,37,1.0
+55,1629750,Javonte Green,1610612741,CHI,27.0,Corner 3,0.0,1.0,0.0,,37,1.0
+56,1628374,Lauri Markkanen,1610612741,CHI,24.0,Restricted Area,2.0,2.0,1.0,,37,1.0
+57,1628374,Lauri Markkanen,1610612741,CHI,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+58,1628374,Lauri Markkanen,1610612741,CHI,24.0,Mid-Range,0.0,0.0,0.0,,37,1.0
+59,1628374,Lauri Markkanen,1610612741,CHI,24.0,Left Corner 3,1.0,1.0,1.0,,37,1.0
+60,1628374,Lauri Markkanen,1610612741,CHI,24.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+61,1628374,Lauri Markkanen,1610612741,CHI,24.0,Above the Break 3,1.0,2.0,0.5,,37,1.0
+62,1628374,Lauri Markkanen,1610612741,CHI,24.0,Backcourt,0.0,0.0,0.0,,37,1.0
+63,1628374,Lauri Markkanen,1610612741,CHI,24.0,Corner 3,1.0,1.0,1.0,,37,1.0
+64,202696,Nikola Vucevic,1610612741,CHI,30.0,Restricted Area,6.0,9.0,0.667,,37,1.0
+65,202696,Nikola Vucevic,1610612741,CHI,30.0,In The Paint (Non-RA),0.0,5.0,0.0,,37,1.0
+66,202696,Nikola Vucevic,1610612741,CHI,30.0,Mid-Range,1.0,3.0,0.333,,37,1.0
+67,202696,Nikola Vucevic,1610612741,CHI,30.0,Left Corner 3,0.0,0.0,0.0,,37,1.0
+68,202696,Nikola Vucevic,1610612741,CHI,30.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+69,202696,Nikola Vucevic,1610612741,CHI,30.0,Above the Break 3,5.0,7.0,0.714,,37,1.0
+70,202696,Nikola Vucevic,1610612741,CHI,30.0,Backcourt,0.0,0.0,0.0,,37,1.0
+71,202696,Nikola Vucevic,1610612741,CHI,30.0,Corner 3,0.0,0.0,0.0,,37,1.0
+72,1630172,Patrick Williams,1610612741,CHI,19.0,Restricted Area,4.0,4.0,1.0,,37,1.0
+73,1630172,Patrick Williams,1610612741,CHI,19.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+74,1630172,Patrick Williams,1610612741,CHI,19.0,Mid-Range,0.0,1.0,0.0,,37,1.0
+75,1630172,Patrick Williams,1610612741,CHI,19.0,Left Corner 3,0.0,0.0,0.0,,37,1.0
+76,1630172,Patrick Williams,1610612741,CHI,19.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+77,1630172,Patrick Williams,1610612741,CHI,19.0,Above the Break 3,0.0,0.0,0.0,,37,1.0
+78,1630172,Patrick Williams,1610612741,CHI,19.0,Backcourt,0.0,0.0,0.0,,37,1.0
+79,1630172,Patrick Williams,1610612741,CHI,19.0,Corner 3,0.0,0.0,0.0,,37,1.0
+80,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,37,1.0
+81,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+82,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,37,1.0
+83,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Left Corner 3,,,,,37,1.0
+84,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+85,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,37,1.0
+86,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Backcourt,,,,,37,1.0
+87,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Corner 3,0.0,0.0,0.0,,37,1.0
+88,201152,Thaddeus Young,1610612741,CHI,32.0,Restricted Area,3.0,5.0,0.6,,37,1.0
+89,201152,Thaddeus Young,1610612741,CHI,32.0,In The Paint (Non-RA),0.0,3.0,0.0,,37,1.0
+90,201152,Thaddeus Young,1610612741,CHI,32.0,Mid-Range,0.0,0.0,0.0,,37,1.0
+91,201152,Thaddeus Young,1610612741,CHI,32.0,Left Corner 3,0.0,0.0,0.0,,37,1.0
+92,201152,Thaddeus Young,1610612741,CHI,32.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+93,201152,Thaddeus Young,1610612741,CHI,32.0,Above the Break 3,0.0,0.0,0.0,,37,1.0
+94,201152,Thaddeus Young,1610612741,CHI,32.0,Backcourt,0.0,0.0,0.0,,37,1.0
+95,201152,Thaddeus Young,1610612741,CHI,32.0,Corner 3,0.0,0.0,0.0,,37,1.0
+96,203107,Tomas Satoransky,1610612741,CHI,29.0,Restricted Area,1.0,1.0,1.0,,37,1.0
+97,203107,Tomas Satoransky,1610612741,CHI,29.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+98,203107,Tomas Satoransky,1610612741,CHI,29.0,Mid-Range,0.0,0.0,0.0,,37,1.0
+99,203107,Tomas Satoransky,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,37,1.0
+100,203107,Tomas Satoransky,1610612741,CHI,29.0,Right Corner 3,0.0,1.0,0.0,,37,1.0
+101,203107,Tomas Satoransky,1610612741,CHI,29.0,Above the Break 3,1.0,1.0,1.0,,37,1.0
+102,203107,Tomas Satoransky,1610612741,CHI,29.0,Backcourt,0.0,0.0,0.0,,37,1.0
+103,203107,Tomas Satoransky,1610612741,CHI,29.0,Corner 3,0.0,1.0,0.0,,37,1.0
+104,203897,Zach LaVine,1610612741,CHI,26.0,Restricted Area,0.0,0.0,0.0,,37,1.0
+105,203897,Zach LaVine,1610612741,CHI,26.0,In The Paint (Non-RA),0.0,0.0,0.0,,37,1.0
+106,203897,Zach LaVine,1610612741,CHI,26.0,Mid-Range,2.0,3.0,0.667,,37,1.0
+107,203897,Zach LaVine,1610612741,CHI,26.0,Left Corner 3,0.0,0.0,0.0,,37,1.0
+108,203897,Zach LaVine,1610612741,CHI,26.0,Right Corner 3,0.0,0.0,0.0,,37,1.0
+109,203897,Zach LaVine,1610612741,CHI,26.0,Above the Break 3,3.0,8.0,0.375,,37,1.0
+110,203897,Zach LaVine,1610612741,CHI,26.0,Backcourt,0.0,0.0,0.0,,37,1.0
+111,203897,Zach LaVine,1610612741,CHI,26.0,Corner 3,0.0,0.0,0.0,,37,1.0
+0,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Restricted Area,0.0,0.0,0.0,,38,0.0
+1,202329,Al-Farouq Aminu,1610612741,CHI,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,38,0.0
+2,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Mid-Range,0.0,0.0,0.0,,38,0.0
+3,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Left Corner 3,0.0,0.0,0.0,,38,0.0
+4,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Right Corner 3,0.0,0.0,0.0,,38,0.0
+5,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Above the Break 3,0.0,1.0,0.0,,38,0.0
+6,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Backcourt,0.0,0.0,0.0,,38,0.0
+7,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Corner 3,0.0,0.0,0.0,,38,0.0
+8,1629632,Coby White,1610612741,CHI,21.0,Restricted Area,3.0,6.0,0.5,,38,0.0
+9,1629632,Coby White,1610612741,CHI,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,38,0.0
+10,1629632,Coby White,1610612741,CHI,21.0,Mid-Range,0.0,3.0,0.0,,38,0.0
+11,1629632,Coby White,1610612741,CHI,21.0,Left Corner 3,1.0,2.0,0.5,,38,0.0
+12,1629632,Coby White,1610612741,CHI,21.0,Right Corner 3,0.0,0.0,0.0,,38,0.0
+13,1629632,Coby White,1610612741,CHI,21.0,Above the Break 3,4.0,8.0,0.5,,38,0.0
+14,1629632,Coby White,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,38,0.0
+15,1629632,Coby White,1610612741,CHI,21.0,Corner 3,1.0,2.0,0.5,,38,0.0
+16,1628464,Daniel Theis,1610612741,CHI,29.0,Restricted Area,3.0,5.0,0.6,,38,0.0
+17,1628464,Daniel Theis,1610612741,CHI,29.0,In The Paint (Non-RA),0.0,1.0,0.0,,38,0.0
+18,1628464,Daniel Theis,1610612741,CHI,29.0,Mid-Range,0.0,2.0,0.0,,38,0.0
+19,1628464,Daniel Theis,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,38,0.0
+20,1628464,Daniel Theis,1610612741,CHI,29.0,Right Corner 3,0.0,0.0,0.0,,38,0.0
+21,1628464,Daniel Theis,1610612741,CHI,29.0,Above the Break 3,1.0,2.0,0.5,,38,0.0
+22,1628464,Daniel Theis,1610612741,CHI,29.0,Backcourt,0.0,0.0,0.0,,38,0.0
+23,1628464,Daniel Theis,1610612741,CHI,29.0,Corner 3,0.0,0.0,0.0,,38,0.0
+24,1627756,Denzel Valentine,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,38,0.0
+25,1627756,Denzel Valentine,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,1.0,0.0,,38,0.0
+26,1627756,Denzel Valentine,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,38,0.0
+27,1627756,Denzel Valentine,1610612741,CHI,27.0,Left Corner 3,1.0,1.0,1.0,,38,0.0
+28,1627756,Denzel Valentine,1610612741,CHI,27.0,Right Corner 3,1.0,1.0,1.0,,38,0.0
+29,1627756,Denzel Valentine,1610612741,CHI,27.0,Above the Break 3,1.0,4.0,0.25,,38,0.0
+30,1627756,Denzel Valentine,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,38,0.0
+31,1627756,Denzel Valentine,1610612741,CHI,27.0,Corner 3,2.0,2.0,1.0,,38,0.0
+32,202066,Garrett Temple,1610612741,CHI,35.0,Restricted Area,0.0,1.0,0.0,,38,0.0
+33,202066,Garrett Temple,1610612741,CHI,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,38,0.0
+34,202066,Garrett Temple,1610612741,CHI,35.0,Mid-Range,2.0,3.0,0.667,,38,0.0
+35,202066,Garrett Temple,1610612741,CHI,35.0,Left Corner 3,0.0,0.0,0.0,,38,0.0
+36,202066,Garrett Temple,1610612741,CHI,35.0,Right Corner 3,1.0,1.0,1.0,,38,0.0
+37,202066,Garrett Temple,1610612741,CHI,35.0,Above the Break 3,0.0,1.0,0.0,,38,0.0
+38,202066,Garrett Temple,1610612741,CHI,35.0,Backcourt,0.0,0.0,0.0,,38,0.0
+39,202066,Garrett Temple,1610612741,CHI,35.0,Corner 3,1.0,1.0,1.0,,38,0.0
+40,1629750,Javonte Green,1610612741,CHI,27.0,Restricted Area,3.0,4.0,0.75,,38,0.0
+41,1629750,Javonte Green,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,38,0.0
+42,1629750,Javonte Green,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,38,0.0
+43,1629750,Javonte Green,1610612741,CHI,27.0,Left Corner 3,0.0,0.0,0.0,,38,0.0
+44,1629750,Javonte Green,1610612741,CHI,27.0,Right Corner 3,0.0,0.0,0.0,,38,0.0
+45,1629750,Javonte Green,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,38,0.0
+46,1629750,Javonte Green,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,38,0.0
+47,1629750,Javonte Green,1610612741,CHI,27.0,Corner 3,0.0,0.0,0.0,,38,0.0
+48,1628374,Lauri Markkanen,1610612741,CHI,24.0,Restricted Area,1.0,1.0,1.0,,38,0.0
+49,1628374,Lauri Markkanen,1610612741,CHI,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,38,0.0
+50,1628374,Lauri Markkanen,1610612741,CHI,24.0,Mid-Range,0.0,1.0,0.0,,38,0.0
+51,1628374,Lauri Markkanen,1610612741,CHI,24.0,Left Corner 3,1.0,2.0,0.5,,38,0.0
+52,1628374,Lauri Markkanen,1610612741,CHI,24.0,Right Corner 3,0.0,0.0,0.0,,38,0.0
+53,1628374,Lauri Markkanen,1610612741,CHI,24.0,Above the Break 3,0.0,4.0,0.0,,38,0.0
+54,1628374,Lauri Markkanen,1610612741,CHI,24.0,Backcourt,0.0,0.0,0.0,,38,0.0
+55,1628374,Lauri Markkanen,1610612741,CHI,24.0,Corner 3,1.0,2.0,0.5,,38,0.0
+56,1630172,Patrick Williams,1610612741,CHI,19.0,Restricted Area,1.0,2.0,0.5,,38,0.0
+57,1630172,Patrick Williams,1610612741,CHI,19.0,In The Paint (Non-RA),1.0,3.0,0.333,,38,0.0
+58,1630172,Patrick Williams,1610612741,CHI,19.0,Mid-Range,0.0,2.0,0.0,,38,0.0
+59,1630172,Patrick Williams,1610612741,CHI,19.0,Left Corner 3,0.0,0.0,0.0,,38,0.0
+60,1630172,Patrick Williams,1610612741,CHI,19.0,Right Corner 3,0.0,0.0,0.0,,38,0.0
+61,1630172,Patrick Williams,1610612741,CHI,19.0,Above the Break 3,0.0,1.0,0.0,,38,0.0
+62,1630172,Patrick Williams,1610612741,CHI,19.0,Backcourt,0.0,0.0,0.0,,38,0.0
+63,1630172,Patrick Williams,1610612741,CHI,19.0,Corner 3,0.0,0.0,0.0,,38,0.0
+64,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Restricted Area,0.0,1.0,0.0,,38,0.0
+65,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,38,0.0
+66,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,38,0.0
+67,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Left Corner 3,0.0,1.0,0.0,,38,0.0
+68,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Right Corner 3,,,,,38,0.0
+69,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,38,0.0
+70,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Backcourt,,,,,38,0.0
+71,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Corner 3,0.0,1.0,0.0,,38,0.0
+72,201152,Thaddeus Young,1610612741,CHI,32.0,Restricted Area,2.0,3.0,0.667,,38,0.0
+73,201152,Thaddeus Young,1610612741,CHI,32.0,In The Paint (Non-RA),3.0,6.0,0.5,,38,0.0
+74,201152,Thaddeus Young,1610612741,CHI,32.0,Mid-Range,1.0,3.0,0.333,,38,0.0
+75,201152,Thaddeus Young,1610612741,CHI,32.0,Left Corner 3,0.0,0.0,0.0,,38,0.0
+76,201152,Thaddeus Young,1610612741,CHI,32.0,Right Corner 3,0.0,0.0,0.0,,38,0.0
+77,201152,Thaddeus Young,1610612741,CHI,32.0,Above the Break 3,0.0,1.0,0.0,,38,0.0
+78,201152,Thaddeus Young,1610612741,CHI,32.0,Backcourt,0.0,0.0,0.0,,38,0.0
+79,201152,Thaddeus Young,1610612741,CHI,32.0,Corner 3,0.0,0.0,0.0,,38,0.0
+80,203107,Tomas Satoransky,1610612741,CHI,29.0,Restricted Area,1.0,1.0,1.0,,38,0.0
+81,203107,Tomas Satoransky,1610612741,CHI,29.0,In The Paint (Non-RA),4.0,4.0,1.0,,38,0.0
+82,203107,Tomas Satoransky,1610612741,CHI,29.0,Mid-Range,0.0,0.0,0.0,,38,0.0
+83,203107,Tomas Satoransky,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,38,0.0
+84,203107,Tomas Satoransky,1610612741,CHI,29.0,Right Corner 3,0.0,0.0,0.0,,38,0.0
+85,203107,Tomas Satoransky,1610612741,CHI,29.0,Above the Break 3,0.0,4.0,0.0,,38,0.0
+86,203107,Tomas Satoransky,1610612741,CHI,29.0,Backcourt,0.0,0.0,0.0,,38,0.0
+87,203107,Tomas Satoransky,1610612741,CHI,29.0,Corner 3,0.0,0.0,0.0,,38,0.0
+0,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Restricted Area,0.0,1.0,0.0,,39,0.0
+1,202329,Al-Farouq Aminu,1610612741,CHI,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,39,0.0
+2,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Mid-Range,0.0,0.0,0.0,,39,0.0
+3,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Left Corner 3,0.0,0.0,0.0,,39,0.0
+4,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Right Corner 3,0.0,0.0,0.0,,39,0.0
+5,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Above the Break 3,0.0,0.0,0.0,,39,0.0
+6,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Backcourt,0.0,0.0,0.0,,39,0.0
+7,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Corner 3,0.0,0.0,0.0,,39,0.0
+8,1629632,Coby White,1610612741,CHI,21.0,Restricted Area,3.0,8.0,0.375,,39,0.0
+9,1629632,Coby White,1610612741,CHI,21.0,In The Paint (Non-RA),1.0,1.0,1.0,,39,0.0
+10,1629632,Coby White,1610612741,CHI,21.0,Mid-Range,0.0,1.0,0.0,,39,0.0
+11,1629632,Coby White,1610612741,CHI,21.0,Left Corner 3,0.0,1.0,0.0,,39,0.0
+12,1629632,Coby White,1610612741,CHI,21.0,Right Corner 3,0.0,0.0,0.0,,39,0.0
+13,1629632,Coby White,1610612741,CHI,21.0,Above the Break 3,1.0,5.0,0.2,,39,0.0
+14,1629632,Coby White,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,39,0.0
+15,1629632,Coby White,1610612741,CHI,21.0,Corner 3,0.0,1.0,0.0,,39,0.0
+16,1628464,Daniel Theis,1610612741,CHI,29.0,Restricted Area,3.0,3.0,1.0,,39,0.0
+17,1628464,Daniel Theis,1610612741,CHI,29.0,In The Paint (Non-RA),0.0,1.0,0.0,,39,0.0
+18,1628464,Daniel Theis,1610612741,CHI,29.0,Mid-Range,0.0,1.0,0.0,,39,0.0
+19,1628464,Daniel Theis,1610612741,CHI,29.0,Left Corner 3,0.0,1.0,0.0,,39,0.0
+20,1628464,Daniel Theis,1610612741,CHI,29.0,Right Corner 3,0.0,0.0,0.0,,39,0.0
+21,1628464,Daniel Theis,1610612741,CHI,29.0,Above the Break 3,0.0,2.0,0.0,,39,0.0
+22,1628464,Daniel Theis,1610612741,CHI,29.0,Backcourt,0.0,0.0,0.0,,39,0.0
+23,1628464,Daniel Theis,1610612741,CHI,29.0,Corner 3,0.0,1.0,0.0,,39,0.0
+24,1627756,Denzel Valentine,1610612741,CHI,27.0,Restricted Area,2.0,3.0,0.667,,39,0.0
+25,1627756,Denzel Valentine,1610612741,CHI,27.0,In The Paint (Non-RA),1.0,3.0,0.333,,39,0.0
+26,1627756,Denzel Valentine,1610612741,CHI,27.0,Mid-Range,0.0,0.0,0.0,,39,0.0
+27,1627756,Denzel Valentine,1610612741,CHI,27.0,Left Corner 3,0.0,1.0,0.0,,39,0.0
+28,1627756,Denzel Valentine,1610612741,CHI,27.0,Right Corner 3,0.0,1.0,0.0,,39,0.0
+29,1627756,Denzel Valentine,1610612741,CHI,27.0,Above the Break 3,1.0,1.0,1.0,,39,0.0
+30,1627756,Denzel Valentine,1610612741,CHI,27.0,Backcourt,,,,,39,0.0
+31,1627756,Denzel Valentine,1610612741,CHI,27.0,Corner 3,0.0,2.0,0.0,,39,0.0
+32,202066,Garrett Temple,1610612741,CHI,35.0,Restricted Area,1.0,1.0,1.0,,39,0.0
+33,202066,Garrett Temple,1610612741,CHI,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,39,0.0
+34,202066,Garrett Temple,1610612741,CHI,35.0,Mid-Range,1.0,1.0,1.0,,39,0.0
+35,202066,Garrett Temple,1610612741,CHI,35.0,Left Corner 3,0.0,0.0,0.0,,39,0.0
+36,202066,Garrett Temple,1610612741,CHI,35.0,Right Corner 3,0.0,0.0,0.0,,39,0.0
+37,202066,Garrett Temple,1610612741,CHI,35.0,Above the Break 3,0.0,4.0,0.0,,39,0.0
+38,202066,Garrett Temple,1610612741,CHI,35.0,Backcourt,0.0,0.0,0.0,,39,0.0
+39,202066,Garrett Temple,1610612741,CHI,35.0,Corner 3,0.0,0.0,0.0,,39,0.0
+40,1628374,Lauri Markkanen,1610612741,CHI,24.0,Restricted Area,2.0,5.0,0.4,,39,0.0
+41,1628374,Lauri Markkanen,1610612741,CHI,24.0,In The Paint (Non-RA),0.0,0.0,0.0,,39,0.0
+42,1628374,Lauri Markkanen,1610612741,CHI,24.0,Mid-Range,0.0,1.0,0.0,,39,0.0
+43,1628374,Lauri Markkanen,1610612741,CHI,24.0,Left Corner 3,0.0,0.0,0.0,,39,0.0
+44,1628374,Lauri Markkanen,1610612741,CHI,24.0,Right Corner 3,0.0,0.0,0.0,,39,0.0
+45,1628374,Lauri Markkanen,1610612741,CHI,24.0,Above the Break 3,1.0,4.0,0.25,,39,0.0
+46,1628374,Lauri Markkanen,1610612741,CHI,24.0,Backcourt,0.0,0.0,0.0,,39,0.0
+47,1628374,Lauri Markkanen,1610612741,CHI,24.0,Corner 3,0.0,0.0,0.0,,39,0.0
+48,1630172,Patrick Williams,1610612741,CHI,19.0,Restricted Area,2.0,4.0,0.5,,39,0.0
+49,1630172,Patrick Williams,1610612741,CHI,19.0,In The Paint (Non-RA),1.0,2.0,0.5,,39,0.0
+50,1630172,Patrick Williams,1610612741,CHI,19.0,Mid-Range,2.0,5.0,0.4,,39,0.0
+51,1630172,Patrick Williams,1610612741,CHI,19.0,Left Corner 3,0.0,0.0,0.0,,39,0.0
+52,1630172,Patrick Williams,1610612741,CHI,19.0,Right Corner 3,0.0,0.0,0.0,,39,0.0
+53,1630172,Patrick Williams,1610612741,CHI,19.0,Above the Break 3,2.0,2.0,1.0,,39,0.0
+54,1630172,Patrick Williams,1610612741,CHI,19.0,Backcourt,0.0,0.0,0.0,,39,0.0
+55,1630172,Patrick Williams,1610612741,CHI,19.0,Corner 3,0.0,0.0,0.0,,39,0.0
+56,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Restricted Area,0.0,1.0,0.0,,39,0.0
+57,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,1.0,0.0,,39,0.0
+58,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Mid-Range,1.0,1.0,1.0,,39,0.0
+59,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Left Corner 3,1.0,1.0,1.0,,39,0.0
+60,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Right Corner 3,0.0,0.0,0.0,,39,0.0
+61,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,39,0.0
+62,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Backcourt,0.0,0.0,0.0,,39,0.0
+63,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Corner 3,1.0,1.0,1.0,,39,0.0
+64,201152,Thaddeus Young,1610612741,CHI,32.0,Restricted Area,7.0,7.0,1.0,,39,0.0
+65,201152,Thaddeus Young,1610612741,CHI,32.0,In The Paint (Non-RA),2.0,3.0,0.667,,39,0.0
+66,201152,Thaddeus Young,1610612741,CHI,32.0,Mid-Range,1.0,2.0,0.5,,39,0.0
+67,201152,Thaddeus Young,1610612741,CHI,32.0,Left Corner 3,0.0,0.0,0.0,,39,0.0
+68,201152,Thaddeus Young,1610612741,CHI,32.0,Right Corner 3,0.0,0.0,0.0,,39,0.0
+69,201152,Thaddeus Young,1610612741,CHI,32.0,Above the Break 3,0.0,0.0,0.0,,39,0.0
+70,201152,Thaddeus Young,1610612741,CHI,32.0,Backcourt,0.0,0.0,0.0,,39,0.0
+71,201152,Thaddeus Young,1610612741,CHI,32.0,Corner 3,0.0,0.0,0.0,,39,0.0
+72,203107,Tomas Satoransky,1610612741,CHI,29.0,Restricted Area,2.0,2.0,1.0,,39,0.0
+73,203107,Tomas Satoransky,1610612741,CHI,29.0,In The Paint (Non-RA),1.0,2.0,0.5,,39,0.0
+74,203107,Tomas Satoransky,1610612741,CHI,29.0,Mid-Range,1.0,1.0,1.0,,39,0.0
+75,203107,Tomas Satoransky,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,39,0.0
+76,203107,Tomas Satoransky,1610612741,CHI,29.0,Right Corner 3,0.0,0.0,0.0,,39,0.0
+77,203107,Tomas Satoransky,1610612741,CHI,29.0,Above the Break 3,0.0,1.0,0.0,,39,0.0
+78,203107,Tomas Satoransky,1610612741,CHI,29.0,Backcourt,0.0,0.0,0.0,,39,0.0
+79,203107,Tomas Satoransky,1610612741,CHI,29.0,Corner 3,0.0,0.0,0.0,,39,0.0
+0,1629690,Adam Mokoka,1610612741,CHI,22.0,Restricted Area,0.0,0.0,0.0,,40,0.0
+1,1629690,Adam Mokoka,1610612741,CHI,22.0,In The Paint (Non-RA),,,,,40,0.0
+2,1629690,Adam Mokoka,1610612741,CHI,22.0,Mid-Range,,,,,40,0.0
+3,1629690,Adam Mokoka,1610612741,CHI,22.0,Left Corner 3,,,,,40,0.0
+4,1629690,Adam Mokoka,1610612741,CHI,22.0,Right Corner 3,,,,,40,0.0
+5,1629690,Adam Mokoka,1610612741,CHI,22.0,Above the Break 3,0.0,0.0,0.0,,40,0.0
+6,1629690,Adam Mokoka,1610612741,CHI,22.0,Backcourt,,,,,40,0.0
+7,1629690,Adam Mokoka,1610612741,CHI,22.0,Corner 3,,,,,40,0.0
+8,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Restricted Area,0.0,1.0,0.0,,40,0.0
+9,202329,Al-Farouq Aminu,1610612741,CHI,30.0,In The Paint (Non-RA),1.0,1.0,1.0,,40,0.0
+10,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Mid-Range,0.0,0.0,0.0,,40,0.0
+11,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Left Corner 3,0.0,0.0,0.0,,40,0.0
+12,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Right Corner 3,0.0,1.0,0.0,,40,0.0
+13,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Above the Break 3,1.0,2.0,0.5,,40,0.0
+14,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Backcourt,,,,,40,0.0
+15,202329,Al-Farouq Aminu,1610612741,CHI,30.0,Corner 3,0.0,1.0,0.0,,40,0.0
+16,1629632,Coby White,1610612741,CHI,21.0,Restricted Area,1.0,5.0,0.2,,40,0.0
+17,1629632,Coby White,1610612741,CHI,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,40,0.0
+18,1629632,Coby White,1610612741,CHI,21.0,Mid-Range,1.0,2.0,0.5,,40,0.0
+19,1629632,Coby White,1610612741,CHI,21.0,Left Corner 3,1.0,1.0,1.0,,40,0.0
+20,1629632,Coby White,1610612741,CHI,21.0,Right Corner 3,0.0,0.0,0.0,,40,0.0
+21,1629632,Coby White,1610612741,CHI,21.0,Above the Break 3,3.0,7.0,0.429,,40,0.0
+22,1629632,Coby White,1610612741,CHI,21.0,Backcourt,0.0,0.0,0.0,,40,0.0
+23,1629632,Coby White,1610612741,CHI,21.0,Corner 3,1.0,1.0,1.0,,40,0.0
+24,1628464,Daniel Theis,1610612741,CHI,29.0,Restricted Area,6.0,7.0,0.857,,40,0.0
+25,1628464,Daniel Theis,1610612741,CHI,29.0,In The Paint (Non-RA),0.0,1.0,0.0,,40,0.0
+26,1628464,Daniel Theis,1610612741,CHI,29.0,Mid-Range,0.0,0.0,0.0,,40,0.0
+27,1628464,Daniel Theis,1610612741,CHI,29.0,Left Corner 3,1.0,1.0,1.0,,40,0.0
+28,1628464,Daniel Theis,1610612741,CHI,29.0,Right Corner 3,0.0,0.0,0.0,,40,0.0
+29,1628464,Daniel Theis,1610612741,CHI,29.0,Above the Break 3,0.0,0.0,0.0,,40,0.0
+30,1628464,Daniel Theis,1610612741,CHI,29.0,Backcourt,0.0,0.0,0.0,,40,0.0
+31,1628464,Daniel Theis,1610612741,CHI,29.0,Corner 3,1.0,1.0,1.0,,40,0.0
+32,1627756,Denzel Valentine,1610612741,CHI,27.0,Restricted Area,1.0,1.0,1.0,,40,0.0
+33,1627756,Denzel Valentine,1610612741,CHI,27.0,In The Paint (Non-RA),0.0,2.0,0.0,,40,0.0
+34,1627756,Denzel Valentine,1610612741,CHI,27.0,Mid-Range,0.0,2.0,0.0,,40,0.0
+35,1627756,Denzel Valentine,1610612741,CHI,27.0,Left Corner 3,1.0,1.0,1.0,,40,0.0
+36,1627756,Denzel Valentine,1610612741,CHI,27.0,Right Corner 3,0.0,0.0,0.0,,40,0.0
+37,1627756,Denzel Valentine,1610612741,CHI,27.0,Above the Break 3,0.0,3.0,0.0,,40,0.0
+38,1627756,Denzel Valentine,1610612741,CHI,27.0,Backcourt,,,,,40,0.0
+39,1627756,Denzel Valentine,1610612741,CHI,27.0,Corner 3,1.0,1.0,1.0,,40,0.0
+40,1629653,Devon Dotson,1610612741,CHI,21.0,Restricted Area,1.0,1.0,1.0,,40,0.0
+41,1629653,Devon Dotson,1610612741,CHI,21.0,In The Paint (Non-RA),,,,,40,0.0
+42,1629653,Devon Dotson,1610612741,CHI,21.0,Mid-Range,,,,,40,0.0
+43,1629653,Devon Dotson,1610612741,CHI,21.0,Left Corner 3,,,,,40,0.0
+44,1629653,Devon Dotson,1610612741,CHI,21.0,Right Corner 3,,,,,40,0.0
+45,1629653,Devon Dotson,1610612741,CHI,21.0,Above the Break 3,0.0,0.0,0.0,,40,0.0
+46,1629653,Devon Dotson,1610612741,CHI,21.0,Backcourt,,,,,40,0.0
+47,1629653,Devon Dotson,1610612741,CHI,21.0,Corner 3,,,,,40,0.0
+48,202066,Garrett Temple,1610612741,CHI,35.0,Restricted Area,1.0,2.0,0.5,,40,0.0
+49,202066,Garrett Temple,1610612741,CHI,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,40,0.0
+50,202066,Garrett Temple,1610612741,CHI,35.0,Mid-Range,0.0,0.0,0.0,,40,0.0
+51,202066,Garrett Temple,1610612741,CHI,35.0,Left Corner 3,1.0,2.0,0.5,,40,0.0
+52,202066,Garrett Temple,1610612741,CHI,35.0,Right Corner 3,0.0,0.0,0.0,,40,0.0
+53,202066,Garrett Temple,1610612741,CHI,35.0,Above the Break 3,0.0,3.0,0.0,,40,0.0
+54,202066,Garrett Temple,1610612741,CHI,35.0,Backcourt,0.0,0.0,0.0,,40,0.0
+55,202066,Garrett Temple,1610612741,CHI,35.0,Corner 3,1.0,2.0,0.5,,40,0.0
+56,1629750,Javonte Green,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,40,0.0
+57,1629750,Javonte Green,1610612741,CHI,27.0,In The Paint (Non-RA),,,,,40,0.0
+58,1629750,Javonte Green,1610612741,CHI,27.0,Mid-Range,,,,,40,0.0
+59,1629750,Javonte Green,1610612741,CHI,27.0,Left Corner 3,,,,,40,0.0
+60,1629750,Javonte Green,1610612741,CHI,27.0,Right Corner 3,,,,,40,0.0
+61,1629750,Javonte Green,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,40,0.0
+62,1629750,Javonte Green,1610612741,CHI,27.0,Backcourt,,,,,40,0.0
+63,1629750,Javonte Green,1610612741,CHI,27.0,Corner 3,,,,,40,0.0
+64,202696,Nikola Vucevic,1610612741,CHI,30.0,Restricted Area,2.0,3.0,0.667,,40,0.0
+65,202696,Nikola Vucevic,1610612741,CHI,30.0,In The Paint (Non-RA),2.0,11.0,0.182,,40,0.0
+66,202696,Nikola Vucevic,1610612741,CHI,30.0,Mid-Range,2.0,4.0,0.5,,40,0.0
+67,202696,Nikola Vucevic,1610612741,CHI,30.0,Left Corner 3,0.0,1.0,0.0,,40,0.0
+68,202696,Nikola Vucevic,1610612741,CHI,30.0,Right Corner 3,0.0,0.0,0.0,,40,0.0
+69,202696,Nikola Vucevic,1610612741,CHI,30.0,Above the Break 3,1.0,8.0,0.125,,40,0.0
+70,202696,Nikola Vucevic,1610612741,CHI,30.0,Backcourt,0.0,0.0,0.0,,40,0.0
+71,202696,Nikola Vucevic,1610612741,CHI,30.0,Corner 3,0.0,1.0,0.0,,40,0.0
+72,1630172,Patrick Williams,1610612741,CHI,19.0,Restricted Area,0.0,2.0,0.0,,40,0.0
+73,1630172,Patrick Williams,1610612741,CHI,19.0,In The Paint (Non-RA),1.0,1.0,1.0,,40,0.0
+74,1630172,Patrick Williams,1610612741,CHI,19.0,Mid-Range,1.0,2.0,0.5,,40,0.0
+75,1630172,Patrick Williams,1610612741,CHI,19.0,Left Corner 3,0.0,0.0,0.0,,40,0.0
+76,1630172,Patrick Williams,1610612741,CHI,19.0,Right Corner 3,0.0,1.0,0.0,,40,0.0
+77,1630172,Patrick Williams,1610612741,CHI,19.0,Above the Break 3,0.0,0.0,0.0,,40,0.0
+78,1630172,Patrick Williams,1610612741,CHI,19.0,Backcourt,0.0,0.0,0.0,,40,0.0
+79,1630172,Patrick Williams,1610612741,CHI,19.0,Corner 3,0.0,1.0,0.0,,40,0.0
+80,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Restricted Area,0.0,0.0,0.0,,40,0.0
+81,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,In The Paint (Non-RA),,,,,40,0.0
+82,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Mid-Range,,,,,40,0.0
+83,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Left Corner 3,,,,,40,0.0
+84,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Right Corner 3,,,,,40,0.0
+85,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Above the Break 3,0.0,0.0,0.0,,40,0.0
+86,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Backcourt,,,,,40,0.0
+87,1627853,Ryan Arcidiacono,1610612741,CHI,27.0,Corner 3,,,,,40,0.0
+88,201152,Thaddeus Young,1610612741,CHI,32.0,Restricted Area,0.0,4.0,0.0,,40,0.0
+89,201152,Thaddeus Young,1610612741,CHI,32.0,In The Paint (Non-RA),2.0,6.0,0.333,,40,0.0
+90,201152,Thaddeus Young,1610612741,CHI,32.0,Mid-Range,0.0,0.0,0.0,,40,0.0
+91,201152,Thaddeus Young,1610612741,CHI,32.0,Left Corner 3,0.0,0.0,0.0,,40,0.0
+92,201152,Thaddeus Young,1610612741,CHI,32.0,Right Corner 3,0.0,0.0,0.0,,40,0.0
+93,201152,Thaddeus Young,1610612741,CHI,32.0,Above the Break 3,0.0,0.0,0.0,,40,0.0
+94,201152,Thaddeus Young,1610612741,CHI,32.0,Backcourt,,,,,40,0.0
+95,201152,Thaddeus Young,1610612741,CHI,32.0,Corner 3,0.0,0.0,0.0,,40,0.0
+96,203107,Tomas Satoransky,1610612741,CHI,29.0,Restricted Area,2.0,2.0,1.0,,40,0.0
+97,203107,Tomas Satoransky,1610612741,CHI,29.0,In The Paint (Non-RA),1.0,1.0,1.0,,40,0.0
+98,203107,Tomas Satoransky,1610612741,CHI,29.0,Mid-Range,2.0,2.0,1.0,,40,0.0
+99,203107,Tomas Satoransky,1610612741,CHI,29.0,Left Corner 3,0.0,0.0,0.0,,40,0.0
+100,203107,Tomas Satoransky,1610612741,CHI,29.0,Right Corner 3,0.0,0.0,0.0,,40,0.0
+101,203107,Tomas Satoransky,1610612741,CHI,29.0,Above the Break 3,1.0,2.0,0.5,,40,0.0
+102,203107,Tomas Satoransky,1610612741,CHI,29.0,Backcourt,,,,,40,0.0
+103,203107,Tomas Satoransky,1610612741,CHI,29.0,Corner 3,0.0,0.0,0.0,,40,0.0

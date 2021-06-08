@@ -1,0 +1,921 @@
+,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_ABBREVIATION,AGE,ZONE,FGM,FGA,FG_PCT,SEASON,game_id,win
+0,202692,Alec Burks,1610612752,NYK,29.0,Restricted Area,1.0,3.0,0.333,,1,1.0
+1,202692,Alec Burks,1610612752,NYK,29.0,In The Paint (Non-RA),0.0,0.0,0.0,,1,1.0
+2,202692,Alec Burks,1610612752,NYK,29.0,Mid-Range,0.0,0.0,0.0,,1,1.0
+3,202692,Alec Burks,1610612752,NYK,29.0,Left Corner 3,0.0,1.0,0.0,,1,1.0
+4,202692,Alec Burks,1610612752,NYK,29.0,Right Corner 3,1.0,1.0,1.0,,1,1.0
+5,202692,Alec Burks,1610612752,NYK,29.0,Above the Break 3,4.0,5.0,0.8,,1,1.0
+6,202692,Alec Burks,1610612752,NYK,29.0,Backcourt,0.0,0.0,0.0,,1,1.0
+7,202692,Alec Burks,1610612752,NYK,29.0,Corner 3,1.0,2.0,0.5,,1,1.0
+8,201565,Derrick Rose,1610612752,NYK,32.0,Restricted Area,2.0,2.0,1.0,,1,1.0
+9,201565,Derrick Rose,1610612752,NYK,32.0,In The Paint (Non-RA),0.0,2.0,0.0,,1,1.0
+10,201565,Derrick Rose,1610612752,NYK,32.0,Mid-Range,1.0,5.0,0.2,,1,1.0
+11,201565,Derrick Rose,1610612752,NYK,32.0,Left Corner 3,0.0,0.0,0.0,,1,1.0
+12,201565,Derrick Rose,1610612752,NYK,32.0,Right Corner 3,0.0,0.0,0.0,,1,1.0
+13,201565,Derrick Rose,1610612752,NYK,32.0,Above the Break 3,0.0,0.0,0.0,,1,1.0
+14,201565,Derrick Rose,1610612752,NYK,32.0,Backcourt,0.0,0.0,0.0,,1,1.0
+15,201565,Derrick Rose,1610612752,NYK,32.0,Corner 3,0.0,0.0,0.0,,1,1.0
+16,203901,Elfrid Payton,1610612752,NYK,27.0,Restricted Area,0.0,2.0,0.0,,1,1.0
+17,203901,Elfrid Payton,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,1.0,0.0,,1,1.0
+18,203901,Elfrid Payton,1610612752,NYK,27.0,Mid-Range,0.0,1.0,0.0,,1,1.0
+19,203901,Elfrid Payton,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,1,1.0
+20,203901,Elfrid Payton,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,1,1.0
+21,203901,Elfrid Payton,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,1,1.0
+22,203901,Elfrid Payton,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,1,1.0
+23,203901,Elfrid Payton,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,1,1.0
+24,1628373,Frank Ntilikina,1610612752,NYK,22.0,Restricted Area,,,,,1,1.0
+25,1628373,Frank Ntilikina,1610612752,NYK,22.0,In The Paint (Non-RA),0.0,0.0,0.0,,1,1.0
+26,1628373,Frank Ntilikina,1610612752,NYK,22.0,Mid-Range,,,,,1,1.0
+27,1628373,Frank Ntilikina,1610612752,NYK,22.0,Left Corner 3,,,,,1,1.0
+28,1628373,Frank Ntilikina,1610612752,NYK,22.0,Right Corner 3,0.0,0.0,0.0,,1,1.0
+29,1628373,Frank Ntilikina,1610612752,NYK,22.0,Above the Break 3,0.0,0.0,0.0,,1,1.0
+30,1628373,Frank Ntilikina,1610612752,NYK,22.0,Backcourt,0.0,0.0,0.0,,1,1.0
+31,1628373,Frank Ntilikina,1610612752,NYK,22.0,Corner 3,0.0,0.0,0.0,,1,1.0
+32,1630193,Immanuel Quickley,1610612752,NYK,21.0,Restricted Area,0.0,1.0,0.0,,1,1.0
+33,1630193,Immanuel Quickley,1610612752,NYK,21.0,In The Paint (Non-RA),1.0,2.0,0.5,,1,1.0
+34,1630193,Immanuel Quickley,1610612752,NYK,21.0,Mid-Range,0.0,1.0,0.0,,1,1.0
+35,1630193,Immanuel Quickley,1610612752,NYK,21.0,Left Corner 3,0.0,0.0,0.0,,1,1.0
+36,1630193,Immanuel Quickley,1610612752,NYK,21.0,Right Corner 3,0.0,0.0,0.0,,1,1.0
+37,1630193,Immanuel Quickley,1610612752,NYK,21.0,Above the Break 3,0.0,3.0,0.0,,1,1.0
+38,1630193,Immanuel Quickley,1610612752,NYK,21.0,Backcourt,,,,,1,1.0
+39,1630193,Immanuel Quickley,1610612752,NYK,21.0,Corner 3,0.0,0.0,0.0,,1,1.0
+40,203944,Julius Randle,1610612752,NYK,26.0,Restricted Area,1.0,1.0,1.0,,1,1.0
+41,203944,Julius Randle,1610612752,NYK,26.0,In The Paint (Non-RA),0.0,6.0,0.0,,1,1.0
+42,203944,Julius Randle,1610612752,NYK,26.0,Mid-Range,2.0,5.0,0.4,,1,1.0
+43,203944,Julius Randle,1610612752,NYK,26.0,Left Corner 3,0.0,1.0,0.0,,1,1.0
+44,203944,Julius Randle,1610612752,NYK,26.0,Right Corner 3,0.0,0.0,0.0,,1,1.0
+45,203944,Julius Randle,1610612752,NYK,26.0,Above the Break 3,2.0,4.0,0.5,,1,1.0
+46,203944,Julius Randle,1610612752,NYK,26.0,Backcourt,0.0,0.0,0.0,,1,1.0
+47,203944,Julius Randle,1610612752,NYK,26.0,Corner 3,0.0,1.0,0.0,,1,1.0
+48,203457,Nerlens Noel,1610612752,NYK,27.0,Restricted Area,1.0,1.0,1.0,,1,1.0
+49,203457,Nerlens Noel,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,1,1.0
+50,203457,Nerlens Noel,1610612752,NYK,27.0,Mid-Range,0.0,1.0,0.0,,1,1.0
+51,203457,Nerlens Noel,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,1,1.0
+52,203457,Nerlens Noel,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,1,1.0
+53,203457,Nerlens Noel,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,1,1.0
+54,203457,Nerlens Noel,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,1,1.0
+55,203457,Nerlens Noel,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,1,1.0
+56,1630167,Obi Toppin,1610612752,NYK,23.0,Restricted Area,1.0,2.0,0.5,,1,1.0
+57,1630167,Obi Toppin,1610612752,NYK,23.0,In The Paint (Non-RA),1.0,1.0,1.0,,1,1.0
+58,1630167,Obi Toppin,1610612752,NYK,23.0,Mid-Range,1.0,1.0,1.0,,1,1.0
+59,1630167,Obi Toppin,1610612752,NYK,23.0,Left Corner 3,0.0,0.0,0.0,,1,1.0
+60,1630167,Obi Toppin,1610612752,NYK,23.0,Right Corner 3,0.0,1.0,0.0,,1,1.0
+61,1630167,Obi Toppin,1610612752,NYK,23.0,Above the Break 3,0.0,0.0,0.0,,1,1.0
+62,1630167,Obi Toppin,1610612752,NYK,23.0,Backcourt,,,,,1,1.0
+63,1630167,Obi Toppin,1610612752,NYK,23.0,Corner 3,0.0,1.0,0.0,,1,1.0
+64,1629628,RJ Barrett,1610612752,NYK,20.0,Restricted Area,4.0,5.0,0.8,,1,1.0
+65,1629628,RJ Barrett,1610612752,NYK,20.0,In The Paint (Non-RA),0.0,0.0,0.0,,1,1.0
+66,1629628,RJ Barrett,1610612752,NYK,20.0,Mid-Range,1.0,3.0,0.333,,1,1.0
+67,1629628,RJ Barrett,1610612752,NYK,20.0,Left Corner 3,0.0,0.0,0.0,,1,1.0
+68,1629628,RJ Barrett,1610612752,NYK,20.0,Right Corner 3,0.0,0.0,0.0,,1,1.0
+69,1629628,RJ Barrett,1610612752,NYK,20.0,Above the Break 3,2.0,4.0,0.5,,1,1.0
+70,1629628,RJ Barrett,1610612752,NYK,20.0,Backcourt,0.0,0.0,0.0,,1,1.0
+71,1629628,RJ Barrett,1610612752,NYK,20.0,Corner 3,0.0,0.0,0.0,,1,1.0
+72,203493,Reggie Bullock,1610612752,NYK,30.0,Restricted Area,0.0,0.0,0.0,,1,1.0
+73,203493,Reggie Bullock,1610612752,NYK,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,1,1.0
+74,203493,Reggie Bullock,1610612752,NYK,30.0,Mid-Range,2.0,2.0,1.0,,1,1.0
+75,203493,Reggie Bullock,1610612752,NYK,30.0,Left Corner 3,1.0,2.0,0.5,,1,1.0
+76,203493,Reggie Bullock,1610612752,NYK,30.0,Right Corner 3,1.0,2.0,0.5,,1,1.0
+77,203493,Reggie Bullock,1610612752,NYK,30.0,Above the Break 3,2.0,3.0,0.667,,1,1.0
+78,203493,Reggie Bullock,1610612752,NYK,30.0,Backcourt,0.0,0.0,0.0,,1,1.0
+79,203493,Reggie Bullock,1610612752,NYK,30.0,Corner 3,2.0,4.0,0.5,,1,1.0
+80,201959,Taj Gibson,1610612752,NYK,35.0,Restricted Area,1.0,1.0,1.0,,1,1.0
+81,201959,Taj Gibson,1610612752,NYK,35.0,In The Paint (Non-RA),0.0,1.0,0.0,,1,1.0
+82,201959,Taj Gibson,1610612752,NYK,35.0,Mid-Range,1.0,2.0,0.5,,1,1.0
+83,201959,Taj Gibson,1610612752,NYK,35.0,Left Corner 3,0.0,0.0,0.0,,1,1.0
+84,201959,Taj Gibson,1610612752,NYK,35.0,Right Corner 3,0.0,0.0,0.0,,1,1.0
+85,201959,Taj Gibson,1610612752,NYK,35.0,Above the Break 3,0.0,0.0,0.0,,1,1.0
+86,201959,Taj Gibson,1610612752,NYK,35.0,Backcourt,,,,,1,1.0
+87,201959,Taj Gibson,1610612752,NYK,35.0,Corner 3,0.0,0.0,0.0,,1,1.0
+0,202692,Alec Burks,1610612752,NYK,29.0,Restricted Area,2.0,4.0,0.5,,2,1.0
+1,202692,Alec Burks,1610612752,NYK,29.0,In The Paint (Non-RA),1.0,1.0,1.0,,2,1.0
+2,202692,Alec Burks,1610612752,NYK,29.0,Mid-Range,0.0,0.0,0.0,,2,1.0
+3,202692,Alec Burks,1610612752,NYK,29.0,Left Corner 3,1.0,2.0,0.5,,2,1.0
+4,202692,Alec Burks,1610612752,NYK,29.0,Right Corner 3,1.0,1.0,1.0,,2,1.0
+5,202692,Alec Burks,1610612752,NYK,29.0,Above the Break 3,0.0,4.0,0.0,,2,1.0
+6,202692,Alec Burks,1610612752,NYK,29.0,Backcourt,0.0,0.0,0.0,,2,1.0
+7,202692,Alec Burks,1610612752,NYK,29.0,Corner 3,2.0,3.0,0.667,,2,1.0
+8,201565,Derrick Rose,1610612752,NYK,32.0,Restricted Area,0.0,1.0,0.0,,2,1.0
+9,201565,Derrick Rose,1610612752,NYK,32.0,In The Paint (Non-RA),2.0,2.0,1.0,,2,1.0
+10,201565,Derrick Rose,1610612752,NYK,32.0,Mid-Range,3.0,4.0,0.75,,2,1.0
+11,201565,Derrick Rose,1610612752,NYK,32.0,Left Corner 3,0.0,0.0,0.0,,2,1.0
+12,201565,Derrick Rose,1610612752,NYK,32.0,Right Corner 3,0.0,0.0,0.0,,2,1.0
+13,201565,Derrick Rose,1610612752,NYK,32.0,Above the Break 3,1.0,2.0,0.5,,2,1.0
+14,201565,Derrick Rose,1610612752,NYK,32.0,Backcourt,0.0,0.0,0.0,,2,1.0
+15,201565,Derrick Rose,1610612752,NYK,32.0,Corner 3,0.0,0.0,0.0,,2,1.0
+16,203901,Elfrid Payton,1610612752,NYK,27.0,Restricted Area,0.0,0.0,0.0,,2,1.0
+17,203901,Elfrid Payton,1610612752,NYK,27.0,In The Paint (Non-RA),1.0,1.0,1.0,,2,1.0
+18,203901,Elfrid Payton,1610612752,NYK,27.0,Mid-Range,0.0,1.0,0.0,,2,1.0
+19,203901,Elfrid Payton,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,2,1.0
+20,203901,Elfrid Payton,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,2,1.0
+21,203901,Elfrid Payton,1610612752,NYK,27.0,Above the Break 3,0.0,1.0,0.0,,2,1.0
+22,203901,Elfrid Payton,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,2,1.0
+23,203901,Elfrid Payton,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,2,1.0
+24,1628373,Frank Ntilikina,1610612752,NYK,22.0,Restricted Area,0.0,0.0,0.0,,2,1.0
+25,1628373,Frank Ntilikina,1610612752,NYK,22.0,In The Paint (Non-RA),,,,,2,1.0
+26,1628373,Frank Ntilikina,1610612752,NYK,22.0,Mid-Range,,,,,2,1.0
+27,1628373,Frank Ntilikina,1610612752,NYK,22.0,Left Corner 3,,,,,2,1.0
+28,1628373,Frank Ntilikina,1610612752,NYK,22.0,Right Corner 3,,,,,2,1.0
+29,1628373,Frank Ntilikina,1610612752,NYK,22.0,Above the Break 3,0.0,0.0,0.0,,2,1.0
+30,1628373,Frank Ntilikina,1610612752,NYK,22.0,Backcourt,,,,,2,1.0
+31,1628373,Frank Ntilikina,1610612752,NYK,22.0,Corner 3,,,,,2,1.0
+32,1630193,Immanuel Quickley,1610612752,NYK,21.0,Restricted Area,1.0,1.0,1.0,,2,1.0
+33,1630193,Immanuel Quickley,1610612752,NYK,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,2,1.0
+34,1630193,Immanuel Quickley,1610612752,NYK,21.0,Mid-Range,1.0,1.0,1.0,,2,1.0
+35,1630193,Immanuel Quickley,1610612752,NYK,21.0,Left Corner 3,0.0,1.0,0.0,,2,1.0
+36,1630193,Immanuel Quickley,1610612752,NYK,21.0,Right Corner 3,1.0,1.0,1.0,,2,1.0
+37,1630193,Immanuel Quickley,1610612752,NYK,21.0,Above the Break 3,1.0,4.0,0.25,,2,1.0
+38,1630193,Immanuel Quickley,1610612752,NYK,21.0,Backcourt,0.0,0.0,0.0,,2,1.0
+39,1630193,Immanuel Quickley,1610612752,NYK,21.0,Corner 3,1.0,2.0,0.5,,2,1.0
+40,203944,Julius Randle,1610612752,NYK,26.0,Restricted Area,2.0,3.0,0.667,,2,1.0
+41,203944,Julius Randle,1610612752,NYK,26.0,In The Paint (Non-RA),0.0,0.0,0.0,,2,1.0
+42,203944,Julius Randle,1610612752,NYK,26.0,Mid-Range,6.0,12.0,0.5,,2,1.0
+43,203944,Julius Randle,1610612752,NYK,26.0,Left Corner 3,0.0,1.0,0.0,,2,1.0
+44,203944,Julius Randle,1610612752,NYK,26.0,Right Corner 3,0.0,0.0,0.0,,2,1.0
+45,203944,Julius Randle,1610612752,NYK,26.0,Above the Break 3,4.0,9.0,0.444,,2,1.0
+46,203944,Julius Randle,1610612752,NYK,26.0,Backcourt,0.0,0.0,0.0,,2,1.0
+47,203944,Julius Randle,1610612752,NYK,26.0,Corner 3,0.0,1.0,0.0,,2,1.0
+48,203457,Nerlens Noel,1610612752,NYK,27.0,Restricted Area,4.0,5.0,0.8,,2,1.0
+49,203457,Nerlens Noel,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,2,1.0
+50,203457,Nerlens Noel,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,2,1.0
+51,203457,Nerlens Noel,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,2,1.0
+52,203457,Nerlens Noel,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,2,1.0
+53,203457,Nerlens Noel,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,2,1.0
+54,203457,Nerlens Noel,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,2,1.0
+55,203457,Nerlens Noel,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,2,1.0
+56,1630167,Obi Toppin,1610612752,NYK,23.0,Restricted Area,0.0,0.0,0.0,,2,1.0
+57,1630167,Obi Toppin,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,2,1.0
+58,1630167,Obi Toppin,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,2,1.0
+59,1630167,Obi Toppin,1610612752,NYK,23.0,Left Corner 3,1.0,1.0,1.0,,2,1.0
+60,1630167,Obi Toppin,1610612752,NYK,23.0,Right Corner 3,0.0,0.0,0.0,,2,1.0
+61,1630167,Obi Toppin,1610612752,NYK,23.0,Above the Break 3,0.0,0.0,0.0,,2,1.0
+62,1630167,Obi Toppin,1610612752,NYK,23.0,Backcourt,,,,,2,1.0
+63,1630167,Obi Toppin,1610612752,NYK,23.0,Corner 3,1.0,1.0,1.0,,2,1.0
+64,1629628,RJ Barrett,1610612752,NYK,20.0,Restricted Area,1.0,3.0,0.333,,2,1.0
+65,1629628,RJ Barrett,1610612752,NYK,20.0,In The Paint (Non-RA),2.0,5.0,0.4,,2,1.0
+66,1629628,RJ Barrett,1610612752,NYK,20.0,Mid-Range,0.0,1.0,0.0,,2,1.0
+67,1629628,RJ Barrett,1610612752,NYK,20.0,Left Corner 3,0.0,0.0,0.0,,2,1.0
+68,1629628,RJ Barrett,1610612752,NYK,20.0,Right Corner 3,1.0,1.0,1.0,,2,1.0
+69,1629628,RJ Barrett,1610612752,NYK,20.0,Above the Break 3,0.0,0.0,0.0,,2,1.0
+70,1629628,RJ Barrett,1610612752,NYK,20.0,Backcourt,0.0,0.0,0.0,,2,1.0
+71,1629628,RJ Barrett,1610612752,NYK,20.0,Corner 3,1.0,1.0,1.0,,2,1.0
+72,203493,Reggie Bullock,1610612752,NYK,30.0,Restricted Area,0.0,0.0,0.0,,2,1.0
+73,203493,Reggie Bullock,1610612752,NYK,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,2,1.0
+74,203493,Reggie Bullock,1610612752,NYK,30.0,Mid-Range,1.0,3.0,0.333,,2,1.0
+75,203493,Reggie Bullock,1610612752,NYK,30.0,Left Corner 3,1.0,2.0,0.5,,2,1.0
+76,203493,Reggie Bullock,1610612752,NYK,30.0,Right Corner 3,2.0,2.0,1.0,,2,1.0
+77,203493,Reggie Bullock,1610612752,NYK,30.0,Above the Break 3,2.0,5.0,0.4,,2,1.0
+78,203493,Reggie Bullock,1610612752,NYK,30.0,Backcourt,0.0,0.0,0.0,,2,1.0
+79,203493,Reggie Bullock,1610612752,NYK,30.0,Corner 3,3.0,4.0,0.75,,2,1.0
+80,201959,Taj Gibson,1610612752,NYK,35.0,Restricted Area,2.0,3.0,0.667,,2,1.0
+81,201959,Taj Gibson,1610612752,NYK,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,2,1.0
+82,201959,Taj Gibson,1610612752,NYK,35.0,Mid-Range,0.0,0.0,0.0,,2,1.0
+83,201959,Taj Gibson,1610612752,NYK,35.0,Left Corner 3,0.0,0.0,0.0,,2,1.0
+84,201959,Taj Gibson,1610612752,NYK,35.0,Right Corner 3,0.0,0.0,0.0,,2,1.0
+85,201959,Taj Gibson,1610612752,NYK,35.0,Above the Break 3,0.0,0.0,0.0,,2,1.0
+86,201959,Taj Gibson,1610612752,NYK,35.0,Backcourt,0.0,0.0,0.0,,2,1.0
+87,201959,Taj Gibson,1610612752,NYK,35.0,Corner 3,0.0,0.0,0.0,,2,1.0
+0,202692,Alec Burks,1610612752,NYK,29.0,Restricted Area,6.0,8.0,0.75,,3,1.0
+1,202692,Alec Burks,1610612752,NYK,29.0,In The Paint (Non-RA),0.0,0.0,0.0,,3,1.0
+2,202692,Alec Burks,1610612752,NYK,29.0,Mid-Range,0.0,2.0,0.0,,3,1.0
+3,202692,Alec Burks,1610612752,NYK,29.0,Left Corner 3,0.0,1.0,0.0,,3,1.0
+4,202692,Alec Burks,1610612752,NYK,29.0,Right Corner 3,2.0,2.0,1.0,,3,1.0
+5,202692,Alec Burks,1610612752,NYK,29.0,Above the Break 3,3.0,7.0,0.429,,3,1.0
+6,202692,Alec Burks,1610612752,NYK,29.0,Backcourt,0.0,0.0,0.0,,3,1.0
+7,202692,Alec Burks,1610612752,NYK,29.0,Corner 3,2.0,3.0,0.667,,3,1.0
+8,203901,Elfrid Payton,1610612752,NYK,27.0,Restricted Area,0.0,3.0,0.0,,3,1.0
+9,203901,Elfrid Payton,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,1.0,0.0,,3,1.0
+10,203901,Elfrid Payton,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,3,1.0
+11,203901,Elfrid Payton,1610612752,NYK,27.0,Left Corner 3,,,,,3,1.0
+12,203901,Elfrid Payton,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,3,1.0
+13,203901,Elfrid Payton,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,3,1.0
+14,203901,Elfrid Payton,1610612752,NYK,27.0,Backcourt,,,,,3,1.0
+15,203901,Elfrid Payton,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,3,1.0
+16,1628373,Frank Ntilikina,1610612752,NYK,22.0,Restricted Area,0.0,0.0,0.0,,3,1.0
+17,1628373,Frank Ntilikina,1610612752,NYK,22.0,In The Paint (Non-RA),0.0,0.0,0.0,,3,1.0
+18,1628373,Frank Ntilikina,1610612752,NYK,22.0,Mid-Range,0.0,0.0,0.0,,3,1.0
+19,1628373,Frank Ntilikina,1610612752,NYK,22.0,Left Corner 3,,,,,3,1.0
+20,1628373,Frank Ntilikina,1610612752,NYK,22.0,Right Corner 3,1.0,1.0,1.0,,3,1.0
+21,1628373,Frank Ntilikina,1610612752,NYK,22.0,Above the Break 3,0.0,0.0,0.0,,3,1.0
+22,1628373,Frank Ntilikina,1610612752,NYK,22.0,Backcourt,,,,,3,1.0
+23,1628373,Frank Ntilikina,1610612752,NYK,22.0,Corner 3,1.0,1.0,1.0,,3,1.0
+24,1630193,Immanuel Quickley,1610612752,NYK,21.0,Restricted Area,0.0,1.0,0.0,,3,1.0
+25,1630193,Immanuel Quickley,1610612752,NYK,21.0,In The Paint (Non-RA),0.0,1.0,0.0,,3,1.0
+26,1630193,Immanuel Quickley,1610612752,NYK,21.0,Mid-Range,0.0,0.0,0.0,,3,1.0
+27,1630193,Immanuel Quickley,1610612752,NYK,21.0,Left Corner 3,0.0,0.0,0.0,,3,1.0
+28,1630193,Immanuel Quickley,1610612752,NYK,21.0,Right Corner 3,0.0,0.0,0.0,,3,1.0
+29,1630193,Immanuel Quickley,1610612752,NYK,21.0,Above the Break 3,0.0,2.0,0.0,,3,1.0
+30,1630193,Immanuel Quickley,1610612752,NYK,21.0,Backcourt,0.0,0.0,0.0,,3,1.0
+31,1630193,Immanuel Quickley,1610612752,NYK,21.0,Corner 3,0.0,0.0,0.0,,3,1.0
+32,203944,Julius Randle,1610612752,NYK,26.0,Restricted Area,0.0,3.0,0.0,,3,1.0
+33,203944,Julius Randle,1610612752,NYK,26.0,In The Paint (Non-RA),1.0,2.0,0.5,,3,1.0
+34,203944,Julius Randle,1610612752,NYK,26.0,Mid-Range,5.0,11.0,0.455,,3,1.0
+35,203944,Julius Randle,1610612752,NYK,26.0,Left Corner 3,0.0,0.0,0.0,,3,1.0
+36,203944,Julius Randle,1610612752,NYK,26.0,Right Corner 3,0.0,0.0,0.0,,3,1.0
+37,203944,Julius Randle,1610612752,NYK,26.0,Above the Break 3,1.0,5.0,0.2,,3,1.0
+38,203944,Julius Randle,1610612752,NYK,26.0,Backcourt,0.0,0.0,0.0,,3,1.0
+39,203944,Julius Randle,1610612752,NYK,26.0,Corner 3,0.0,0.0,0.0,,3,1.0
+40,203457,Nerlens Noel,1610612752,NYK,27.0,Restricted Area,2.0,3.0,0.667,,3,1.0
+41,203457,Nerlens Noel,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,3,1.0
+42,203457,Nerlens Noel,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,3,1.0
+43,203457,Nerlens Noel,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,3,1.0
+44,203457,Nerlens Noel,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,3,1.0
+45,203457,Nerlens Noel,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,3,1.0
+46,203457,Nerlens Noel,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,3,1.0
+47,203457,Nerlens Noel,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,3,1.0
+48,1630167,Obi Toppin,1610612752,NYK,23.0,Restricted Area,0.0,0.0,0.0,,3,1.0
+49,1630167,Obi Toppin,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,3,1.0
+50,1630167,Obi Toppin,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,3,1.0
+51,1630167,Obi Toppin,1610612752,NYK,23.0,Left Corner 3,0.0,0.0,0.0,,3,1.0
+52,1630167,Obi Toppin,1610612752,NYK,23.0,Right Corner 3,,,,,3,1.0
+53,1630167,Obi Toppin,1610612752,NYK,23.0,Above the Break 3,0.0,0.0,0.0,,3,1.0
+54,1630167,Obi Toppin,1610612752,NYK,23.0,Backcourt,,,,,3,1.0
+55,1630167,Obi Toppin,1610612752,NYK,23.0,Corner 3,0.0,0.0,0.0,,3,1.0
+56,1629628,RJ Barrett,1610612752,NYK,20.0,Restricted Area,1.0,5.0,0.2,,3,1.0
+57,1629628,RJ Barrett,1610612752,NYK,20.0,In The Paint (Non-RA),2.0,5.0,0.4,,3,1.0
+58,1629628,RJ Barrett,1610612752,NYK,20.0,Mid-Range,0.0,0.0,0.0,,3,1.0
+59,1629628,RJ Barrett,1610612752,NYK,20.0,Left Corner 3,1.0,1.0,1.0,,3,1.0
+60,1629628,RJ Barrett,1610612752,NYK,20.0,Right Corner 3,3.0,3.0,1.0,,3,1.0
+61,1629628,RJ Barrett,1610612752,NYK,20.0,Above the Break 3,1.0,5.0,0.2,,3,1.0
+62,1629628,RJ Barrett,1610612752,NYK,20.0,Backcourt,0.0,0.0,0.0,,3,1.0
+63,1629628,RJ Barrett,1610612752,NYK,20.0,Corner 3,4.0,4.0,1.0,,3,1.0
+64,203493,Reggie Bullock,1610612752,NYK,30.0,Restricted Area,1.0,1.0,1.0,,3,1.0
+65,203493,Reggie Bullock,1610612752,NYK,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,3,1.0
+66,203493,Reggie Bullock,1610612752,NYK,30.0,Mid-Range,0.0,0.0,0.0,,3,1.0
+67,203493,Reggie Bullock,1610612752,NYK,30.0,Left Corner 3,0.0,0.0,0.0,,3,1.0
+68,203493,Reggie Bullock,1610612752,NYK,30.0,Right Corner 3,0.0,1.0,0.0,,3,1.0
+69,203493,Reggie Bullock,1610612752,NYK,30.0,Above the Break 3,2.0,7.0,0.286,,3,1.0
+70,203493,Reggie Bullock,1610612752,NYK,30.0,Backcourt,0.0,0.0,0.0,,3,1.0
+71,203493,Reggie Bullock,1610612752,NYK,30.0,Corner 3,0.0,1.0,0.0,,3,1.0
+72,201959,Taj Gibson,1610612752,NYK,35.0,Restricted Area,2.0,3.0,0.667,,3,1.0
+73,201959,Taj Gibson,1610612752,NYK,35.0,In The Paint (Non-RA),1.0,2.0,0.5,,3,1.0
+74,201959,Taj Gibson,1610612752,NYK,35.0,Mid-Range,0.0,0.0,0.0,,3,1.0
+75,201959,Taj Gibson,1610612752,NYK,35.0,Left Corner 3,0.0,0.0,0.0,,3,1.0
+76,201959,Taj Gibson,1610612752,NYK,35.0,Right Corner 3,0.0,0.0,0.0,,3,1.0
+77,201959,Taj Gibson,1610612752,NYK,35.0,Above the Break 3,0.0,0.0,0.0,,3,1.0
+78,201959,Taj Gibson,1610612752,NYK,35.0,Backcourt,,,,,3,1.0
+79,201959,Taj Gibson,1610612752,NYK,35.0,Corner 3,0.0,0.0,0.0,,3,1.0
+0,201565,Derrick Rose,1610612752,NYK,32.0,Restricted Area,2.0,2.0,1.0,,4,0.0
+1,201565,Derrick Rose,1610612752,NYK,32.0,In The Paint (Non-RA),5.0,9.0,0.556,,4,0.0
+2,201565,Derrick Rose,1610612752,NYK,32.0,Mid-Range,2.0,7.0,0.286,,4,0.0
+3,201565,Derrick Rose,1610612752,NYK,32.0,Left Corner 3,0.0,0.0,0.0,,4,0.0
+4,201565,Derrick Rose,1610612752,NYK,32.0,Right Corner 3,0.0,0.0,0.0,,4,0.0
+5,201565,Derrick Rose,1610612752,NYK,32.0,Above the Break 3,1.0,4.0,0.25,,4,0.0
+6,201565,Derrick Rose,1610612752,NYK,32.0,Backcourt,0.0,0.0,0.0,,4,0.0
+7,201565,Derrick Rose,1610612752,NYK,32.0,Corner 3,0.0,0.0,0.0,,4,0.0
+8,203901,Elfrid Payton,1610612752,NYK,27.0,Restricted Area,1.0,2.0,0.5,,4,0.0
+9,203901,Elfrid Payton,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,1.0,0.0,,4,0.0
+10,203901,Elfrid Payton,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,4,0.0
+11,203901,Elfrid Payton,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,4,0.0
+12,203901,Elfrid Payton,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,4,0.0
+13,203901,Elfrid Payton,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,4,0.0
+14,203901,Elfrid Payton,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,4,0.0
+15,203901,Elfrid Payton,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,4,0.0
+16,1628373,Frank Ntilikina,1610612752,NYK,22.0,Restricted Area,0.0,0.0,0.0,,4,0.0
+17,1628373,Frank Ntilikina,1610612752,NYK,22.0,In The Paint (Non-RA),0.0,0.0,0.0,,4,0.0
+18,1628373,Frank Ntilikina,1610612752,NYK,22.0,Mid-Range,0.0,1.0,0.0,,4,0.0
+19,1628373,Frank Ntilikina,1610612752,NYK,22.0,Left Corner 3,2.0,2.0,1.0,,4,0.0
+20,1628373,Frank Ntilikina,1610612752,NYK,22.0,Right Corner 3,0.0,1.0,0.0,,4,0.0
+21,1628373,Frank Ntilikina,1610612752,NYK,22.0,Above the Break 3,1.0,1.0,1.0,,4,0.0
+22,1628373,Frank Ntilikina,1610612752,NYK,22.0,Backcourt,0.0,0.0,0.0,,4,0.0
+23,1628373,Frank Ntilikina,1610612752,NYK,22.0,Corner 3,2.0,3.0,0.667,,4,0.0
+24,203944,Julius Randle,1610612752,NYK,26.0,Restricted Area,2.0,5.0,0.4,,4,0.0
+25,203944,Julius Randle,1610612752,NYK,26.0,In The Paint (Non-RA),0.0,2.0,0.0,,4,0.0
+26,203944,Julius Randle,1610612752,NYK,26.0,Mid-Range,5.0,11.0,0.455,,4,0.0
+27,203944,Julius Randle,1610612752,NYK,26.0,Left Corner 3,0.0,0.0,0.0,,4,0.0
+28,203944,Julius Randle,1610612752,NYK,26.0,Right Corner 3,0.0,0.0,0.0,,4,0.0
+29,203944,Julius Randle,1610612752,NYK,26.0,Above the Break 3,4.0,8.0,0.5,,4,0.0
+30,203944,Julius Randle,1610612752,NYK,26.0,Backcourt,0.0,0.0,0.0,,4,0.0
+31,203944,Julius Randle,1610612752,NYK,26.0,Corner 3,0.0,0.0,0.0,,4,0.0
+32,203457,Nerlens Noel,1610612752,NYK,27.0,Restricted Area,1.0,3.0,0.333,,4,0.0
+33,203457,Nerlens Noel,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,4,0.0
+34,203457,Nerlens Noel,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,4,0.0
+35,203457,Nerlens Noel,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,4,0.0
+36,203457,Nerlens Noel,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,4,0.0
+37,203457,Nerlens Noel,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,4,0.0
+38,203457,Nerlens Noel,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,4,0.0
+39,203457,Nerlens Noel,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,4,0.0
+40,1630167,Obi Toppin,1610612752,NYK,23.0,Restricted Area,1.0,1.0,1.0,,4,0.0
+41,1630167,Obi Toppin,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,4,0.0
+42,1630167,Obi Toppin,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,4,0.0
+43,1630167,Obi Toppin,1610612752,NYK,23.0,Left Corner 3,0.0,0.0,0.0,,4,0.0
+44,1630167,Obi Toppin,1610612752,NYK,23.0,Right Corner 3,0.0,0.0,0.0,,4,0.0
+45,1630167,Obi Toppin,1610612752,NYK,23.0,Above the Break 3,1.0,1.0,1.0,,4,0.0
+46,1630167,Obi Toppin,1610612752,NYK,23.0,Backcourt,,,,,4,0.0
+47,1630167,Obi Toppin,1610612752,NYK,23.0,Corner 3,0.0,0.0,0.0,,4,0.0
+48,1629628,RJ Barrett,1610612752,NYK,20.0,Restricted Area,1.0,6.0,0.167,,4,0.0
+49,1629628,RJ Barrett,1610612752,NYK,20.0,In The Paint (Non-RA),1.0,1.0,1.0,,4,0.0
+50,1629628,RJ Barrett,1610612752,NYK,20.0,Mid-Range,0.0,0.0,0.0,,4,0.0
+51,1629628,RJ Barrett,1610612752,NYK,20.0,Left Corner 3,0.0,2.0,0.0,,4,0.0
+52,1629628,RJ Barrett,1610612752,NYK,20.0,Right Corner 3,0.0,1.0,0.0,,4,0.0
+53,1629628,RJ Barrett,1610612752,NYK,20.0,Above the Break 3,0.0,4.0,0.0,,4,0.0
+54,1629628,RJ Barrett,1610612752,NYK,20.0,Backcourt,0.0,0.0,0.0,,4,0.0
+55,1629628,RJ Barrett,1610612752,NYK,20.0,Corner 3,0.0,3.0,0.0,,4,0.0
+56,203493,Reggie Bullock,1610612752,NYK,30.0,Restricted Area,0.0,2.0,0.0,,4,0.0
+57,203493,Reggie Bullock,1610612752,NYK,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,4,0.0
+58,203493,Reggie Bullock,1610612752,NYK,30.0,Mid-Range,1.0,2.0,0.5,,4,0.0
+59,203493,Reggie Bullock,1610612752,NYK,30.0,Left Corner 3,0.0,0.0,0.0,,4,0.0
+60,203493,Reggie Bullock,1610612752,NYK,30.0,Right Corner 3,0.0,1.0,0.0,,4,0.0
+61,203493,Reggie Bullock,1610612752,NYK,30.0,Above the Break 3,1.0,4.0,0.25,,4,0.0
+62,203493,Reggie Bullock,1610612752,NYK,30.0,Backcourt,0.0,0.0,0.0,,4,0.0
+63,203493,Reggie Bullock,1610612752,NYK,30.0,Corner 3,0.0,1.0,0.0,,4,0.0
+64,201959,Taj Gibson,1610612752,NYK,35.0,Restricted Area,2.0,2.0,1.0,,4,0.0
+65,201959,Taj Gibson,1610612752,NYK,35.0,In The Paint (Non-RA),0.0,1.0,0.0,,4,0.0
+66,201959,Taj Gibson,1610612752,NYK,35.0,Mid-Range,0.0,0.0,0.0,,4,0.0
+67,201959,Taj Gibson,1610612752,NYK,35.0,Left Corner 3,0.0,0.0,0.0,,4,0.0
+68,201959,Taj Gibson,1610612752,NYK,35.0,Right Corner 3,0.0,0.0,0.0,,4,0.0
+69,201959,Taj Gibson,1610612752,NYK,35.0,Above the Break 3,0.0,0.0,0.0,,4,0.0
+70,201959,Taj Gibson,1610612752,NYK,35.0,Backcourt,0.0,0.0,0.0,,4,0.0
+71,201959,Taj Gibson,1610612752,NYK,35.0,Corner 3,0.0,0.0,0.0,,4,0.0
+0,201565,Derrick Rose,1610612752,NYK,32.0,Restricted Area,2.0,2.0,1.0,,5,1.0
+1,201565,Derrick Rose,1610612752,NYK,32.0,In The Paint (Non-RA),3.0,4.0,0.75,,5,1.0
+2,201565,Derrick Rose,1610612752,NYK,32.0,Mid-Range,4.0,8.0,0.5,,5,1.0
+3,201565,Derrick Rose,1610612752,NYK,32.0,Left Corner 3,0.0,0.0,0.0,,5,1.0
+4,201565,Derrick Rose,1610612752,NYK,32.0,Right Corner 3,0.0,0.0,0.0,,5,1.0
+5,201565,Derrick Rose,1610612752,NYK,32.0,Above the Break 3,2.0,3.0,0.667,,5,1.0
+6,201565,Derrick Rose,1610612752,NYK,32.0,Backcourt,0.0,0.0,0.0,,5,1.0
+7,201565,Derrick Rose,1610612752,NYK,32.0,Corner 3,0.0,0.0,0.0,,5,1.0
+8,203901,Elfrid Payton,1610612752,NYK,27.0,Restricted Area,1.0,2.0,0.5,,5,1.0
+9,203901,Elfrid Payton,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,2.0,0.0,,5,1.0
+10,203901,Elfrid Payton,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,5,1.0
+11,203901,Elfrid Payton,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,5,1.0
+12,203901,Elfrid Payton,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,5,1.0
+13,203901,Elfrid Payton,1610612752,NYK,27.0,Above the Break 3,0.0,1.0,0.0,,5,1.0
+14,203901,Elfrid Payton,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,5,1.0
+15,203901,Elfrid Payton,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,5,1.0
+16,1628373,Frank Ntilikina,1610612752,NYK,22.0,Restricted Area,0.0,0.0,0.0,,5,1.0
+17,1628373,Frank Ntilikina,1610612752,NYK,22.0,In The Paint (Non-RA),0.0,1.0,0.0,,5,1.0
+18,1628373,Frank Ntilikina,1610612752,NYK,22.0,Mid-Range,0.0,0.0,0.0,,5,1.0
+19,1628373,Frank Ntilikina,1610612752,NYK,22.0,Left Corner 3,1.0,2.0,0.5,,5,1.0
+20,1628373,Frank Ntilikina,1610612752,NYK,22.0,Right Corner 3,0.0,1.0,0.0,,5,1.0
+21,1628373,Frank Ntilikina,1610612752,NYK,22.0,Above the Break 3,0.0,0.0,0.0,,5,1.0
+22,1628373,Frank Ntilikina,1610612752,NYK,22.0,Backcourt,0.0,0.0,0.0,,5,1.0
+23,1628373,Frank Ntilikina,1610612752,NYK,22.0,Corner 3,1.0,3.0,0.333,,5,1.0
+24,203944,Julius Randle,1610612752,NYK,26.0,Restricted Area,2.0,3.0,0.667,,5,1.0
+25,203944,Julius Randle,1610612752,NYK,26.0,In The Paint (Non-RA),1.0,4.0,0.25,,5,1.0
+26,203944,Julius Randle,1610612752,NYK,26.0,Mid-Range,4.0,8.0,0.5,,5,1.0
+27,203944,Julius Randle,1610612752,NYK,26.0,Left Corner 3,0.0,2.0,0.0,,5,1.0
+28,203944,Julius Randle,1610612752,NYK,26.0,Right Corner 3,0.0,0.0,0.0,,5,1.0
+29,203944,Julius Randle,1610612752,NYK,26.0,Above the Break 3,0.0,2.0,0.0,,5,1.0
+30,203944,Julius Randle,1610612752,NYK,26.0,Backcourt,0.0,0.0,0.0,,5,1.0
+31,203944,Julius Randle,1610612752,NYK,26.0,Corner 3,0.0,2.0,0.0,,5,1.0
+32,203457,Nerlens Noel,1610612752,NYK,27.0,Restricted Area,2.0,3.0,0.667,,5,1.0
+33,203457,Nerlens Noel,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,5,1.0
+34,203457,Nerlens Noel,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,5,1.0
+35,203457,Nerlens Noel,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,5,1.0
+36,203457,Nerlens Noel,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,5,1.0
+37,203457,Nerlens Noel,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,5,1.0
+38,203457,Nerlens Noel,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,5,1.0
+39,203457,Nerlens Noel,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,5,1.0
+40,1630167,Obi Toppin,1610612752,NYK,23.0,Restricted Area,2.0,2.0,1.0,,5,1.0
+41,1630167,Obi Toppin,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,5,1.0
+42,1630167,Obi Toppin,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,5,1.0
+43,1630167,Obi Toppin,1610612752,NYK,23.0,Left Corner 3,1.0,1.0,1.0,,5,1.0
+44,1630167,Obi Toppin,1610612752,NYK,23.0,Right Corner 3,0.0,0.0,0.0,,5,1.0
+45,1630167,Obi Toppin,1610612752,NYK,23.0,Above the Break 3,0.0,1.0,0.0,,5,1.0
+46,1630167,Obi Toppin,1610612752,NYK,23.0,Backcourt,0.0,0.0,0.0,,5,1.0
+47,1630167,Obi Toppin,1610612752,NYK,23.0,Corner 3,1.0,1.0,1.0,,5,1.0
+48,1629628,RJ Barrett,1610612752,NYK,20.0,Restricted Area,2.0,5.0,0.4,,5,1.0
+49,1629628,RJ Barrett,1610612752,NYK,20.0,In The Paint (Non-RA),1.0,4.0,0.25,,5,1.0
+50,1629628,RJ Barrett,1610612752,NYK,20.0,Mid-Range,0.0,2.0,0.0,,5,1.0
+51,1629628,RJ Barrett,1610612752,NYK,20.0,Left Corner 3,0.0,0.0,0.0,,5,1.0
+52,1629628,RJ Barrett,1610612752,NYK,20.0,Right Corner 3,2.0,3.0,0.667,,5,1.0
+53,1629628,RJ Barrett,1610612752,NYK,20.0,Above the Break 3,2.0,4.0,0.5,,5,1.0
+54,1629628,RJ Barrett,1610612752,NYK,20.0,Backcourt,0.0,0.0,0.0,,5,1.0
+55,1629628,RJ Barrett,1610612752,NYK,20.0,Corner 3,2.0,3.0,0.667,,5,1.0
+56,203493,Reggie Bullock,1610612752,NYK,30.0,Restricted Area,1.0,1.0,1.0,,5,1.0
+57,203493,Reggie Bullock,1610612752,NYK,30.0,In The Paint (Non-RA),1.0,3.0,0.333,,5,1.0
+58,203493,Reggie Bullock,1610612752,NYK,30.0,Mid-Range,1.0,1.0,1.0,,5,1.0
+59,203493,Reggie Bullock,1610612752,NYK,30.0,Left Corner 3,1.0,3.0,0.333,,5,1.0
+60,203493,Reggie Bullock,1610612752,NYK,30.0,Right Corner 3,1.0,1.0,1.0,,5,1.0
+61,203493,Reggie Bullock,1610612752,NYK,30.0,Above the Break 3,3.0,8.0,0.375,,5,1.0
+62,203493,Reggie Bullock,1610612752,NYK,30.0,Backcourt,0.0,0.0,0.0,,5,1.0
+63,203493,Reggie Bullock,1610612752,NYK,30.0,Corner 3,2.0,4.0,0.5,,5,1.0
+64,201959,Taj Gibson,1610612752,NYK,35.0,Restricted Area,2.0,2.0,1.0,,5,1.0
+65,201959,Taj Gibson,1610612752,NYK,35.0,In The Paint (Non-RA),0.0,1.0,0.0,,5,1.0
+66,201959,Taj Gibson,1610612752,NYK,35.0,Mid-Range,0.0,0.0,0.0,,5,1.0
+67,201959,Taj Gibson,1610612752,NYK,35.0,Left Corner 3,0.0,0.0,0.0,,5,1.0
+68,201959,Taj Gibson,1610612752,NYK,35.0,Right Corner 3,0.0,0.0,0.0,,5,1.0
+69,201959,Taj Gibson,1610612752,NYK,35.0,Above the Break 3,0.0,0.0,0.0,,5,1.0
+70,201959,Taj Gibson,1610612752,NYK,35.0,Backcourt,0.0,0.0,0.0,,5,1.0
+71,201959,Taj Gibson,1610612752,NYK,35.0,Corner 3,0.0,0.0,0.0,,5,1.0
+0,201565,Derrick Rose,1610612752,NYK,32.0,Restricted Area,0.0,0.0,0.0,,6,0.0
+1,201565,Derrick Rose,1610612752,NYK,32.0,In The Paint (Non-RA),5.0,8.0,0.625,,6,0.0
+2,201565,Derrick Rose,1610612752,NYK,32.0,Mid-Range,1.0,3.0,0.333,,6,0.0
+3,201565,Derrick Rose,1610612752,NYK,32.0,Left Corner 3,0.0,0.0,0.0,,6,0.0
+4,201565,Derrick Rose,1610612752,NYK,32.0,Right Corner 3,0.0,0.0,0.0,,6,0.0
+5,201565,Derrick Rose,1610612752,NYK,32.0,Above the Break 3,1.0,3.0,0.333,,6,0.0
+6,201565,Derrick Rose,1610612752,NYK,32.0,Backcourt,0.0,0.0,0.0,,6,0.0
+7,201565,Derrick Rose,1610612752,NYK,32.0,Corner 3,0.0,0.0,0.0,,6,0.0
+8,203901,Elfrid Payton,1610612752,NYK,27.0,Restricted Area,0.0,1.0,0.0,,6,0.0
+9,203901,Elfrid Payton,1610612752,NYK,27.0,In The Paint (Non-RA),2.0,4.0,0.5,,6,0.0
+10,203901,Elfrid Payton,1610612752,NYK,27.0,Mid-Range,0.0,1.0,0.0,,6,0.0
+11,203901,Elfrid Payton,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,6,0.0
+12,203901,Elfrid Payton,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,6,0.0
+13,203901,Elfrid Payton,1610612752,NYK,27.0,Above the Break 3,0.0,1.0,0.0,,6,0.0
+14,203901,Elfrid Payton,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,6,0.0
+15,203901,Elfrid Payton,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,6,0.0
+16,1628373,Frank Ntilikina,1610612752,NYK,22.0,Restricted Area,0.0,0.0,0.0,,6,0.0
+17,1628373,Frank Ntilikina,1610612752,NYK,22.0,In The Paint (Non-RA),0.0,0.0,0.0,,6,0.0
+18,1628373,Frank Ntilikina,1610612752,NYK,22.0,Mid-Range,0.0,1.0,0.0,,6,0.0
+19,1628373,Frank Ntilikina,1610612752,NYK,22.0,Left Corner 3,0.0,0.0,0.0,,6,0.0
+20,1628373,Frank Ntilikina,1610612752,NYK,22.0,Right Corner 3,0.0,0.0,0.0,,6,0.0
+21,1628373,Frank Ntilikina,1610612752,NYK,22.0,Above the Break 3,0.0,1.0,0.0,,6,0.0
+22,1628373,Frank Ntilikina,1610612752,NYK,22.0,Backcourt,0.0,0.0,0.0,,6,0.0
+23,1628373,Frank Ntilikina,1610612752,NYK,22.0,Corner 3,0.0,0.0,0.0,,6,0.0
+24,1629607,Jared Harper,1610612752,NYK,23.0,Restricted Area,,,,,6,0.0
+25,1629607,Jared Harper,1610612752,NYK,23.0,In The Paint (Non-RA),,,,,6,0.0
+26,1629607,Jared Harper,1610612752,NYK,23.0,Mid-Range,,,,,6,0.0
+27,1629607,Jared Harper,1610612752,NYK,23.0,Left Corner 3,,,,,6,0.0
+28,1629607,Jared Harper,1610612752,NYK,23.0,Right Corner 3,,,,,6,0.0
+29,1629607,Jared Harper,1610612752,NYK,23.0,Above the Break 3,0.0,0.0,0.0,,6,0.0
+30,1629607,Jared Harper,1610612752,NYK,23.0,Backcourt,,,,,6,0.0
+31,1629607,Jared Harper,1610612752,NYK,23.0,Corner 3,,,,,6,0.0
+32,203944,Julius Randle,1610612752,NYK,26.0,Restricted Area,1.0,1.0,1.0,,6,0.0
+33,203944,Julius Randle,1610612752,NYK,26.0,In The Paint (Non-RA),2.0,2.0,1.0,,6,0.0
+34,203944,Julius Randle,1610612752,NYK,26.0,Mid-Range,4.0,8.0,0.5,,6,0.0
+35,203944,Julius Randle,1610612752,NYK,26.0,Left Corner 3,0.0,0.0,0.0,,6,0.0
+36,203944,Julius Randle,1610612752,NYK,26.0,Right Corner 3,0.0,0.0,0.0,,6,0.0
+37,203944,Julius Randle,1610612752,NYK,26.0,Above the Break 3,1.0,5.0,0.2,,6,0.0
+38,203944,Julius Randle,1610612752,NYK,26.0,Backcourt,0.0,0.0,0.0,,6,0.0
+39,203944,Julius Randle,1610612752,NYK,26.0,Corner 3,0.0,0.0,0.0,,6,0.0
+40,1628995,Kevin Knox II,1610612752,NYK,21.0,Restricted Area,,,,,6,0.0
+41,1628995,Kevin Knox II,1610612752,NYK,21.0,In The Paint (Non-RA),,,,,6,0.0
+42,1628995,Kevin Knox II,1610612752,NYK,21.0,Mid-Range,,,,,6,0.0
+43,1628995,Kevin Knox II,1610612752,NYK,21.0,Left Corner 3,,,,,6,0.0
+44,1628995,Kevin Knox II,1610612752,NYK,21.0,Right Corner 3,,,,,6,0.0
+45,1628995,Kevin Knox II,1610612752,NYK,21.0,Above the Break 3,0.0,0.0,0.0,,6,0.0
+46,1628995,Kevin Knox II,1610612752,NYK,21.0,Backcourt,,,,,6,0.0
+47,1628995,Kevin Knox II,1610612752,NYK,21.0,Corner 3,,,,,6,0.0
+48,203457,Nerlens Noel,1610612752,NYK,27.0,Restricted Area,1.0,1.0,1.0,,6,0.0
+49,203457,Nerlens Noel,1610612752,NYK,27.0,In The Paint (Non-RA),1.0,1.0,1.0,,6,0.0
+50,203457,Nerlens Noel,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,6,0.0
+51,203457,Nerlens Noel,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,6,0.0
+52,203457,Nerlens Noel,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,6,0.0
+53,203457,Nerlens Noel,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,6,0.0
+54,203457,Nerlens Noel,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,6,0.0
+55,203457,Nerlens Noel,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,6,0.0
+56,203658,Norvel Pelle,1610612752,NYK,28.0,Restricted Area,,,,,6,0.0
+57,203658,Norvel Pelle,1610612752,NYK,28.0,In The Paint (Non-RA),,,,,6,0.0
+58,203658,Norvel Pelle,1610612752,NYK,28.0,Mid-Range,,,,,6,0.0
+59,203658,Norvel Pelle,1610612752,NYK,28.0,Left Corner 3,,,,,6,0.0
+60,203658,Norvel Pelle,1610612752,NYK,28.0,Right Corner 3,,,,,6,0.0
+61,203658,Norvel Pelle,1610612752,NYK,28.0,Above the Break 3,0.0,0.0,0.0,,6,0.0
+62,203658,Norvel Pelle,1610612752,NYK,28.0,Backcourt,,,,,6,0.0
+63,203658,Norvel Pelle,1610612752,NYK,28.0,Corner 3,,,,,6,0.0
+64,1630167,Obi Toppin,1610612752,NYK,23.0,Restricted Area,1.0,1.0,1.0,,6,0.0
+65,1630167,Obi Toppin,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,6,0.0
+66,1630167,Obi Toppin,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,6,0.0
+67,1630167,Obi Toppin,1610612752,NYK,23.0,Left Corner 3,1.0,1.0,1.0,,6,0.0
+68,1630167,Obi Toppin,1610612752,NYK,23.0,Right Corner 3,1.0,1.0,1.0,,6,0.0
+69,1630167,Obi Toppin,1610612752,NYK,23.0,Above the Break 3,0.0,1.0,0.0,,6,0.0
+70,1630167,Obi Toppin,1610612752,NYK,23.0,Backcourt,,,,,6,0.0
+71,1630167,Obi Toppin,1610612752,NYK,23.0,Corner 3,2.0,2.0,1.0,,6,0.0
+72,1629628,RJ Barrett,1610612752,NYK,20.0,Restricted Area,2.0,4.0,0.5,,6,0.0
+73,1629628,RJ Barrett,1610612752,NYK,20.0,In The Paint (Non-RA),1.0,5.0,0.2,,6,0.0
+74,1629628,RJ Barrett,1610612752,NYK,20.0,Mid-Range,0.0,2.0,0.0,,6,0.0
+75,1629628,RJ Barrett,1610612752,NYK,20.0,Left Corner 3,1.0,4.0,0.25,,6,0.0
+76,1629628,RJ Barrett,1610612752,NYK,20.0,Right Corner 3,1.0,1.0,1.0,,6,0.0
+77,1629628,RJ Barrett,1610612752,NYK,20.0,Above the Break 3,3.0,6.0,0.5,,6,0.0
+78,1629628,RJ Barrett,1610612752,NYK,20.0,Backcourt,0.0,0.0,0.0,,6,0.0
+79,1629628,RJ Barrett,1610612752,NYK,20.0,Corner 3,2.0,5.0,0.4,,6,0.0
+80,203493,Reggie Bullock,1610612752,NYK,30.0,Restricted Area,0.0,1.0,0.0,,6,0.0
+81,203493,Reggie Bullock,1610612752,NYK,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,6,0.0
+82,203493,Reggie Bullock,1610612752,NYK,30.0,Mid-Range,1.0,2.0,0.5,,6,0.0
+83,203493,Reggie Bullock,1610612752,NYK,30.0,Left Corner 3,1.0,2.0,0.5,,6,0.0
+84,203493,Reggie Bullock,1610612752,NYK,30.0,Right Corner 3,1.0,2.0,0.5,,6,0.0
+85,203493,Reggie Bullock,1610612752,NYK,30.0,Above the Break 3,0.0,4.0,0.0,,6,0.0
+86,203493,Reggie Bullock,1610612752,NYK,30.0,Backcourt,0.0,0.0,0.0,,6,0.0
+87,203493,Reggie Bullock,1610612752,NYK,30.0,Corner 3,2.0,4.0,0.5,,6,0.0
+88,201959,Taj Gibson,1610612752,NYK,35.0,Restricted Area,5.0,5.0,1.0,,6,0.0
+89,201959,Taj Gibson,1610612752,NYK,35.0,In The Paint (Non-RA),0.0,1.0,0.0,,6,0.0
+90,201959,Taj Gibson,1610612752,NYK,35.0,Mid-Range,0.0,0.0,0.0,,6,0.0
+91,201959,Taj Gibson,1610612752,NYK,35.0,Left Corner 3,0.0,0.0,0.0,,6,0.0
+92,201959,Taj Gibson,1610612752,NYK,35.0,Right Corner 3,0.0,0.0,0.0,,6,0.0
+93,201959,Taj Gibson,1610612752,NYK,35.0,Above the Break 3,0.0,0.0,0.0,,6,0.0
+94,201959,Taj Gibson,1610612752,NYK,35.0,Backcourt,0.0,0.0,0.0,,6,0.0
+95,201959,Taj Gibson,1610612752,NYK,35.0,Corner 3,0.0,0.0,0.0,,6,0.0
+0,202692,Alec Burks,1610612752,NYK,29.0,Restricted Area,0.0,1.0,0.0,,7,0.0
+1,202692,Alec Burks,1610612752,NYK,29.0,In The Paint (Non-RA),0.0,1.0,0.0,,7,0.0
+2,202692,Alec Burks,1610612752,NYK,29.0,Mid-Range,0.0,2.0,0.0,,7,0.0
+3,202692,Alec Burks,1610612752,NYK,29.0,Left Corner 3,0.0,0.0,0.0,,7,0.0
+4,202692,Alec Burks,1610612752,NYK,29.0,Right Corner 3,0.0,0.0,0.0,,7,0.0
+5,202692,Alec Burks,1610612752,NYK,29.0,Above the Break 3,0.0,3.0,0.0,,7,0.0
+6,202692,Alec Burks,1610612752,NYK,29.0,Backcourt,0.0,0.0,0.0,,7,0.0
+7,202692,Alec Burks,1610612752,NYK,29.0,Corner 3,0.0,0.0,0.0,,7,0.0
+8,201565,Derrick Rose,1610612752,NYK,32.0,Restricted Area,1.0,1.0,1.0,,7,0.0
+9,201565,Derrick Rose,1610612752,NYK,32.0,In The Paint (Non-RA),3.0,4.0,0.75,,7,0.0
+10,201565,Derrick Rose,1610612752,NYK,32.0,Mid-Range,0.0,2.0,0.0,,7,0.0
+11,201565,Derrick Rose,1610612752,NYK,32.0,Left Corner 3,1.0,1.0,1.0,,7,0.0
+12,201565,Derrick Rose,1610612752,NYK,32.0,Right Corner 3,0.0,0.0,0.0,,7,0.0
+13,201565,Derrick Rose,1610612752,NYK,32.0,Above the Break 3,1.0,2.0,0.5,,7,0.0
+14,201565,Derrick Rose,1610612752,NYK,32.0,Backcourt,0.0,0.0,0.0,,7,0.0
+15,201565,Derrick Rose,1610612752,NYK,32.0,Corner 3,1.0,1.0,1.0,,7,0.0
+16,203901,Elfrid Payton,1610612752,NYK,27.0,Restricted Area,1.0,2.0,0.5,,7,0.0
+17,203901,Elfrid Payton,1610612752,NYK,27.0,In The Paint (Non-RA),2.0,5.0,0.4,,7,0.0
+18,203901,Elfrid Payton,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,7,0.0
+19,203901,Elfrid Payton,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,7,0.0
+20,203901,Elfrid Payton,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,7,0.0
+21,203901,Elfrid Payton,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,7,0.0
+22,203901,Elfrid Payton,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,7,0.0
+23,203901,Elfrid Payton,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,7,0.0
+24,1628373,Frank Ntilikina,1610612752,NYK,22.0,Restricted Area,0.0,0.0,0.0,,7,0.0
+25,1628373,Frank Ntilikina,1610612752,NYK,22.0,In The Paint (Non-RA),0.0,0.0,0.0,,7,0.0
+26,1628373,Frank Ntilikina,1610612752,NYK,22.0,Mid-Range,0.0,1.0,0.0,,7,0.0
+27,1628373,Frank Ntilikina,1610612752,NYK,22.0,Left Corner 3,0.0,1.0,0.0,,7,0.0
+28,1628373,Frank Ntilikina,1610612752,NYK,22.0,Right Corner 3,,,,,7,0.0
+29,1628373,Frank Ntilikina,1610612752,NYK,22.0,Above the Break 3,0.0,0.0,0.0,,7,0.0
+30,1628373,Frank Ntilikina,1610612752,NYK,22.0,Backcourt,0.0,0.0,0.0,,7,0.0
+31,1628373,Frank Ntilikina,1610612752,NYK,22.0,Corner 3,0.0,1.0,0.0,,7,0.0
+32,1630193,Immanuel Quickley,1610612752,NYK,21.0,Restricted Area,1.0,2.0,0.5,,7,0.0
+33,1630193,Immanuel Quickley,1610612752,NYK,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,7,0.0
+34,1630193,Immanuel Quickley,1610612752,NYK,21.0,Mid-Range,0.0,1.0,0.0,,7,0.0
+35,1630193,Immanuel Quickley,1610612752,NYK,21.0,Left Corner 3,1.0,1.0,1.0,,7,0.0
+36,1630193,Immanuel Quickley,1610612752,NYK,21.0,Right Corner 3,0.0,0.0,0.0,,7,0.0
+37,1630193,Immanuel Quickley,1610612752,NYK,21.0,Above the Break 3,2.0,4.0,0.5,,7,0.0
+38,1630193,Immanuel Quickley,1610612752,NYK,21.0,Backcourt,0.0,0.0,0.0,,7,0.0
+39,1630193,Immanuel Quickley,1610612752,NYK,21.0,Corner 3,1.0,1.0,1.0,,7,0.0
+40,1629607,Jared Harper,1610612752,NYK,23.0,Restricted Area,0.0,0.0,0.0,,7,0.0
+41,1629607,Jared Harper,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,7,0.0
+42,1629607,Jared Harper,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,7,0.0
+43,1629607,Jared Harper,1610612752,NYK,23.0,Left Corner 3,,,,,7,0.0
+44,1629607,Jared Harper,1610612752,NYK,23.0,Right Corner 3,,,,,7,0.0
+45,1629607,Jared Harper,1610612752,NYK,23.0,Above the Break 3,0.0,0.0,0.0,,7,0.0
+46,1629607,Jared Harper,1610612752,NYK,23.0,Backcourt,0.0,0.0,0.0,,7,0.0
+47,1629607,Jared Harper,1610612752,NYK,23.0,Corner 3,,,,,7,0.0
+48,203944,Julius Randle,1610612752,NYK,26.0,Restricted Area,3.0,4.0,0.75,,7,0.0
+49,203944,Julius Randle,1610612752,NYK,26.0,In The Paint (Non-RA),1.0,1.0,1.0,,7,0.0
+50,203944,Julius Randle,1610612752,NYK,26.0,Mid-Range,1.0,5.0,0.2,,7,0.0
+51,203944,Julius Randle,1610612752,NYK,26.0,Left Corner 3,0.0,0.0,0.0,,7,0.0
+52,203944,Julius Randle,1610612752,NYK,26.0,Right Corner 3,0.0,0.0,0.0,,7,0.0
+53,203944,Julius Randle,1610612752,NYK,26.0,Above the Break 3,0.0,5.0,0.0,,7,0.0
+54,203944,Julius Randle,1610612752,NYK,26.0,Backcourt,0.0,0.0,0.0,,7,0.0
+55,203944,Julius Randle,1610612752,NYK,26.0,Corner 3,0.0,0.0,0.0,,7,0.0
+56,1628995,Kevin Knox II,1610612752,NYK,21.0,Restricted Area,0.0,0.0,0.0,,7,0.0
+57,1628995,Kevin Knox II,1610612752,NYK,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,7,0.0
+58,1628995,Kevin Knox II,1610612752,NYK,21.0,Mid-Range,0.0,1.0,0.0,,7,0.0
+59,1628995,Kevin Knox II,1610612752,NYK,21.0,Left Corner 3,0.0,0.0,0.0,,7,0.0
+60,1628995,Kevin Knox II,1610612752,NYK,21.0,Right Corner 3,,,,,7,0.0
+61,1628995,Kevin Knox II,1610612752,NYK,21.0,Above the Break 3,1.0,1.0,1.0,,7,0.0
+62,1628995,Kevin Knox II,1610612752,NYK,21.0,Backcourt,0.0,0.0,0.0,,7,0.0
+63,1628995,Kevin Knox II,1610612752,NYK,21.0,Corner 3,0.0,0.0,0.0,,7,0.0
+64,203457,Nerlens Noel,1610612752,NYK,27.0,Restricted Area,0.0,0.0,0.0,,7,0.0
+65,203457,Nerlens Noel,1610612752,NYK,27.0,In The Paint (Non-RA),2.0,2.0,1.0,,7,0.0
+66,203457,Nerlens Noel,1610612752,NYK,27.0,Mid-Range,0.0,1.0,0.0,,7,0.0
+67,203457,Nerlens Noel,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,7,0.0
+68,203457,Nerlens Noel,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,7,0.0
+69,203457,Nerlens Noel,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,7,0.0
+70,203457,Nerlens Noel,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,7,0.0
+71,203457,Nerlens Noel,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,7,0.0
+72,203658,Norvel Pelle,1610612752,NYK,28.0,Restricted Area,0.0,0.0,0.0,,7,0.0
+73,203658,Norvel Pelle,1610612752,NYK,28.0,In The Paint (Non-RA),1.0,1.0,1.0,,7,0.0
+74,203658,Norvel Pelle,1610612752,NYK,28.0,Mid-Range,0.0,0.0,0.0,,7,0.0
+75,203658,Norvel Pelle,1610612752,NYK,28.0,Left Corner 3,0.0,0.0,0.0,,7,0.0
+76,203658,Norvel Pelle,1610612752,NYK,28.0,Right Corner 3,,,,,7,0.0
+77,203658,Norvel Pelle,1610612752,NYK,28.0,Above the Break 3,0.0,0.0,0.0,,7,0.0
+78,203658,Norvel Pelle,1610612752,NYK,28.0,Backcourt,0.0,0.0,0.0,,7,0.0
+79,203658,Norvel Pelle,1610612752,NYK,28.0,Corner 3,0.0,0.0,0.0,,7,0.0
+80,1630167,Obi Toppin,1610612752,NYK,23.0,Restricted Area,2.0,4.0,0.5,,7,0.0
+81,1630167,Obi Toppin,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,7,0.0
+82,1630167,Obi Toppin,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,7,0.0
+83,1630167,Obi Toppin,1610612752,NYK,23.0,Left Corner 3,0.0,0.0,0.0,,7,0.0
+84,1630167,Obi Toppin,1610612752,NYK,23.0,Right Corner 3,0.0,1.0,0.0,,7,0.0
+85,1630167,Obi Toppin,1610612752,NYK,23.0,Above the Break 3,0.0,1.0,0.0,,7,0.0
+86,1630167,Obi Toppin,1610612752,NYK,23.0,Backcourt,0.0,0.0,0.0,,7,0.0
+87,1630167,Obi Toppin,1610612752,NYK,23.0,Corner 3,0.0,1.0,0.0,,7,0.0
+88,1629628,RJ Barrett,1610612752,NYK,20.0,Restricted Area,0.0,1.0,0.0,,7,0.0
+89,1629628,RJ Barrett,1610612752,NYK,20.0,In The Paint (Non-RA),0.0,1.0,0.0,,7,0.0
+90,1629628,RJ Barrett,1610612752,NYK,20.0,Mid-Range,0.0,3.0,0.0,,7,0.0
+91,1629628,RJ Barrett,1610612752,NYK,20.0,Left Corner 3,0.0,0.0,0.0,,7,0.0
+92,1629628,RJ Barrett,1610612752,NYK,20.0,Right Corner 3,1.0,1.0,1.0,,7,0.0
+93,1629628,RJ Barrett,1610612752,NYK,20.0,Above the Break 3,3.0,7.0,0.429,,7,0.0
+94,1629628,RJ Barrett,1610612752,NYK,20.0,Backcourt,0.0,0.0,0.0,,7,0.0
+95,1629628,RJ Barrett,1610612752,NYK,20.0,Corner 3,1.0,1.0,1.0,,7,0.0
+96,203493,Reggie Bullock,1610612752,NYK,30.0,Restricted Area,0.0,0.0,0.0,,7,0.0
+97,203493,Reggie Bullock,1610612752,NYK,30.0,In The Paint (Non-RA),1.0,1.0,1.0,,7,0.0
+98,203493,Reggie Bullock,1610612752,NYK,30.0,Mid-Range,0.0,1.0,0.0,,7,0.0
+99,203493,Reggie Bullock,1610612752,NYK,30.0,Left Corner 3,0.0,0.0,0.0,,7,0.0
+100,203493,Reggie Bullock,1610612752,NYK,30.0,Right Corner 3,0.0,0.0,0.0,,7,0.0
+101,203493,Reggie Bullock,1610612752,NYK,30.0,Above the Break 3,3.0,7.0,0.429,,7,0.0
+102,203493,Reggie Bullock,1610612752,NYK,30.0,Backcourt,0.0,0.0,0.0,,7,0.0
+103,203493,Reggie Bullock,1610612752,NYK,30.0,Corner 3,0.0,0.0,0.0,,7,0.0
+104,201959,Taj Gibson,1610612752,NYK,35.0,Restricted Area,1.0,2.0,0.5,,7,0.0
+105,201959,Taj Gibson,1610612752,NYK,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,7,0.0
+106,201959,Taj Gibson,1610612752,NYK,35.0,Mid-Range,0.0,1.0,0.0,,7,0.0
+107,201959,Taj Gibson,1610612752,NYK,35.0,Left Corner 3,0.0,0.0,0.0,,7,0.0
+108,201959,Taj Gibson,1610612752,NYK,35.0,Right Corner 3,,,,,7,0.0
+109,201959,Taj Gibson,1610612752,NYK,35.0,Above the Break 3,0.0,0.0,0.0,,7,0.0
+110,201959,Taj Gibson,1610612752,NYK,35.0,Backcourt,0.0,0.0,0.0,,7,0.0
+111,201959,Taj Gibson,1610612752,NYK,35.0,Corner 3,0.0,0.0,0.0,,7,0.0
+112,1629033,Theo Pinson,1610612752,NYK,25.0,Restricted Area,,,,,7,0.0
+113,1629033,Theo Pinson,1610612752,NYK,25.0,In The Paint (Non-RA),0.0,0.0,0.0,,7,0.0
+114,1629033,Theo Pinson,1610612752,NYK,25.0,Mid-Range,0.0,0.0,0.0,,7,0.0
+115,1629033,Theo Pinson,1610612752,NYK,25.0,Left Corner 3,,,,,7,0.0
+116,1629033,Theo Pinson,1610612752,NYK,25.0,Right Corner 3,,,,,7,0.0
+117,1629033,Theo Pinson,1610612752,NYK,25.0,Above the Break 3,0.0,0.0,0.0,,7,0.0
+118,1629033,Theo Pinson,1610612752,NYK,25.0,Backcourt,,,,,7,0.0
+119,1629033,Theo Pinson,1610612752,NYK,25.0,Corner 3,,,,,7,0.0
+0,202692,Alec Burks,1610612752,NYK,29.0,Restricted Area,0.0,0.0,0.0,,8,1.0
+1,202692,Alec Burks,1610612752,NYK,29.0,In The Paint (Non-RA),2.0,5.0,0.4,,8,1.0
+2,202692,Alec Burks,1610612752,NYK,29.0,Mid-Range,1.0,1.0,1.0,,8,1.0
+3,202692,Alec Burks,1610612752,NYK,29.0,Left Corner 3,0.0,0.0,0.0,,8,1.0
+4,202692,Alec Burks,1610612752,NYK,29.0,Right Corner 3,,,,,8,1.0
+5,202692,Alec Burks,1610612752,NYK,29.0,Above the Break 3,1.0,1.0,1.0,,8,1.0
+6,202692,Alec Burks,1610612752,NYK,29.0,Backcourt,0.0,0.0,0.0,,8,1.0
+7,202692,Alec Burks,1610612752,NYK,29.0,Corner 3,0.0,0.0,0.0,,8,1.0
+8,201565,Derrick Rose,1610612752,NYK,32.0,Restricted Area,0.0,1.0,0.0,,8,1.0
+9,201565,Derrick Rose,1610612752,NYK,32.0,In The Paint (Non-RA),7.0,7.0,1.0,,8,1.0
+10,201565,Derrick Rose,1610612752,NYK,32.0,Mid-Range,1.0,2.0,0.5,,8,1.0
+11,201565,Derrick Rose,1610612752,NYK,32.0,Left Corner 3,1.0,1.0,1.0,,8,1.0
+12,201565,Derrick Rose,1610612752,NYK,32.0,Right Corner 3,0.0,0.0,0.0,,8,1.0
+13,201565,Derrick Rose,1610612752,NYK,32.0,Above the Break 3,2.0,4.0,0.5,,8,1.0
+14,201565,Derrick Rose,1610612752,NYK,32.0,Backcourt,0.0,0.0,0.0,,8,1.0
+15,201565,Derrick Rose,1610612752,NYK,32.0,Corner 3,1.0,1.0,1.0,,8,1.0
+16,203901,Elfrid Payton,1610612752,NYK,27.0,Restricted Area,1.0,2.0,0.5,,8,1.0
+17,203901,Elfrid Payton,1610612752,NYK,27.0,In The Paint (Non-RA),3.0,5.0,0.6,,8,1.0
+18,203901,Elfrid Payton,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,8,1.0
+19,203901,Elfrid Payton,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,8,1.0
+20,203901,Elfrid Payton,1610612752,NYK,27.0,Right Corner 3,,,,,8,1.0
+21,203901,Elfrid Payton,1610612752,NYK,27.0,Above the Break 3,0.0,1.0,0.0,,8,1.0
+22,203901,Elfrid Payton,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,8,1.0
+23,203901,Elfrid Payton,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,8,1.0
+24,1630193,Immanuel Quickley,1610612752,NYK,21.0,Restricted Area,0.0,0.0,0.0,,8,1.0
+25,1630193,Immanuel Quickley,1610612752,NYK,21.0,In The Paint (Non-RA),1.0,3.0,0.333,,8,1.0
+26,1630193,Immanuel Quickley,1610612752,NYK,21.0,Mid-Range,0.0,0.0,0.0,,8,1.0
+27,1630193,Immanuel Quickley,1610612752,NYK,21.0,Left Corner 3,1.0,1.0,1.0,,8,1.0
+28,1630193,Immanuel Quickley,1610612752,NYK,21.0,Right Corner 3,0.0,0.0,0.0,,8,1.0
+29,1630193,Immanuel Quickley,1610612752,NYK,21.0,Above the Break 3,1.0,2.0,0.5,,8,1.0
+30,1630193,Immanuel Quickley,1610612752,NYK,21.0,Backcourt,0.0,0.0,0.0,,8,1.0
+31,1630193,Immanuel Quickley,1610612752,NYK,21.0,Corner 3,1.0,1.0,1.0,,8,1.0
+32,203944,Julius Randle,1610612752,NYK,26.0,Restricted Area,0.0,0.0,0.0,,8,1.0
+33,203944,Julius Randle,1610612752,NYK,26.0,In The Paint (Non-RA),2.0,2.0,1.0,,8,1.0
+34,203944,Julius Randle,1610612752,NYK,26.0,Mid-Range,2.0,13.0,0.154,,8,1.0
+35,203944,Julius Randle,1610612752,NYK,26.0,Left Corner 3,1.0,1.0,1.0,,8,1.0
+36,203944,Julius Randle,1610612752,NYK,26.0,Right Corner 3,1.0,1.0,1.0,,8,1.0
+37,203944,Julius Randle,1610612752,NYK,26.0,Above the Break 3,3.0,6.0,0.5,,8,1.0
+38,203944,Julius Randle,1610612752,NYK,26.0,Backcourt,0.0,0.0,0.0,,8,1.0
+39,203944,Julius Randle,1610612752,NYK,26.0,Corner 3,2.0,2.0,1.0,,8,1.0
+40,203658,Norvel Pelle,1610612752,NYK,28.0,Restricted Area,0.0,0.0,0.0,,8,1.0
+41,203658,Norvel Pelle,1610612752,NYK,28.0,In The Paint (Non-RA),1.0,1.0,1.0,,8,1.0
+42,203658,Norvel Pelle,1610612752,NYK,28.0,Mid-Range,0.0,0.0,0.0,,8,1.0
+43,203658,Norvel Pelle,1610612752,NYK,28.0,Left Corner 3,0.0,0.0,0.0,,8,1.0
+44,203658,Norvel Pelle,1610612752,NYK,28.0,Right Corner 3,0.0,0.0,0.0,,8,1.0
+45,203658,Norvel Pelle,1610612752,NYK,28.0,Above the Break 3,0.0,0.0,0.0,,8,1.0
+46,203658,Norvel Pelle,1610612752,NYK,28.0,Backcourt,0.0,0.0,0.0,,8,1.0
+47,203658,Norvel Pelle,1610612752,NYK,28.0,Corner 3,0.0,0.0,0.0,,8,1.0
+48,1630167,Obi Toppin,1610612752,NYK,23.0,Restricted Area,1.0,1.0,1.0,,8,1.0
+49,1630167,Obi Toppin,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,1.0,0.0,,8,1.0
+50,1630167,Obi Toppin,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,8,1.0
+51,1630167,Obi Toppin,1610612752,NYK,23.0,Left Corner 3,0.0,0.0,0.0,,8,1.0
+52,1630167,Obi Toppin,1610612752,NYK,23.0,Right Corner 3,,,,,8,1.0
+53,1630167,Obi Toppin,1610612752,NYK,23.0,Above the Break 3,0.0,1.0,0.0,,8,1.0
+54,1630167,Obi Toppin,1610612752,NYK,23.0,Backcourt,,,,,8,1.0
+55,1630167,Obi Toppin,1610612752,NYK,23.0,Corner 3,0.0,0.0,0.0,,8,1.0
+56,1629628,RJ Barrett,1610612752,NYK,20.0,Restricted Area,2.0,3.0,0.667,,8,1.0
+57,1629628,RJ Barrett,1610612752,NYK,20.0,In The Paint (Non-RA),2.0,8.0,0.25,,8,1.0
+58,1629628,RJ Barrett,1610612752,NYK,20.0,Mid-Range,0.0,0.0,0.0,,8,1.0
+59,1629628,RJ Barrett,1610612752,NYK,20.0,Left Corner 3,0.0,0.0,0.0,,8,1.0
+60,1629628,RJ Barrett,1610612752,NYK,20.0,Right Corner 3,0.0,0.0,0.0,,8,1.0
+61,1629628,RJ Barrett,1610612752,NYK,20.0,Above the Break 3,1.0,1.0,1.0,,8,1.0
+62,1629628,RJ Barrett,1610612752,NYK,20.0,Backcourt,0.0,0.0,0.0,,8,1.0
+63,1629628,RJ Barrett,1610612752,NYK,20.0,Corner 3,0.0,0.0,0.0,,8,1.0
+64,203493,Reggie Bullock,1610612752,NYK,30.0,Restricted Area,1.0,2.0,0.5,,8,1.0
+65,203493,Reggie Bullock,1610612752,NYK,30.0,In The Paint (Non-RA),1.0,1.0,1.0,,8,1.0
+66,203493,Reggie Bullock,1610612752,NYK,30.0,Mid-Range,0.0,0.0,0.0,,8,1.0
+67,203493,Reggie Bullock,1610612752,NYK,30.0,Left Corner 3,2.0,2.0,1.0,,8,1.0
+68,203493,Reggie Bullock,1610612752,NYK,30.0,Right Corner 3,0.0,1.0,0.0,,8,1.0
+69,203493,Reggie Bullock,1610612752,NYK,30.0,Above the Break 3,0.0,3.0,0.0,,8,1.0
+70,203493,Reggie Bullock,1610612752,NYK,30.0,Backcourt,0.0,0.0,0.0,,8,1.0
+71,203493,Reggie Bullock,1610612752,NYK,30.0,Corner 3,2.0,3.0,0.667,,8,1.0
+72,201959,Taj Gibson,1610612752,NYK,35.0,Restricted Area,2.0,2.0,1.0,,8,1.0
+73,201959,Taj Gibson,1610612752,NYK,35.0,In The Paint (Non-RA),1.0,2.0,0.5,,8,1.0
+74,201959,Taj Gibson,1610612752,NYK,35.0,Mid-Range,0.0,0.0,0.0,,8,1.0
+75,201959,Taj Gibson,1610612752,NYK,35.0,Left Corner 3,0.0,1.0,0.0,,8,1.0
+76,201959,Taj Gibson,1610612752,NYK,35.0,Right Corner 3,,,,,8,1.0
+77,201959,Taj Gibson,1610612752,NYK,35.0,Above the Break 3,0.0,0.0,0.0,,8,1.0
+78,201959,Taj Gibson,1610612752,NYK,35.0,Backcourt,0.0,0.0,0.0,,8,1.0
+79,201959,Taj Gibson,1610612752,NYK,35.0,Corner 3,0.0,1.0,0.0,,8,1.0
+0,201565,Derrick Rose,1610612752,NYK,32.0,Restricted Area,1.0,1.0,1.0,,9,1.0
+1,201565,Derrick Rose,1610612752,NYK,32.0,In The Paint (Non-RA),3.0,4.0,0.75,,9,1.0
+2,201565,Derrick Rose,1610612752,NYK,32.0,Mid-Range,0.0,1.0,0.0,,9,1.0
+3,201565,Derrick Rose,1610612752,NYK,32.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+4,201565,Derrick Rose,1610612752,NYK,32.0,Right Corner 3,1.0,1.0,1.0,,9,1.0
+5,201565,Derrick Rose,1610612752,NYK,32.0,Above the Break 3,3.0,4.0,0.75,,9,1.0
+6,201565,Derrick Rose,1610612752,NYK,32.0,Backcourt,0.0,0.0,0.0,,9,1.0
+7,201565,Derrick Rose,1610612752,NYK,32.0,Corner 3,1.0,1.0,1.0,,9,1.0
+8,203901,Elfrid Payton,1610612752,NYK,27.0,Restricted Area,0.0,1.0,0.0,,9,1.0
+9,203901,Elfrid Payton,1610612752,NYK,27.0,In The Paint (Non-RA),2.0,4.0,0.5,,9,1.0
+10,203901,Elfrid Payton,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,9,1.0
+11,203901,Elfrid Payton,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+12,203901,Elfrid Payton,1610612752,NYK,27.0,Right Corner 3,1.0,1.0,1.0,,9,1.0
+13,203901,Elfrid Payton,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,9,1.0
+14,203901,Elfrid Payton,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,9,1.0
+15,203901,Elfrid Payton,1610612752,NYK,27.0,Corner 3,1.0,1.0,1.0,,9,1.0
+16,1628373,Frank Ntilikina,1610612752,NYK,22.0,Restricted Area,0.0,0.0,0.0,,9,1.0
+17,1628373,Frank Ntilikina,1610612752,NYK,22.0,In The Paint (Non-RA),0.0,0.0,0.0,,9,1.0
+18,1628373,Frank Ntilikina,1610612752,NYK,22.0,Mid-Range,0.0,0.0,0.0,,9,1.0
+19,1628373,Frank Ntilikina,1610612752,NYK,22.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+20,1628373,Frank Ntilikina,1610612752,NYK,22.0,Right Corner 3,,,,,9,1.0
+21,1628373,Frank Ntilikina,1610612752,NYK,22.0,Above the Break 3,0.0,0.0,0.0,,9,1.0
+22,1628373,Frank Ntilikina,1610612752,NYK,22.0,Backcourt,0.0,0.0,0.0,,9,1.0
+23,1628373,Frank Ntilikina,1610612752,NYK,22.0,Corner 3,0.0,0.0,0.0,,9,1.0
+24,1630193,Immanuel Quickley,1610612752,NYK,21.0,Restricted Area,2.0,3.0,0.667,,9,1.0
+25,1630193,Immanuel Quickley,1610612752,NYK,21.0,In The Paint (Non-RA),0.0,1.0,0.0,,9,1.0
+26,1630193,Immanuel Quickley,1610612752,NYK,21.0,Mid-Range,0.0,0.0,0.0,,9,1.0
+27,1630193,Immanuel Quickley,1610612752,NYK,21.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+28,1630193,Immanuel Quickley,1610612752,NYK,21.0,Right Corner 3,0.0,0.0,0.0,,9,1.0
+29,1630193,Immanuel Quickley,1610612752,NYK,21.0,Above the Break 3,3.0,5.0,0.6,,9,1.0
+30,1630193,Immanuel Quickley,1610612752,NYK,21.0,Backcourt,0.0,0.0,0.0,,9,1.0
+31,1630193,Immanuel Quickley,1610612752,NYK,21.0,Corner 3,0.0,0.0,0.0,,9,1.0
+32,1629607,Jared Harper,1610612752,NYK,23.0,Restricted Area,0.0,0.0,0.0,,9,1.0
+33,1629607,Jared Harper,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,1.0,0.0,,9,1.0
+34,1629607,Jared Harper,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,9,1.0
+35,1629607,Jared Harper,1610612752,NYK,23.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+36,1629607,Jared Harper,1610612752,NYK,23.0,Right Corner 3,,,,,9,1.0
+37,1629607,Jared Harper,1610612752,NYK,23.0,Above the Break 3,0.0,0.0,0.0,,9,1.0
+38,1629607,Jared Harper,1610612752,NYK,23.0,Backcourt,0.0,0.0,0.0,,9,1.0
+39,1629607,Jared Harper,1610612752,NYK,23.0,Corner 3,0.0,0.0,0.0,,9,1.0
+40,203944,Julius Randle,1610612752,NYK,26.0,Restricted Area,4.0,4.0,1.0,,9,1.0
+41,203944,Julius Randle,1610612752,NYK,26.0,In The Paint (Non-RA),4.0,4.0,1.0,,9,1.0
+42,203944,Julius Randle,1610612752,NYK,26.0,Mid-Range,1.0,5.0,0.2,,9,1.0
+43,203944,Julius Randle,1610612752,NYK,26.0,Left Corner 3,2.0,2.0,1.0,,9,1.0
+44,203944,Julius Randle,1610612752,NYK,26.0,Right Corner 3,1.0,1.0,1.0,,9,1.0
+45,203944,Julius Randle,1610612752,NYK,26.0,Above the Break 3,1.0,6.0,0.167,,9,1.0
+46,203944,Julius Randle,1610612752,NYK,26.0,Backcourt,0.0,0.0,0.0,,9,1.0
+47,203944,Julius Randle,1610612752,NYK,26.0,Corner 3,3.0,3.0,1.0,,9,1.0
+48,1628995,Kevin Knox II,1610612752,NYK,21.0,Restricted Area,0.0,2.0,0.0,,9,1.0
+49,1628995,Kevin Knox II,1610612752,NYK,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,9,1.0
+50,1628995,Kevin Knox II,1610612752,NYK,21.0,Mid-Range,0.0,0.0,0.0,,9,1.0
+51,1628995,Kevin Knox II,1610612752,NYK,21.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+52,1628995,Kevin Knox II,1610612752,NYK,21.0,Right Corner 3,0.0,0.0,0.0,,9,1.0
+53,1628995,Kevin Knox II,1610612752,NYK,21.0,Above the Break 3,0.0,1.0,0.0,,9,1.0
+54,1628995,Kevin Knox II,1610612752,NYK,21.0,Backcourt,0.0,0.0,0.0,,9,1.0
+55,1628995,Kevin Knox II,1610612752,NYK,21.0,Corner 3,0.0,0.0,0.0,,9,1.0
+56,203457,Nerlens Noel,1610612752,NYK,27.0,Restricted Area,1.0,2.0,0.5,,9,1.0
+57,203457,Nerlens Noel,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,1.0,0.0,,9,1.0
+58,203457,Nerlens Noel,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,9,1.0
+59,203457,Nerlens Noel,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+60,203457,Nerlens Noel,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,9,1.0
+61,203457,Nerlens Noel,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,9,1.0
+62,203457,Nerlens Noel,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,9,1.0
+63,203457,Nerlens Noel,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,9,1.0
+64,203658,Norvel Pelle,1610612752,NYK,28.0,Restricted Area,0.0,1.0,0.0,,9,1.0
+65,203658,Norvel Pelle,1610612752,NYK,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,9,1.0
+66,203658,Norvel Pelle,1610612752,NYK,28.0,Mid-Range,0.0,0.0,0.0,,9,1.0
+67,203658,Norvel Pelle,1610612752,NYK,28.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+68,203658,Norvel Pelle,1610612752,NYK,28.0,Right Corner 3,0.0,0.0,0.0,,9,1.0
+69,203658,Norvel Pelle,1610612752,NYK,28.0,Above the Break 3,0.0,0.0,0.0,,9,1.0
+70,203658,Norvel Pelle,1610612752,NYK,28.0,Backcourt,0.0,0.0,0.0,,9,1.0
+71,203658,Norvel Pelle,1610612752,NYK,28.0,Corner 3,0.0,0.0,0.0,,9,1.0
+72,1630167,Obi Toppin,1610612752,NYK,23.0,Restricted Area,1.0,3.0,0.333,,9,1.0
+73,1630167,Obi Toppin,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,9,1.0
+74,1630167,Obi Toppin,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,9,1.0
+75,1630167,Obi Toppin,1610612752,NYK,23.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+76,1630167,Obi Toppin,1610612752,NYK,23.0,Right Corner 3,0.0,0.0,0.0,,9,1.0
+77,1630167,Obi Toppin,1610612752,NYK,23.0,Above the Break 3,0.0,1.0,0.0,,9,1.0
+78,1630167,Obi Toppin,1610612752,NYK,23.0,Backcourt,0.0,0.0,0.0,,9,1.0
+79,1630167,Obi Toppin,1610612752,NYK,23.0,Corner 3,0.0,0.0,0.0,,9,1.0
+80,1629628,RJ Barrett,1610612752,NYK,20.0,Restricted Area,2.0,4.0,0.5,,9,1.0
+81,1629628,RJ Barrett,1610612752,NYK,20.0,In The Paint (Non-RA),2.0,3.0,0.667,,9,1.0
+82,1629628,RJ Barrett,1610612752,NYK,20.0,Mid-Range,0.0,1.0,0.0,,9,1.0
+83,1629628,RJ Barrett,1610612752,NYK,20.0,Left Corner 3,1.0,3.0,0.333,,9,1.0
+84,1629628,RJ Barrett,1610612752,NYK,20.0,Right Corner 3,0.0,0.0,0.0,,9,1.0
+85,1629628,RJ Barrett,1610612752,NYK,20.0,Above the Break 3,2.0,4.0,0.5,,9,1.0
+86,1629628,RJ Barrett,1610612752,NYK,20.0,Backcourt,0.0,0.0,0.0,,9,1.0
+87,1629628,RJ Barrett,1610612752,NYK,20.0,Corner 3,1.0,3.0,0.333,,9,1.0
+88,203493,Reggie Bullock,1610612752,NYK,30.0,Restricted Area,0.0,0.0,0.0,,9,1.0
+89,203493,Reggie Bullock,1610612752,NYK,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,9,1.0
+90,203493,Reggie Bullock,1610612752,NYK,30.0,Mid-Range,1.0,1.0,1.0,,9,1.0
+91,203493,Reggie Bullock,1610612752,NYK,30.0,Left Corner 3,1.0,3.0,0.333,,9,1.0
+92,203493,Reggie Bullock,1610612752,NYK,30.0,Right Corner 3,1.0,1.0,1.0,,9,1.0
+93,203493,Reggie Bullock,1610612752,NYK,30.0,Above the Break 3,1.0,2.0,0.5,,9,1.0
+94,203493,Reggie Bullock,1610612752,NYK,30.0,Backcourt,0.0,0.0,0.0,,9,1.0
+95,203493,Reggie Bullock,1610612752,NYK,30.0,Corner 3,2.0,4.0,0.5,,9,1.0
+96,201959,Taj Gibson,1610612752,NYK,35.0,Restricted Area,3.0,4.0,0.75,,9,1.0
+97,201959,Taj Gibson,1610612752,NYK,35.0,In The Paint (Non-RA),0.0,0.0,0.0,,9,1.0
+98,201959,Taj Gibson,1610612752,NYK,35.0,Mid-Range,0.0,0.0,0.0,,9,1.0
+99,201959,Taj Gibson,1610612752,NYK,35.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+100,201959,Taj Gibson,1610612752,NYK,35.0,Right Corner 3,0.0,0.0,0.0,,9,1.0
+101,201959,Taj Gibson,1610612752,NYK,35.0,Above the Break 3,0.0,0.0,0.0,,9,1.0
+102,201959,Taj Gibson,1610612752,NYK,35.0,Backcourt,0.0,0.0,0.0,,9,1.0
+103,201959,Taj Gibson,1610612752,NYK,35.0,Corner 3,0.0,0.0,0.0,,9,1.0
+104,1629033,Theo Pinson,1610612752,NYK,25.0,Restricted Area,,,,,9,1.0
+105,1629033,Theo Pinson,1610612752,NYK,25.0,In The Paint (Non-RA),0.0,0.0,0.0,,9,1.0
+106,1629033,Theo Pinson,1610612752,NYK,25.0,Mid-Range,,,,,9,1.0
+107,1629033,Theo Pinson,1610612752,NYK,25.0,Left Corner 3,0.0,0.0,0.0,,9,1.0
+108,1629033,Theo Pinson,1610612752,NYK,25.0,Right Corner 3,,,,,9,1.0
+109,1629033,Theo Pinson,1610612752,NYK,25.0,Above the Break 3,0.0,0.0,0.0,,9,1.0
+110,1629033,Theo Pinson,1610612752,NYK,25.0,Backcourt,,,,,9,1.0
+111,1629033,Theo Pinson,1610612752,NYK,25.0,Corner 3,0.0,0.0,0.0,,9,1.0
+0,201565,Derrick Rose,1610612752,NYK,32.0,Restricted Area,1.0,6.0,0.167,,10,1.0
+1,201565,Derrick Rose,1610612752,NYK,32.0,In The Paint (Non-RA),1.0,3.0,0.333,,10,1.0
+2,201565,Derrick Rose,1610612752,NYK,32.0,Mid-Range,0.0,1.0,0.0,,10,1.0
+3,201565,Derrick Rose,1610612752,NYK,32.0,Left Corner 3,0.0,1.0,0.0,,10,1.0
+4,201565,Derrick Rose,1610612752,NYK,32.0,Right Corner 3,0.0,0.0,0.0,,10,1.0
+5,201565,Derrick Rose,1610612752,NYK,32.0,Above the Break 3,0.0,0.0,0.0,,10,1.0
+6,201565,Derrick Rose,1610612752,NYK,32.0,Backcourt,0.0,0.0,0.0,,10,1.0
+7,201565,Derrick Rose,1610612752,NYK,32.0,Corner 3,0.0,1.0,0.0,,10,1.0
+8,203901,Elfrid Payton,1610612752,NYK,27.0,Restricted Area,3.0,7.0,0.429,,10,1.0
+9,203901,Elfrid Payton,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,2.0,0.0,,10,1.0
+10,203901,Elfrid Payton,1610612752,NYK,27.0,Mid-Range,0.0,0.0,0.0,,10,1.0
+11,203901,Elfrid Payton,1610612752,NYK,27.0,Left Corner 3,0.0,0.0,0.0,,10,1.0
+12,203901,Elfrid Payton,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,10,1.0
+13,203901,Elfrid Payton,1610612752,NYK,27.0,Above the Break 3,1.0,1.0,1.0,,10,1.0
+14,203901,Elfrid Payton,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,10,1.0
+15,203901,Elfrid Payton,1610612752,NYK,27.0,Corner 3,0.0,0.0,0.0,,10,1.0
+16,1628373,Frank Ntilikina,1610612752,NYK,22.0,Restricted Area,,,,,10,1.0
+17,1628373,Frank Ntilikina,1610612752,NYK,22.0,In The Paint (Non-RA),0.0,0.0,0.0,,10,1.0
+18,1628373,Frank Ntilikina,1610612752,NYK,22.0,Mid-Range,,,,,10,1.0
+19,1628373,Frank Ntilikina,1610612752,NYK,22.0,Left Corner 3,,,,,10,1.0
+20,1628373,Frank Ntilikina,1610612752,NYK,22.0,Right Corner 3,,,,,10,1.0
+21,1628373,Frank Ntilikina,1610612752,NYK,22.0,Above the Break 3,0.0,0.0,0.0,,10,1.0
+22,1628373,Frank Ntilikina,1610612752,NYK,22.0,Backcourt,,,,,10,1.0
+23,1628373,Frank Ntilikina,1610612752,NYK,22.0,Corner 3,,,,,10,1.0
+24,1630193,Immanuel Quickley,1610612752,NYK,21.0,Restricted Area,0.0,1.0,0.0,,10,1.0
+25,1630193,Immanuel Quickley,1610612752,NYK,21.0,In The Paint (Non-RA),2.0,3.0,0.667,,10,1.0
+26,1630193,Immanuel Quickley,1610612752,NYK,21.0,Mid-Range,1.0,1.0,1.0,,10,1.0
+27,1630193,Immanuel Quickley,1610612752,NYK,21.0,Left Corner 3,0.0,0.0,0.0,,10,1.0
+28,1630193,Immanuel Quickley,1610612752,NYK,21.0,Right Corner 3,0.0,0.0,0.0,,10,1.0
+29,1630193,Immanuel Quickley,1610612752,NYK,21.0,Above the Break 3,1.0,5.0,0.2,,10,1.0
+30,1630193,Immanuel Quickley,1610612752,NYK,21.0,Backcourt,0.0,0.0,0.0,,10,1.0
+31,1630193,Immanuel Quickley,1610612752,NYK,21.0,Corner 3,0.0,0.0,0.0,,10,1.0
+32,1629607,Jared Harper,1610612752,NYK,23.0,Restricted Area,,,,,10,1.0
+33,1629607,Jared Harper,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,10,1.0
+34,1629607,Jared Harper,1610612752,NYK,23.0,Mid-Range,,,,,10,1.0
+35,1629607,Jared Harper,1610612752,NYK,23.0,Left Corner 3,,,,,10,1.0
+36,1629607,Jared Harper,1610612752,NYK,23.0,Right Corner 3,,,,,10,1.0
+37,1629607,Jared Harper,1610612752,NYK,23.0,Above the Break 3,0.0,1.0,0.0,,10,1.0
+38,1629607,Jared Harper,1610612752,NYK,23.0,Backcourt,,,,,10,1.0
+39,1629607,Jared Harper,1610612752,NYK,23.0,Corner 3,,,,,10,1.0
+40,203944,Julius Randle,1610612752,NYK,26.0,Restricted Area,2.0,4.0,0.5,,10,1.0
+41,203944,Julius Randle,1610612752,NYK,26.0,In The Paint (Non-RA),1.0,3.0,0.333,,10,1.0
+42,203944,Julius Randle,1610612752,NYK,26.0,Mid-Range,5.0,9.0,0.556,,10,1.0
+43,203944,Julius Randle,1610612752,NYK,26.0,Left Corner 3,0.0,0.0,0.0,,10,1.0
+44,203944,Julius Randle,1610612752,NYK,26.0,Right Corner 3,1.0,1.0,1.0,,10,1.0
+45,203944,Julius Randle,1610612752,NYK,26.0,Above the Break 3,3.0,6.0,0.5,,10,1.0
+46,203944,Julius Randle,1610612752,NYK,26.0,Backcourt,0.0,0.0,0.0,,10,1.0
+47,203944,Julius Randle,1610612752,NYK,26.0,Corner 3,1.0,1.0,1.0,,10,1.0
+48,1628995,Kevin Knox II,1610612752,NYK,21.0,Restricted Area,,,,,10,1.0
+49,1628995,Kevin Knox II,1610612752,NYK,21.0,In The Paint (Non-RA),0.0,0.0,0.0,,10,1.0
+50,1628995,Kevin Knox II,1610612752,NYK,21.0,Mid-Range,,,,,10,1.0
+51,1628995,Kevin Knox II,1610612752,NYK,21.0,Left Corner 3,,,,,10,1.0
+52,1628995,Kevin Knox II,1610612752,NYK,21.0,Right Corner 3,,,,,10,1.0
+53,1628995,Kevin Knox II,1610612752,NYK,21.0,Above the Break 3,0.0,0.0,0.0,,10,1.0
+54,1628995,Kevin Knox II,1610612752,NYK,21.0,Backcourt,,,,,10,1.0
+55,1628995,Kevin Knox II,1610612752,NYK,21.0,Corner 3,,,,,10,1.0
+56,203457,Nerlens Noel,1610612752,NYK,27.0,Restricted Area,3.0,4.0,0.75,,10,1.0
+57,203457,Nerlens Noel,1610612752,NYK,27.0,In The Paint (Non-RA),0.0,0.0,0.0,,10,1.0
+58,203457,Nerlens Noel,1610612752,NYK,27.0,Mid-Range,0.0,1.0,0.0,,10,1.0
+59,203457,Nerlens Noel,1610612752,NYK,27.0,Left Corner 3,0.0,1.0,0.0,,10,1.0
+60,203457,Nerlens Noel,1610612752,NYK,27.0,Right Corner 3,0.0,0.0,0.0,,10,1.0
+61,203457,Nerlens Noel,1610612752,NYK,27.0,Above the Break 3,0.0,0.0,0.0,,10,1.0
+62,203457,Nerlens Noel,1610612752,NYK,27.0,Backcourt,0.0,0.0,0.0,,10,1.0
+63,203457,Nerlens Noel,1610612752,NYK,27.0,Corner 3,0.0,1.0,0.0,,10,1.0
+64,203658,Norvel Pelle,1610612752,NYK,28.0,Restricted Area,,,,,10,1.0
+65,203658,Norvel Pelle,1610612752,NYK,28.0,In The Paint (Non-RA),0.0,0.0,0.0,,10,1.0
+66,203658,Norvel Pelle,1610612752,NYK,28.0,Mid-Range,,,,,10,1.0
+67,203658,Norvel Pelle,1610612752,NYK,28.0,Left Corner 3,,,,,10,1.0
+68,203658,Norvel Pelle,1610612752,NYK,28.0,Right Corner 3,,,,,10,1.0
+69,203658,Norvel Pelle,1610612752,NYK,28.0,Above the Break 3,0.0,0.0,0.0,,10,1.0
+70,203658,Norvel Pelle,1610612752,NYK,28.0,Backcourt,,,,,10,1.0
+71,203658,Norvel Pelle,1610612752,NYK,28.0,Corner 3,,,,,10,1.0
+72,1630167,Obi Toppin,1610612752,NYK,23.0,Restricted Area,2.0,3.0,0.667,,10,1.0
+73,1630167,Obi Toppin,1610612752,NYK,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,10,1.0
+74,1630167,Obi Toppin,1610612752,NYK,23.0,Mid-Range,0.0,0.0,0.0,,10,1.0
+75,1630167,Obi Toppin,1610612752,NYK,23.0,Left Corner 3,0.0,1.0,0.0,,10,1.0
+76,1630167,Obi Toppin,1610612752,NYK,23.0,Right Corner 3,,,,,10,1.0
+77,1630167,Obi Toppin,1610612752,NYK,23.0,Above the Break 3,0.0,0.0,0.0,,10,1.0
+78,1630167,Obi Toppin,1610612752,NYK,23.0,Backcourt,0.0,0.0,0.0,,10,1.0
+79,1630167,Obi Toppin,1610612752,NYK,23.0,Corner 3,0.0,1.0,0.0,,10,1.0
+80,1629628,RJ Barrett,1610612752,NYK,20.0,Restricted Area,4.0,5.0,0.8,,10,1.0
+81,1629628,RJ Barrett,1610612752,NYK,20.0,In The Paint (Non-RA),1.0,2.0,0.5,,10,1.0
+82,1629628,RJ Barrett,1610612752,NYK,20.0,Mid-Range,2.0,4.0,0.5,,10,1.0
+83,1629628,RJ Barrett,1610612752,NYK,20.0,Left Corner 3,1.0,1.0,1.0,,10,1.0
+84,1629628,RJ Barrett,1610612752,NYK,20.0,Right Corner 3,1.0,1.0,1.0,,10,1.0
+85,1629628,RJ Barrett,1610612752,NYK,20.0,Above the Break 3,0.0,2.0,0.0,,10,1.0
+86,1629628,RJ Barrett,1610612752,NYK,20.0,Backcourt,0.0,0.0,0.0,,10,1.0
+87,1629628,RJ Barrett,1610612752,NYK,20.0,Corner 3,2.0,2.0,1.0,,10,1.0
+88,203493,Reggie Bullock,1610612752,NYK,30.0,Restricted Area,0.0,1.0,0.0,,10,1.0
+89,203493,Reggie Bullock,1610612752,NYK,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,10,1.0
+90,203493,Reggie Bullock,1610612752,NYK,30.0,Mid-Range,1.0,2.0,0.5,,10,1.0
+91,203493,Reggie Bullock,1610612752,NYK,30.0,Left Corner 3,0.0,1.0,0.0,,10,1.0
+92,203493,Reggie Bullock,1610612752,NYK,30.0,Right Corner 3,0.0,0.0,0.0,,10,1.0
+93,203493,Reggie Bullock,1610612752,NYK,30.0,Above the Break 3,3.0,4.0,0.75,,10,1.0
+94,203493,Reggie Bullock,1610612752,NYK,30.0,Backcourt,0.0,0.0,0.0,,10,1.0
+95,203493,Reggie Bullock,1610612752,NYK,30.0,Corner 3,0.0,1.0,0.0,,10,1.0
+96,201959,Taj Gibson,1610612752,NYK,35.0,Restricted Area,2.0,2.0,1.0,,10,1.0
+97,201959,Taj Gibson,1610612752,NYK,35.0,In The Paint (Non-RA),0.0,1.0,0.0,,10,1.0
+98,201959,Taj Gibson,1610612752,NYK,35.0,Mid-Range,0.0,0.0,0.0,,10,1.0
+99,201959,Taj Gibson,1610612752,NYK,35.0,Left Corner 3,0.0,0.0,0.0,,10,1.0
+100,201959,Taj Gibson,1610612752,NYK,35.0,Right Corner 3,0.0,0.0,0.0,,10,1.0
+101,201959,Taj Gibson,1610612752,NYK,35.0,Above the Break 3,0.0,0.0,0.0,,10,1.0
+102,201959,Taj Gibson,1610612752,NYK,35.0,Backcourt,0.0,0.0,0.0,,10,1.0
+103,201959,Taj Gibson,1610612752,NYK,35.0,Corner 3,0.0,0.0,0.0,,10,1.0
+104,1629033,Theo Pinson,1610612752,NYK,25.0,Restricted Area,,,,,10,1.0
+105,1629033,Theo Pinson,1610612752,NYK,25.0,In The Paint (Non-RA),0.0,0.0,0.0,,10,1.0
+106,1629033,Theo Pinson,1610612752,NYK,25.0,Mid-Range,,,,,10,1.0
+107,1629033,Theo Pinson,1610612752,NYK,25.0,Left Corner 3,,,,,10,1.0
+108,1629033,Theo Pinson,1610612752,NYK,25.0,Right Corner 3,,,,,10,1.0
+109,1629033,Theo Pinson,1610612752,NYK,25.0,Above the Break 3,0.0,0.0,0.0,,10,1.0
+110,1629033,Theo Pinson,1610612752,NYK,25.0,Backcourt,,,,,10,1.0
+111,1629033,Theo Pinson,1610612752,NYK,25.0,Corner 3,,,,,10,1.0
