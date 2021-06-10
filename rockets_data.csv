@@ -1,681 +1,809 @@
-,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_ABBREVIATION,AGE,ZONE,FGM,FGA,FG_PCT,SEASON,game_id,win
-0,1630237,Anthony Lamb,1610612745,HOU,23.0,Restricted Area,2,2,1.0,,41,0.0
-1,1630237,Anthony Lamb,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,41,0.0
-2,1630237,Anthony Lamb,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,41,0.0
-3,1630237,Anthony Lamb,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,41,0.0
-4,1630237,Anthony Lamb,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,41,0.0
-5,1630237,Anthony Lamb,1610612745,HOU,23.0,Above the Break 3,0,3,0.0,,41,0.0
-6,1630237,Anthony Lamb,1610612745,HOU,23.0,Backcourt,0,0,0.0,,41,0.0
-7,1630237,Anthony Lamb,1610612745,HOU,23.0,Corner 3,0,1,0.0,,41,0.0
-8,1629717,Armoni Brooks,1610612745,HOU,23.0,Restricted Area,0,1,0.0,,41,0.0
-9,1629717,Armoni Brooks,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,41,0.0
-10,1629717,Armoni Brooks,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,41,0.0
-11,1629717,Armoni Brooks,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,41,0.0
-12,1629717,Armoni Brooks,1610612745,HOU,23.0,Right Corner 3,1,1,1.0,,41,0.0
-13,1629717,Armoni Brooks,1610612745,HOU,23.0,Above the Break 3,5,17,0.294,,41,0.0
-14,1629717,Armoni Brooks,1610612745,HOU,23.0,Backcourt,0,0,0.0,,41,0.0
-15,1629717,Armoni Brooks,1610612745,HOU,23.0,Corner 3,1,1,1.0,,41,0.0
-16,1628419,Cameron Oliver,1610612745,HOU,24.0,Restricted Area,3,3,1.0,,41,0.0
-17,1628419,Cameron Oliver,1610612745,HOU,24.0,In The Paint (Non-RA),1,1,1.0,,41,0.0
-18,1628419,Cameron Oliver,1610612745,HOU,24.0,Mid-Range,1,2,0.5,,41,0.0
-19,1628419,Cameron Oliver,1610612745,HOU,24.0,Left Corner 3,0,0,0.0,,41,0.0
-20,1628419,Cameron Oliver,1610612745,HOU,24.0,Right Corner 3,0,0,0.0,,41,0.0
-21,1628419,Cameron Oliver,1610612745,HOU,24.0,Above the Break 3,0,3,0.0,,41,0.0
-22,1628419,Cameron Oliver,1610612745,HOU,24.0,Backcourt,0,0,0.0,,41,0.0
-23,1628419,Cameron Oliver,1610612745,HOU,24.0,Corner 3,0,0,0.0,,41,0.0
-24,1629244,Cameron Reynolds,1610612745,HOU,26.0,Restricted Area,0,1,0.0,,41,0.0
-25,1629244,Cameron Reynolds,1610612745,HOU,26.0,In The Paint (Non-RA),0,0,0.0,,41,0.0
-26,1629244,Cameron Reynolds,1610612745,HOU,26.0,Mid-Range,0,1,0.0,,41,0.0
-27,1629244,Cameron Reynolds,1610612745,HOU,26.0,Left Corner 3,0,3,0.0,,41,0.0
-28,1629244,Cameron Reynolds,1610612745,HOU,26.0,Right Corner 3,1,3,0.333,,41,0.0
-29,1629244,Cameron Reynolds,1610612745,HOU,26.0,Above the Break 3,2,6,0.333,,41,0.0
-30,1629244,Cameron Reynolds,1610612745,HOU,26.0,Backcourt,0,0,0.0,,41,0.0
-31,1629244,Cameron Reynolds,1610612745,HOU,26.0,Corner 3,1,6,0.167,,41,0.0
-32,201571,D.J. Augustin,1610612745,HOU,33.0,Restricted Area,1,1,1.0,,41,0.0
-33,201571,D.J. Augustin,1610612745,HOU,33.0,In The Paint (Non-RA),0,0,0.0,,41,0.0
-34,201571,D.J. Augustin,1610612745,HOU,33.0,Mid-Range,0,0,0.0,,41,0.0
-35,201571,D.J. Augustin,1610612745,HOU,33.0,Left Corner 3,0,1,0.0,,41,0.0
-36,201571,D.J. Augustin,1610612745,HOU,33.0,Right Corner 3,1,1,1.0,,41,0.0
-37,201571,D.J. Augustin,1610612745,HOU,33.0,Above the Break 3,3,8,0.375,,41,0.0
-38,201571,D.J. Augustin,1610612745,HOU,33.0,Backcourt,0,0,0.0,,41,0.0
-39,201571,D.J. Augustin,1610612745,HOU,33.0,Corner 3,1,2,0.5,,41,0.0
-40,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Restricted Area,1,3,0.333,,41,0.0
-41,1630256,Jae'Sean Tate,1610612745,HOU,25.0,In The Paint (Non-RA),1,1,1.0,,41,0.0
-42,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Mid-Range,0,1,0.0,,41,0.0
-43,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Left Corner 3,0,1,0.0,,41,0.0
-44,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Right Corner 3,1,1,1.0,,41,0.0
-45,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Above the Break 3,0,0,0.0,,41,0.0
-46,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Backcourt,0,0,0.0,,41,0.0
-47,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Corner 3,1,2,0.5,,41,0.0
-48,203482,Kelly Olynyk,1610612745,HOU,30.0,Restricted Area,1,6,0.167,,41,0.0
-49,203482,Kelly Olynyk,1610612745,HOU,30.0,In The Paint (Non-RA),0,0,0.0,,41,0.0
-50,203482,Kelly Olynyk,1610612745,HOU,30.0,Mid-Range,0,0,0.0,,41,0.0
-51,203482,Kelly Olynyk,1610612745,HOU,30.0,Left Corner 3,0,1,0.0,,41,0.0
-52,203482,Kelly Olynyk,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,41,0.0
-53,203482,Kelly Olynyk,1610612745,HOU,30.0,Above the Break 3,2,4,0.5,,41,0.0
-54,203482,Kelly Olynyk,1610612745,HOU,30.0,Backcourt,0,0,0.0,,41,0.0
-55,203482,Kelly Olynyk,1610612745,HOU,30.0,Corner 3,0,1,0.0,,41,0.0
-56,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Restricted Area,2,4,0.5,,41,0.0
-57,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,In The Paint (Non-RA),0,2,0.0,,41,0.0
-58,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,41,0.0
-59,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Left Corner 3,0,0,0.0,,41,0.0
-60,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Right Corner 3,0,0,0.0,,41,0.0
-61,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Above the Break 3,2,9,0.222,,41,0.0
-62,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Backcourt,0,0,0.0,,41,0.0
-63,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Corner 3,0,0,0.0,,41,0.0
-0,1630237,Anthony Lamb,1610612745,HOU,23.0,Restricted Area,2.0,4.0,0.5,,42,1.0
-1,1630237,Anthony Lamb,1610612745,HOU,23.0,In The Paint (Non-RA),1.0,1.0,1.0,,42,1.0
-2,1630237,Anthony Lamb,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,42,1.0
-3,1630237,Anthony Lamb,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,42,1.0
-4,1630237,Anthony Lamb,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,42,1.0
-5,1630237,Anthony Lamb,1610612745,HOU,23.0,Above the Break 3,3.0,5.0,0.6,,42,1.0
-6,1630237,Anthony Lamb,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,42,1.0
-7,1630237,Anthony Lamb,1610612745,HOU,23.0,Corner 3,0.0,0.0,0.0,,42,1.0
-8,1629717,Armoni Brooks,1610612745,HOU,23.0,Restricted Area,3.0,4.0,0.75,,42,1.0
-9,1629717,Armoni Brooks,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,42,1.0
-10,1629717,Armoni Brooks,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,42,1.0
-11,1629717,Armoni Brooks,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,42,1.0
-12,1629717,Armoni Brooks,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,42,1.0
-13,1629717,Armoni Brooks,1610612745,HOU,23.0,Above the Break 3,3.0,7.0,0.429,,42,1.0
-14,1629717,Armoni Brooks,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,42,1.0
-15,1629717,Armoni Brooks,1610612745,HOU,23.0,Corner 3,0.0,0.0,0.0,,42,1.0
-16,1628419,Cameron Oliver,1610612745,HOU,24.0,Restricted Area,0.0,1.0,0.0,,42,1.0
-17,1628419,Cameron Oliver,1610612745,HOU,24.0,In The Paint (Non-RA),0.0,1.0,0.0,,42,1.0
-18,1628419,Cameron Oliver,1610612745,HOU,24.0,Mid-Range,0.0,0.0,0.0,,42,1.0
-19,1628419,Cameron Oliver,1610612745,HOU,24.0,Left Corner 3,0.0,0.0,0.0,,42,1.0
-20,1628419,Cameron Oliver,1610612745,HOU,24.0,Right Corner 3,0.0,0.0,0.0,,42,1.0
-21,1628419,Cameron Oliver,1610612745,HOU,24.0,Above the Break 3,1.0,2.0,0.5,,42,1.0
-22,1628419,Cameron Oliver,1610612745,HOU,24.0,Backcourt,0.0,0.0,0.0,,42,1.0
-23,1628419,Cameron Oliver,1610612745,HOU,24.0,Corner 3,0.0,0.0,0.0,,42,1.0
-24,1629244,Cameron Reynolds,1610612745,HOU,26.0,Restricted Area,1.0,1.0,1.0,,42,1.0
-25,1629244,Cameron Reynolds,1610612745,HOU,26.0,In The Paint (Non-RA),0.0,0.0,0.0,,42,1.0
-26,1629244,Cameron Reynolds,1610612745,HOU,26.0,Mid-Range,1.0,1.0,1.0,,42,1.0
-27,1629244,Cameron Reynolds,1610612745,HOU,26.0,Left Corner 3,,,,,42,1.0
-28,1629244,Cameron Reynolds,1610612745,HOU,26.0,Right Corner 3,,,,,42,1.0
-29,1629244,Cameron Reynolds,1610612745,HOU,26.0,Above the Break 3,0.0,0.0,0.0,,42,1.0
-30,1629244,Cameron Reynolds,1610612745,HOU,26.0,Backcourt,0.0,0.0,0.0,,42,1.0
-31,1629244,Cameron Reynolds,1610612745,HOU,26.0,Corner 3,,,,,42,1.0
-32,201571,D.J. Augustin,1610612745,HOU,33.0,Restricted Area,3.0,4.0,0.75,,42,1.0
-33,201571,D.J. Augustin,1610612745,HOU,33.0,In The Paint (Non-RA),0.0,0.0,0.0,,42,1.0
-34,201571,D.J. Augustin,1610612745,HOU,33.0,Mid-Range,0.0,1.0,0.0,,42,1.0
-35,201571,D.J. Augustin,1610612745,HOU,33.0,Left Corner 3,0.0,0.0,0.0,,42,1.0
-36,201571,D.J. Augustin,1610612745,HOU,33.0,Right Corner 3,0.0,1.0,0.0,,42,1.0
-37,201571,D.J. Augustin,1610612745,HOU,33.0,Above the Break 3,2.0,6.0,0.333,,42,1.0
-38,201571,D.J. Augustin,1610612745,HOU,33.0,Backcourt,0.0,0.0,0.0,,42,1.0
-39,201571,D.J. Augustin,1610612745,HOU,33.0,Corner 3,0.0,1.0,0.0,,42,1.0
-40,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Restricted Area,4.0,4.0,1.0,,42,1.0
-41,1630256,Jae'Sean Tate,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,1.0,0.0,,42,1.0
-42,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Mid-Range,0.0,0.0,0.0,,42,1.0
-43,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Left Corner 3,1.0,1.0,1.0,,42,1.0
-44,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Right Corner 3,0.0,0.0,0.0,,42,1.0
-45,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Above the Break 3,2.0,4.0,0.5,,42,1.0
-46,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,42,1.0
-47,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Corner 3,1.0,1.0,1.0,,42,1.0
-48,203482,Kelly Olynyk,1610612745,HOU,30.0,Restricted Area,5.0,5.0,1.0,,42,1.0
-49,203482,Kelly Olynyk,1610612745,HOU,30.0,In The Paint (Non-RA),0.0,4.0,0.0,,42,1.0
-50,203482,Kelly Olynyk,1610612745,HOU,30.0,Mid-Range,0.0,1.0,0.0,,42,1.0
-51,203482,Kelly Olynyk,1610612745,HOU,30.0,Left Corner 3,0.0,0.0,0.0,,42,1.0
-52,203482,Kelly Olynyk,1610612745,HOU,30.0,Right Corner 3,0.0,0.0,0.0,,42,1.0
-53,203482,Kelly Olynyk,1610612745,HOU,30.0,Above the Break 3,1.0,4.0,0.25,,42,1.0
-54,203482,Kelly Olynyk,1610612745,HOU,30.0,Backcourt,0.0,0.0,0.0,,42,1.0
-55,203482,Kelly Olynyk,1610612745,HOU,30.0,Corner 3,0.0,0.0,0.0,,42,1.0
-56,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Restricted Area,5.0,5.0,1.0,,42,1.0
-57,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,In The Paint (Non-RA),0.0,1.0,0.0,,42,1.0
-58,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Mid-Range,0.0,0.0,0.0,,42,1.0
-59,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Left Corner 3,0.0,0.0,0.0,,42,1.0
-60,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Right Corner 3,0.0,2.0,0.0,,42,1.0
-61,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Above the Break 3,0.0,4.0,0.0,,42,1.0
-62,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Backcourt,0.0,0.0,0.0,,42,1.0
-63,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Corner 3,0.0,2.0,0.0,,42,1.0
-64,1629017,Khyri Thomas,1610612745,HOU,25.0,Restricted Area,5.0,7.0,0.714,,42,1.0
-65,1629017,Khyri Thomas,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,0.0,0.0,,42,1.0
-66,1629017,Khyri Thomas,1610612745,HOU,25.0,Mid-Range,2.0,3.0,0.667,,42,1.0
-67,1629017,Khyri Thomas,1610612745,HOU,25.0,Left Corner 3,0.0,0.0,0.0,,42,1.0
-68,1629017,Khyri Thomas,1610612745,HOU,25.0,Right Corner 3,0.0,0.0,0.0,,42,1.0
-69,1629017,Khyri Thomas,1610612745,HOU,25.0,Above the Break 3,1.0,1.0,1.0,,42,1.0
-70,1629017,Khyri Thomas,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,42,1.0
-71,1629017,Khyri Thomas,1610612745,HOU,25.0,Corner 3,0.0,0.0,0.0,,42,1.0
-0,1630237,Anthony Lamb,1610612745,HOU,23.0,Restricted Area,3.0,4.0,0.75,,43,0.0
-1,1630237,Anthony Lamb,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,43,0.0
-2,1630237,Anthony Lamb,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,43,0.0
-3,1630237,Anthony Lamb,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,43,0.0
-4,1630237,Anthony Lamb,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,43,0.0
-5,1630237,Anthony Lamb,1610612745,HOU,23.0,Above the Break 3,1.0,3.0,0.333,,43,0.0
-6,1630237,Anthony Lamb,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,43,0.0
-7,1630237,Anthony Lamb,1610612745,HOU,23.0,Corner 3,0.0,0.0,0.0,,43,0.0
-8,1629717,Armoni Brooks,1610612745,HOU,23.0,Restricted Area,4.0,6.0,0.667,,43,0.0
-9,1629717,Armoni Brooks,1610612745,HOU,23.0,In The Paint (Non-RA),1.0,1.0,1.0,,43,0.0
-10,1629717,Armoni Brooks,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,43,0.0
-11,1629717,Armoni Brooks,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,43,0.0
-12,1629717,Armoni Brooks,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,43,0.0
-13,1629717,Armoni Brooks,1610612745,HOU,23.0,Above the Break 3,4.0,11.0,0.364,,43,0.0
-14,1629717,Armoni Brooks,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,43,0.0
-15,1629717,Armoni Brooks,1610612745,HOU,23.0,Corner 3,0.0,0.0,0.0,,43,0.0
-16,1628419,Cameron Oliver,1610612745,HOU,24.0,Restricted Area,4.0,4.0,1.0,,43,0.0
-17,1628419,Cameron Oliver,1610612745,HOU,24.0,In The Paint (Non-RA),1.0,1.0,1.0,,43,0.0
-18,1628419,Cameron Oliver,1610612745,HOU,24.0,Mid-Range,0.0,0.0,0.0,,43,0.0
-19,1628419,Cameron Oliver,1610612745,HOU,24.0,Left Corner 3,,,,,43,0.0
-20,1628419,Cameron Oliver,1610612745,HOU,24.0,Right Corner 3,0.0,0.0,0.0,,43,0.0
-21,1628419,Cameron Oliver,1610612745,HOU,24.0,Above the Break 3,2.0,5.0,0.4,,43,0.0
-22,1628419,Cameron Oliver,1610612745,HOU,24.0,Backcourt,,,,,43,0.0
-23,1628419,Cameron Oliver,1610612745,HOU,24.0,Corner 3,0.0,0.0,0.0,,43,0.0
-24,201571,D.J. Augustin,1610612745,HOU,33.0,Restricted Area,1.0,2.0,0.5,,43,0.0
-25,201571,D.J. Augustin,1610612745,HOU,33.0,In The Paint (Non-RA),0.0,0.0,0.0,,43,0.0
-26,201571,D.J. Augustin,1610612745,HOU,33.0,Mid-Range,0.0,0.0,0.0,,43,0.0
-27,201571,D.J. Augustin,1610612745,HOU,33.0,Left Corner 3,0.0,0.0,0.0,,43,0.0
-28,201571,D.J. Augustin,1610612745,HOU,33.0,Right Corner 3,0.0,0.0,0.0,,43,0.0
-29,201571,D.J. Augustin,1610612745,HOU,33.0,Above the Break 3,1.0,5.0,0.2,,43,0.0
-30,201571,D.J. Augustin,1610612745,HOU,33.0,Backcourt,0.0,0.0,0.0,,43,0.0
-31,201571,D.J. Augustin,1610612745,HOU,33.0,Corner 3,0.0,0.0,0.0,,43,0.0
-32,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Restricted Area,3.0,6.0,0.5,,43,0.0
-33,1630256,Jae'Sean Tate,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,1.0,0.0,,43,0.0
-34,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Mid-Range,0.0,0.0,0.0,,43,0.0
-35,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Left Corner 3,0.0,0.0,0.0,,43,0.0
-36,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Right Corner 3,1.0,1.0,1.0,,43,0.0
-37,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Above the Break 3,2.0,2.0,1.0,,43,0.0
-38,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,43,0.0
-39,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Corner 3,1.0,1.0,1.0,,43,0.0
-40,203482,Kelly Olynyk,1610612745,HOU,30.0,Restricted Area,2.0,4.0,0.5,,43,0.0
-41,203482,Kelly Olynyk,1610612745,HOU,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,43,0.0
-42,203482,Kelly Olynyk,1610612745,HOU,30.0,Mid-Range,0.0,1.0,0.0,,43,0.0
-43,203482,Kelly Olynyk,1610612745,HOU,30.0,Left Corner 3,0.0,0.0,0.0,,43,0.0
-44,203482,Kelly Olynyk,1610612745,HOU,30.0,Right Corner 3,0.0,0.0,0.0,,43,0.0
-45,203482,Kelly Olynyk,1610612745,HOU,30.0,Above the Break 3,4.0,6.0,0.667,,43,0.0
-46,203482,Kelly Olynyk,1610612745,HOU,30.0,Backcourt,0.0,0.0,0.0,,43,0.0
-47,203482,Kelly Olynyk,1610612745,HOU,30.0,Corner 3,0.0,0.0,0.0,,43,0.0
-48,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Restricted Area,4.0,5.0,0.8,,43,0.0
-49,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,In The Paint (Non-RA),0.0,0.0,0.0,,43,0.0
-50,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Mid-Range,0.0,0.0,0.0,,43,0.0
-51,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Left Corner 3,1.0,1.0,1.0,,43,0.0
-52,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Right Corner 3,0.0,0.0,0.0,,43,0.0
-53,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Above the Break 3,2.0,4.0,0.5,,43,0.0
-54,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Backcourt,0.0,0.0,0.0,,43,0.0
-55,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Corner 3,1.0,1.0,1.0,,43,0.0
-56,1629017,Khyri Thomas,1610612745,HOU,25.0,Restricted Area,1.0,3.0,0.333,,43,0.0
-57,1629017,Khyri Thomas,1610612745,HOU,25.0,In The Paint (Non-RA),1.0,3.0,0.333,,43,0.0
-58,1629017,Khyri Thomas,1610612745,HOU,25.0,Mid-Range,0.0,2.0,0.0,,43,0.0
-59,1629017,Khyri Thomas,1610612745,HOU,25.0,Left Corner 3,0.0,1.0,0.0,,43,0.0
-60,1629017,Khyri Thomas,1610612745,HOU,25.0,Right Corner 3,0.0,1.0,0.0,,43,0.0
-61,1629017,Khyri Thomas,1610612745,HOU,25.0,Above the Break 3,0.0,2.0,0.0,,43,0.0
-62,1629017,Khyri Thomas,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,43,0.0
-63,1629017,Khyri Thomas,1610612745,HOU,25.0,Corner 3,0.0,2.0,0.0,,43,0.0
-0,1630237,Anthony Lamb,1610612745,HOU,23.0,Restricted Area,0.0,0.0,0.0,,44,0.0
-1,1630237,Anthony Lamb,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,44,0.0
-2,1630237,Anthony Lamb,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,44,0.0
-3,1630237,Anthony Lamb,1610612745,HOU,23.0,Left Corner 3,1.0,1.0,1.0,,44,0.0
-4,1630237,Anthony Lamb,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,44,0.0
-5,1630237,Anthony Lamb,1610612745,HOU,23.0,Above the Break 3,0.0,0.0,0.0,,44,0.0
-6,1630237,Anthony Lamb,1610612745,HOU,23.0,Backcourt,,,,,44,0.0
-7,1630237,Anthony Lamb,1610612745,HOU,23.0,Corner 3,1.0,1.0,1.0,,44,0.0
-8,1629717,Armoni Brooks,1610612745,HOU,23.0,Restricted Area,0.0,0.0,0.0,,44,0.0
-9,1629717,Armoni Brooks,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,44,0.0
-10,1629717,Armoni Brooks,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,44,0.0
-11,1629717,Armoni Brooks,1610612745,HOU,23.0,Left Corner 3,0.0,2.0,0.0,,44,0.0
-12,1629717,Armoni Brooks,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,44,0.0
-13,1629717,Armoni Brooks,1610612745,HOU,23.0,Above the Break 3,6.0,7.0,0.857,,44,0.0
-14,1629717,Armoni Brooks,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,44,0.0
-15,1629717,Armoni Brooks,1610612745,HOU,23.0,Corner 3,0.0,2.0,0.0,,44,0.0
-16,1628419,Cameron Oliver,1610612745,HOU,24.0,Restricted Area,4.0,6.0,0.667,,44,0.0
-17,1628419,Cameron Oliver,1610612745,HOU,24.0,In The Paint (Non-RA),1.0,1.0,1.0,,44,0.0
-18,1628419,Cameron Oliver,1610612745,HOU,24.0,Mid-Range,0.0,0.0,0.0,,44,0.0
-19,1628419,Cameron Oliver,1610612745,HOU,24.0,Left Corner 3,0.0,0.0,0.0,,44,0.0
-20,1628419,Cameron Oliver,1610612745,HOU,24.0,Right Corner 3,0.0,0.0,0.0,,44,0.0
-21,1628419,Cameron Oliver,1610612745,HOU,24.0,Above the Break 3,1.0,3.0,0.333,,44,0.0
-22,1628419,Cameron Oliver,1610612745,HOU,24.0,Backcourt,0.0,0.0,0.0,,44,0.0
-23,1628419,Cameron Oliver,1610612745,HOU,24.0,Corner 3,0.0,0.0,0.0,,44,0.0
-24,201571,D.J. Augustin,1610612745,HOU,33.0,Restricted Area,2.0,3.0,0.667,,44,0.0
-25,201571,D.J. Augustin,1610612745,HOU,33.0,In The Paint (Non-RA),0.0,0.0,0.0,,44,0.0
-26,201571,D.J. Augustin,1610612745,HOU,33.0,Mid-Range,0.0,1.0,0.0,,44,0.0
-27,201571,D.J. Augustin,1610612745,HOU,33.0,Left Corner 3,0.0,0.0,0.0,,44,0.0
-28,201571,D.J. Augustin,1610612745,HOU,33.0,Right Corner 3,1.0,1.0,1.0,,44,0.0
-29,201571,D.J. Augustin,1610612745,HOU,33.0,Above the Break 3,3.0,5.0,0.6,,44,0.0
-30,201571,D.J. Augustin,1610612745,HOU,33.0,Backcourt,0.0,0.0,0.0,,44,0.0
-31,201571,D.J. Augustin,1610612745,HOU,33.0,Corner 3,1.0,1.0,1.0,,44,0.0
-32,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Restricted Area,0.0,0.0,0.0,,44,0.0
-33,1629610,DaQuan Jeffries,1610612759,SAS,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,44,0.0
-34,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Mid-Range,1.0,1.0,1.0,,44,0.0
-35,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Left Corner 3,0.0,0.0,0.0,,44,0.0
-36,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Right Corner 3,0.0,0.0,0.0,,44,0.0
-37,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Above the Break 3,0.0,1.0,0.0,,44,0.0
-38,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Backcourt,0.0,0.0,0.0,,44,0.0
-39,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Corner 3,0.0,0.0,0.0,,44,0.0
-40,1627863,Danuel House Jr.,1610612745,HOU,28.0,Restricted Area,0.0,1.0,0.0,,44,0.0
-41,1627863,Danuel House Jr.,1610612745,HOU,28.0,In The Paint (Non-RA),1.0,1.0,1.0,,44,0.0
-42,1627863,Danuel House Jr.,1610612745,HOU,28.0,Mid-Range,2.0,2.0,1.0,,44,0.0
-43,1627863,Danuel House Jr.,1610612745,HOU,28.0,Left Corner 3,0.0,0.0,0.0,,44,0.0
-44,1627863,Danuel House Jr.,1610612745,HOU,28.0,Right Corner 3,0.0,0.0,0.0,,44,0.0
-45,1627863,Danuel House Jr.,1610612745,HOU,28.0,Above the Break 3,0.0,2.0,0.0,,44,0.0
-46,1627863,Danuel House Jr.,1610612745,HOU,28.0,Backcourt,0.0,0.0,0.0,,44,0.0
-47,1627863,Danuel House Jr.,1610612745,HOU,28.0,Corner 3,0.0,0.0,0.0,,44,0.0
-48,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Restricted Area,3.0,6.0,0.5,,44,0.0
-49,1630256,Jae'Sean Tate,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,1.0,0.0,,44,0.0
-50,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Mid-Range,0.0,0.0,0.0,,44,0.0
-51,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Left Corner 3,0.0,0.0,0.0,,44,0.0
-52,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Right Corner 3,0.0,2.0,0.0,,44,0.0
-53,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Above the Break 3,0.0,2.0,0.0,,44,0.0
-54,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,44,0.0
-55,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Corner 3,0.0,2.0,0.0,,44,0.0
-56,203482,Kelly Olynyk,1610612745,HOU,30.0,Restricted Area,3.0,6.0,0.5,,44,0.0
-57,203482,Kelly Olynyk,1610612745,HOU,30.0,In The Paint (Non-RA),1.0,1.0,1.0,,44,0.0
-58,203482,Kelly Olynyk,1610612745,HOU,30.0,Mid-Range,0.0,3.0,0.0,,44,0.0
-59,203482,Kelly Olynyk,1610612745,HOU,30.0,Left Corner 3,1.0,1.0,1.0,,44,0.0
-60,203482,Kelly Olynyk,1610612745,HOU,30.0,Right Corner 3,0.0,0.0,0.0,,44,0.0
-61,203482,Kelly Olynyk,1610612745,HOU,30.0,Above the Break 3,0.0,1.0,0.0,,44,0.0
-62,203482,Kelly Olynyk,1610612745,HOU,30.0,Backcourt,0.0,0.0,0.0,,44,0.0
-63,203482,Kelly Olynyk,1610612745,HOU,30.0,Corner 3,1.0,1.0,1.0,,44,0.0
-64,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Restricted Area,2.0,5.0,0.4,,44,0.0
-65,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,In The Paint (Non-RA),0.0,1.0,0.0,,44,0.0
-66,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Mid-Range,0.0,0.0,0.0,,44,0.0
-67,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Left Corner 3,0.0,0.0,0.0,,44,0.0
-68,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Right Corner 3,0.0,0.0,0.0,,44,0.0
-69,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Above the Break 3,3.0,3.0,1.0,,44,0.0
-70,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Backcourt,0.0,0.0,0.0,,44,0.0
-71,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Corner 3,0.0,0.0,0.0,,44,0.0
-72,1629017,Khyri Thomas,1610612745,HOU,25.0,Restricted Area,3.0,5.0,0.6,,44,0.0
-73,1629017,Khyri Thomas,1610612745,HOU,25.0,In The Paint (Non-RA),1.0,1.0,1.0,,44,0.0
-74,1629017,Khyri Thomas,1610612745,HOU,25.0,Mid-Range,0.0,2.0,0.0,,44,0.0
-75,1629017,Khyri Thomas,1610612745,HOU,25.0,Left Corner 3,1.0,1.0,1.0,,44,0.0
-76,1629017,Khyri Thomas,1610612745,HOU,25.0,Right Corner 3,0.0,2.0,0.0,,44,0.0
-77,1629017,Khyri Thomas,1610612745,HOU,25.0,Above the Break 3,1.0,4.0,0.25,,44,0.0
-78,1629017,Khyri Thomas,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,44,0.0
-79,1629017,Khyri Thomas,1610612745,HOU,25.0,Corner 3,1.0,3.0,0.333,,44,0.0
-0,1630237,Anthony Lamb,1610612745,HOU,23.0,Restricted Area,1,4,0.25,,45,0.0
-1,1630237,Anthony Lamb,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,45,0.0
-2,1630237,Anthony Lamb,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,45,0.0
-3,1630237,Anthony Lamb,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,45,0.0
-4,1630237,Anthony Lamb,1610612745,HOU,23.0,Right Corner 3,0,0,0.0,,45,0.0
-5,1630237,Anthony Lamb,1610612745,HOU,23.0,Above the Break 3,0,2,0.0,,45,0.0
-6,1630237,Anthony Lamb,1610612745,HOU,23.0,Backcourt,0,0,0.0,,45,0.0
-7,1630237,Anthony Lamb,1610612745,HOU,23.0,Corner 3,0,0,0.0,,45,0.0
-8,1629717,Armoni Brooks,1610612745,HOU,23.0,Restricted Area,2,2,1.0,,45,0.0
-9,1629717,Armoni Brooks,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,45,0.0
-10,1629717,Armoni Brooks,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,45,0.0
-11,1629717,Armoni Brooks,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,45,0.0
-12,1629717,Armoni Brooks,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,45,0.0
-13,1629717,Armoni Brooks,1610612745,HOU,23.0,Above the Break 3,3,6,0.5,,45,0.0
-14,1629717,Armoni Brooks,1610612745,HOU,23.0,Backcourt,0,0,0.0,,45,0.0
-15,1629717,Armoni Brooks,1610612745,HOU,23.0,Corner 3,0,1,0.0,,45,0.0
-16,201571,D.J. Augustin,1610612745,HOU,33.0,Restricted Area,0,1,0.0,,45,0.0
-17,201571,D.J. Augustin,1610612745,HOU,33.0,In The Paint (Non-RA),0,1,0.0,,45,0.0
-18,201571,D.J. Augustin,1610612745,HOU,33.0,Mid-Range,0,0,0.0,,45,0.0
-19,201571,D.J. Augustin,1610612745,HOU,33.0,Left Corner 3,0,0,0.0,,45,0.0
-20,201571,D.J. Augustin,1610612745,HOU,33.0,Right Corner 3,0,0,0.0,,45,0.0
-21,201571,D.J. Augustin,1610612745,HOU,33.0,Above the Break 3,1,1,1.0,,45,0.0
-22,201571,D.J. Augustin,1610612745,HOU,33.0,Backcourt,0,0,0.0,,45,0.0
-23,201571,D.J. Augustin,1610612745,HOU,33.0,Corner 3,0,0,0.0,,45,0.0
-24,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Restricted Area,2,2,1.0,,45,0.0
-25,1629610,DaQuan Jeffries,1610612759,SAS,23.0,In The Paint (Non-RA),1,1,1.0,,45,0.0
-26,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Mid-Range,1,1,1.0,,45,0.0
-27,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Left Corner 3,1,1,1.0,,45,0.0
-28,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Right Corner 3,0,1,0.0,,45,0.0
-29,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Above the Break 3,2,8,0.25,,45,0.0
-30,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Backcourt,0,0,0.0,,45,0.0
-31,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Corner 3,1,2,0.5,,45,0.0
-32,1627863,Danuel House Jr.,1610612745,HOU,28.0,Restricted Area,0,0,0.0,,45,0.0
-33,1627863,Danuel House Jr.,1610612745,HOU,28.0,In The Paint (Non-RA),1,1,1.0,,45,0.0
-34,1627863,Danuel House Jr.,1610612745,HOU,28.0,Mid-Range,0,2,0.0,,45,0.0
-35,1627863,Danuel House Jr.,1610612745,HOU,28.0,Left Corner 3,0,0,0.0,,45,0.0
-36,1627863,Danuel House Jr.,1610612745,HOU,28.0,Right Corner 3,0,1,0.0,,45,0.0
-37,1627863,Danuel House Jr.,1610612745,HOU,28.0,Above the Break 3,2,4,0.5,,45,0.0
-38,1627863,Danuel House Jr.,1610612745,HOU,28.0,Backcourt,0,0,0.0,,45,0.0
-39,1627863,Danuel House Jr.,1610612745,HOU,28.0,Corner 3,0,1,0.0,,45,0.0
-40,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Restricted Area,3,7,0.429,,45,0.0
-41,1630256,Jae'Sean Tate,1610612745,HOU,25.0,In The Paint (Non-RA),1,4,0.25,,45,0.0
-42,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Mid-Range,0,1,0.0,,45,0.0
-43,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,45,0.0
-44,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,45,0.0
-45,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Above the Break 3,1,6,0.167,,45,0.0
-46,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Backcourt,0,0,0.0,,45,0.0
-47,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Corner 3,0,0,0.0,,45,0.0
-48,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Restricted Area,7,8,0.875,,45,0.0
-49,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,In The Paint (Non-RA),0,3,0.0,,45,0.0
-50,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,45,0.0
-51,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Left Corner 3,1,1,1.0,,45,0.0
-52,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Right Corner 3,0,0,0.0,,45,0.0
-53,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Above the Break 3,3,7,0.429,,45,0.0
-54,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Backcourt,0,0,0.0,,45,0.0
-55,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Corner 3,1,1,1.0,,45,0.0
-56,1629017,Khyri Thomas,1610612745,HOU,25.0,Restricted Area,5,6,0.833,,45,0.0
-57,1629017,Khyri Thomas,1610612745,HOU,25.0,In The Paint (Non-RA),0,0,0.0,,45,0.0
-58,1629017,Khyri Thomas,1610612745,HOU,25.0,Mid-Range,1,3,0.333,,45,0.0
-59,1629017,Khyri Thomas,1610612745,HOU,25.0,Left Corner 3,1,2,0.5,,45,0.0
-60,1629017,Khyri Thomas,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,45,0.0
-61,1629017,Khyri Thomas,1610612745,HOU,25.0,Above the Break 3,3,10,0.3,,45,0.0
-62,1629017,Khyri Thomas,1610612745,HOU,25.0,Backcourt,0,0,0.0,,45,0.0
-63,1629017,Khyri Thomas,1610612745,HOU,25.0,Corner 3,1,2,0.5,,45,0.0
-0,1630237,Anthony Lamb,1610612745,HOU,23.0,Restricted Area,1,2,0.5,,46,0.0
-1,1630237,Anthony Lamb,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,46,0.0
-2,1630237,Anthony Lamb,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,46,0.0
-3,1630237,Anthony Lamb,1610612745,HOU,23.0,Left Corner 3,1,2,0.5,,46,0.0
-4,1630237,Anthony Lamb,1610612745,HOU,23.0,Right Corner 3,0,0,0.0,,46,0.0
-5,1630237,Anthony Lamb,1610612745,HOU,23.0,Above the Break 3,3,8,0.375,,46,0.0
-6,1630237,Anthony Lamb,1610612745,HOU,23.0,Backcourt,0,0,0.0,,46,0.0
-7,1630237,Anthony Lamb,1610612745,HOU,23.0,Corner 3,1,2,0.5,,46,0.0
-8,1629717,Armoni Brooks,1610612745,HOU,23.0,Restricted Area,1,1,1.0,,46,0.0
-9,1629717,Armoni Brooks,1610612745,HOU,23.0,In The Paint (Non-RA),0,1,0.0,,46,0.0
-10,1629717,Armoni Brooks,1610612745,HOU,23.0,Mid-Range,1,3,0.333,,46,0.0
-11,1629717,Armoni Brooks,1610612745,HOU,23.0,Left Corner 3,1,1,1.0,,46,0.0
-12,1629717,Armoni Brooks,1610612745,HOU,23.0,Right Corner 3,0,0,0.0,,46,0.0
-13,1629717,Armoni Brooks,1610612745,HOU,23.0,Above the Break 3,4,8,0.5,,46,0.0
-14,1629717,Armoni Brooks,1610612745,HOU,23.0,Backcourt,0,0,0.0,,46,0.0
-15,1629717,Armoni Brooks,1610612745,HOU,23.0,Corner 3,1,1,1.0,,46,0.0
-16,201571,D.J. Augustin,1610612745,HOU,33.0,Restricted Area,1,2,0.5,,46,0.0
-17,201571,D.J. Augustin,1610612745,HOU,33.0,In The Paint (Non-RA),1,1,1.0,,46,0.0
-18,201571,D.J. Augustin,1610612745,HOU,33.0,Mid-Range,0,2,0.0,,46,0.0
-19,201571,D.J. Augustin,1610612745,HOU,33.0,Left Corner 3,0,0,0.0,,46,0.0
-20,201571,D.J. Augustin,1610612745,HOU,33.0,Right Corner 3,0,0,0.0,,46,0.0
-21,201571,D.J. Augustin,1610612745,HOU,33.0,Above the Break 3,4,9,0.444,,46,0.0
-22,201571,D.J. Augustin,1610612745,HOU,33.0,Backcourt,0,0,0.0,,46,0.0
-23,201571,D.J. Augustin,1610612745,HOU,33.0,Corner 3,0,0,0.0,,46,0.0
-24,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Restricted Area,1,1,1.0,,46,0.0
-25,1629610,DaQuan Jeffries,1610612759,SAS,23.0,In The Paint (Non-RA),1,1,1.0,,46,0.0
-26,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Mid-Range,1,1,1.0,,46,0.0
-27,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Left Corner 3,1,1,1.0,,46,0.0
-28,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Right Corner 3,1,1,1.0,,46,0.0
-29,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Above the Break 3,0,1,0.0,,46,0.0
-30,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Backcourt,0,0,0.0,,46,0.0
-31,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Corner 3,2,2,1.0,,46,0.0
-32,1627863,Danuel House Jr.,1610612745,HOU,28.0,Restricted Area,1,1,1.0,,46,0.0
-33,1627863,Danuel House Jr.,1610612745,HOU,28.0,In The Paint (Non-RA),0,1,0.0,,46,0.0
-34,1627863,Danuel House Jr.,1610612745,HOU,28.0,Mid-Range,0,0,0.0,,46,0.0
-35,1627863,Danuel House Jr.,1610612745,HOU,28.0,Left Corner 3,0,0,0.0,,46,0.0
-36,1627863,Danuel House Jr.,1610612745,HOU,28.0,Right Corner 3,0,0,0.0,,46,0.0
-37,1627863,Danuel House Jr.,1610612745,HOU,28.0,Above the Break 3,1,5,0.2,,46,0.0
-38,1627863,Danuel House Jr.,1610612745,HOU,28.0,Backcourt,0,0,0.0,,46,0.0
-39,1627863,Danuel House Jr.,1610612745,HOU,28.0,Corner 3,0,0,0.0,,46,0.0
-40,203482,Kelly Olynyk,1610612745,HOU,30.0,Restricted Area,5,6,0.833,,46,0.0
-41,203482,Kelly Olynyk,1610612745,HOU,30.0,In The Paint (Non-RA),1,5,0.2,,46,0.0
-42,203482,Kelly Olynyk,1610612745,HOU,30.0,Mid-Range,0,0,0.0,,46,0.0
-43,203482,Kelly Olynyk,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,46,0.0
-44,203482,Kelly Olynyk,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,46,0.0
-45,203482,Kelly Olynyk,1610612745,HOU,30.0,Above the Break 3,1,4,0.25,,46,0.0
-46,203482,Kelly Olynyk,1610612745,HOU,30.0,Backcourt,0,0,0.0,,46,0.0
-47,203482,Kelly Olynyk,1610612745,HOU,30.0,Corner 3,0,0,0.0,,46,0.0
-48,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Restricted Area,4,11,0.364,,46,0.0
-49,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,In The Paint (Non-RA),0,0,0.0,,46,0.0
-50,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,46,0.0
-51,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Left Corner 3,1,1,1.0,,46,0.0
-52,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Right Corner 3,1,1,1.0,,46,0.0
-53,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Above the Break 3,4,8,0.5,,46,0.0
-54,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Backcourt,0,0,0.0,,46,0.0
-55,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Corner 3,2,2,1.0,,46,0.0
-56,1629017,Khyri Thomas,1610612745,HOU,25.0,Restricted Area,2,2,1.0,,46,0.0
-57,1629017,Khyri Thomas,1610612745,HOU,25.0,In The Paint (Non-RA),1,1,1.0,,46,0.0
-58,1629017,Khyri Thomas,1610612745,HOU,25.0,Mid-Range,1,1,1.0,,46,0.0
-59,1629017,Khyri Thomas,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,46,0.0
-60,1629017,Khyri Thomas,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,46,0.0
-61,1629017,Khyri Thomas,1610612745,HOU,25.0,Above the Break 3,2,3,0.667,,46,0.0
-62,1629017,Khyri Thomas,1610612745,HOU,25.0,Backcourt,0,0,0.0,,46,0.0
-63,1629017,Khyri Thomas,1610612745,HOU,25.0,Corner 3,0,0,0.0,,46,0.0
-0,1630237,Anthony Lamb,1610612745,HOU,23.0,Restricted Area,3,6,0.5,,47,0.0
-1,1630237,Anthony Lamb,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,47,0.0
-2,1630237,Anthony Lamb,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,47,0.0
-3,1630237,Anthony Lamb,1610612745,HOU,23.0,Left Corner 3,1,1,1.0,,47,0.0
-4,1630237,Anthony Lamb,1610612745,HOU,23.0,Right Corner 3,1,2,0.5,,47,0.0
-5,1630237,Anthony Lamb,1610612745,HOU,23.0,Above the Break 3,2,6,0.333,,47,0.0
-6,1630237,Anthony Lamb,1610612745,HOU,23.0,Backcourt,0,0,0.0,,47,0.0
-7,1630237,Anthony Lamb,1610612745,HOU,23.0,Corner 3,2,3,0.667,,47,0.0
-8,1629717,Armoni Brooks,1610612745,HOU,23.0,Restricted Area,0,0,0.0,,47,0.0
-9,1629717,Armoni Brooks,1610612745,HOU,23.0,In The Paint (Non-RA),1,1,1.0,,47,0.0
-10,1629717,Armoni Brooks,1610612745,HOU,23.0,Mid-Range,0,1,0.0,,47,0.0
-11,1629717,Armoni Brooks,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,47,0.0
-12,1629717,Armoni Brooks,1610612745,HOU,23.0,Right Corner 3,1,2,0.5,,47,0.0
-13,1629717,Armoni Brooks,1610612745,HOU,23.0,Above the Break 3,5,12,0.417,,47,0.0
-14,1629717,Armoni Brooks,1610612745,HOU,23.0,Backcourt,0,0,0.0,,47,0.0
-15,1629717,Armoni Brooks,1610612745,HOU,23.0,Corner 3,1,2,0.5,,47,0.0
-16,202340,Avery Bradley,1610612745,HOU,30.0,Restricted Area,1,3,0.333,,47,0.0
-17,202340,Avery Bradley,1610612745,HOU,30.0,In The Paint (Non-RA),0,0,0.0,,47,0.0
-18,202340,Avery Bradley,1610612745,HOU,30.0,Mid-Range,0,0,0.0,,47,0.0
-19,202340,Avery Bradley,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,47,0.0
-20,202340,Avery Bradley,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,47,0.0
-21,202340,Avery Bradley,1610612745,HOU,30.0,Above the Break 3,0,3,0.0,,47,0.0
-22,202340,Avery Bradley,1610612745,HOU,30.0,Backcourt,0,0,0.0,,47,0.0
-23,202340,Avery Bradley,1610612745,HOU,30.0,Corner 3,0,0,0.0,,47,0.0
-24,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Restricted Area,2,6,0.333,,47,0.0
-25,1629610,DaQuan Jeffries,1610612759,SAS,23.0,In The Paint (Non-RA),0,0,0.0,,47,0.0
-26,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Mid-Range,0,0,0.0,,47,0.0
-27,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Left Corner 3,0,1,0.0,,47,0.0
-28,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Right Corner 3,0,0,0.0,,47,0.0
-29,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Above the Break 3,0,3,0.0,,47,0.0
-30,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Backcourt,0,0,0.0,,47,0.0
-31,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Corner 3,0,1,0.0,,47,0.0
-32,203482,Kelly Olynyk,1610612745,HOU,30.0,Restricted Area,5,7,0.714,,47,0.0
-33,203482,Kelly Olynyk,1610612745,HOU,30.0,In The Paint (Non-RA),0,2,0.0,,47,0.0
-34,203482,Kelly Olynyk,1610612745,HOU,30.0,Mid-Range,1,1,1.0,,47,0.0
-35,203482,Kelly Olynyk,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,47,0.0
-36,203482,Kelly Olynyk,1610612745,HOU,30.0,Right Corner 3,1,1,1.0,,47,0.0
-37,203482,Kelly Olynyk,1610612745,HOU,30.0,Above the Break 3,2,5,0.4,,47,0.0
-38,203482,Kelly Olynyk,1610612745,HOU,30.0,Backcourt,0,0,0.0,,47,0.0
-39,203482,Kelly Olynyk,1610612745,HOU,30.0,Corner 3,1,1,1.0,,47,0.0
-40,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Restricted Area,6,8,0.75,,47,0.0
-41,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,In The Paint (Non-RA),2,5,0.4,,47,0.0
-42,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,47,0.0
-43,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Left Corner 3,0,1,0.0,,47,0.0
-44,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Right Corner 3,0,0,0.0,,47,0.0
-45,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Above the Break 3,2,3,0.667,,47,0.0
-46,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Backcourt,0,0,0.0,,47,0.0
-47,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Corner 3,0,1,0.0,,47,0.0
-48,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Restricted Area,4,6,0.667,,47,0.0
-49,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,In The Paint (Non-RA),0,0,0.0,,47,0.0
-50,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Mid-Range,0,2,0.0,,47,0.0
-51,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Left Corner 3,0,0,0.0,,47,0.0
-52,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Right Corner 3,0,0,0.0,,47,0.0
-53,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Above the Break 3,2,5,0.4,,47,0.0
-54,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Backcourt,0,0,0.0,,47,0.0
-55,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Corner 3,0,0,0.0,,47,0.0
-0,1630237,Anthony Lamb,1610612745,HOU,23.0,Restricted Area,1,2,0.5,,48,0.0
-1,1630237,Anthony Lamb,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,48,0.0
-2,1630237,Anthony Lamb,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,48,0.0
-3,1630237,Anthony Lamb,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,48,0.0
-4,1630237,Anthony Lamb,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,48,0.0
-5,1630237,Anthony Lamb,1610612745,HOU,23.0,Above the Break 3,1,1,1.0,,48,0.0
-6,1630237,Anthony Lamb,1610612745,HOU,23.0,Backcourt,0,0,0.0,,48,0.0
-7,1630237,Anthony Lamb,1610612745,HOU,23.0,Corner 3,0,1,0.0,,48,0.0
-8,1629717,Armoni Brooks,1610612745,HOU,23.0,Restricted Area,0,0,0.0,,48,0.0
-9,1629717,Armoni Brooks,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,48,0.0
-10,1629717,Armoni Brooks,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,48,0.0
-11,1629717,Armoni Brooks,1610612745,HOU,23.0,Left Corner 3,0,1,0.0,,48,0.0
-12,1629717,Armoni Brooks,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,48,0.0
-13,1629717,Armoni Brooks,1610612745,HOU,23.0,Above the Break 3,1,5,0.2,,48,0.0
-14,1629717,Armoni Brooks,1610612745,HOU,23.0,Backcourt,0,0,0.0,,48,0.0
-15,1629717,Armoni Brooks,1610612745,HOU,23.0,Corner 3,0,2,0.0,,48,0.0
-16,202340,Avery Bradley,1610612745,HOU,30.0,Restricted Area,2,2,1.0,,48,0.0
-17,202340,Avery Bradley,1610612745,HOU,30.0,In The Paint (Non-RA),0,0,0.0,,48,0.0
-18,202340,Avery Bradley,1610612745,HOU,30.0,Mid-Range,0,1,0.0,,48,0.0
-19,202340,Avery Bradley,1610612745,HOU,30.0,Left Corner 3,0,1,0.0,,48,0.0
-20,202340,Avery Bradley,1610612745,HOU,30.0,Right Corner 3,1,1,1.0,,48,0.0
-21,202340,Avery Bradley,1610612745,HOU,30.0,Above the Break 3,0,0,0.0,,48,0.0
-22,202340,Avery Bradley,1610612745,HOU,30.0,Backcourt,0,0,0.0,,48,0.0
-23,202340,Avery Bradley,1610612745,HOU,30.0,Corner 3,1,2,0.5,,48,0.0
-24,1626174,Christian Wood,1610612745,HOU,25.0,Restricted Area,6,6,1.0,,48,0.0
-25,1626174,Christian Wood,1610612745,HOU,25.0,In The Paint (Non-RA),0,3,0.0,,48,0.0
-26,1626174,Christian Wood,1610612745,HOU,25.0,Mid-Range,0,0,0.0,,48,0.0
-27,1626174,Christian Wood,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,48,0.0
-28,1626174,Christian Wood,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,48,0.0
-29,1626174,Christian Wood,1610612745,HOU,25.0,Above the Break 3,0,5,0.0,,48,0.0
-30,1626174,Christian Wood,1610612745,HOU,25.0,Backcourt,0,0,0.0,,48,0.0
-31,1626174,Christian Wood,1610612745,HOU,25.0,Corner 3,0,0,0.0,,48,0.0
-32,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Restricted Area,0,0,0.0,,48,0.0
-33,1629610,DaQuan Jeffries,1610612759,SAS,23.0,In The Paint (Non-RA),0,0,0.0,,48,0.0
-34,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Mid-Range,0,0,0.0,,48,0.0
-35,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Left Corner 3,1,3,0.333,,48,0.0
-36,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Right Corner 3,0,0,0.0,,48,0.0
-37,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Above the Break 3,2,3,0.667,,48,0.0
-38,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Backcourt,0,0,0.0,,48,0.0
-39,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Corner 3,1,3,0.333,,48,0.0
-40,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Restricted Area,2,3,0.667,,48,0.0
-41,1630256,Jae'Sean Tate,1610612745,HOU,25.0,In The Paint (Non-RA),1,5,0.2,,48,0.0
-42,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Mid-Range,0,0,0.0,,48,0.0
-43,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,48,0.0
-44,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Right Corner 3,0,1,0.0,,48,0.0
-45,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Above the Break 3,0,2,0.0,,48,0.0
-46,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Backcourt,0,0,0.0,,48,0.0
-47,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Corner 3,0,1,0.0,,48,0.0
-48,203482,Kelly Olynyk,1610612745,HOU,30.0,Restricted Area,4,5,0.8,,48,0.0
-49,203482,Kelly Olynyk,1610612745,HOU,30.0,In The Paint (Non-RA),0,0,0.0,,48,0.0
-50,203482,Kelly Olynyk,1610612745,HOU,30.0,Mid-Range,0,1,0.0,,48,0.0
-51,203482,Kelly Olynyk,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,48,0.0
-52,203482,Kelly Olynyk,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,48,0.0
-53,203482,Kelly Olynyk,1610612745,HOU,30.0,Above the Break 3,1,4,0.25,,48,0.0
-54,203482,Kelly Olynyk,1610612745,HOU,30.0,Backcourt,0,0,0.0,,48,0.0
-55,203482,Kelly Olynyk,1610612745,HOU,30.0,Corner 3,0,0,0.0,,48,0.0
-56,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Restricted Area,4,7,0.571,,48,0.0
-57,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,In The Paint (Non-RA),0,0,0.0,,48,0.0
-58,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,48,0.0
-59,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Left Corner 3,0,0,0.0,,48,0.0
-60,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Right Corner 3,0,0,0.0,,48,0.0
-61,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Above the Break 3,1,2,0.5,,48,0.0
-62,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Backcourt,0,0,0.0,,48,0.0
-63,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Corner 3,0,0,0.0,,48,0.0
-64,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Restricted Area,5,7,0.714,,48,0.0
-65,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,In The Paint (Non-RA),1,2,0.5,,48,0.0
-66,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Mid-Range,0,0,0.0,,48,0.0
-67,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Left Corner 3,0,0,0.0,,48,0.0
-68,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Right Corner 3,0,1,0.0,,48,0.0
-69,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Above the Break 3,0,3,0.0,,48,0.0
-70,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Backcourt,0,0,0.0,,48,0.0
-71,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Corner 3,0,1,0.0,,48,0.0
-0,1630237,Anthony Lamb,1610612745,HOU,23.0,Restricted Area,0,0,0.0,,49,0.0
-1,1630237,Anthony Lamb,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,49,0.0
-2,1630237,Anthony Lamb,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,49,0.0
-3,1630237,Anthony Lamb,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,49,0.0
-4,1630237,Anthony Lamb,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,49,0.0
-5,1630237,Anthony Lamb,1610612745,HOU,23.0,Above the Break 3,0,0,0.0,,49,0.0
-6,1630237,Anthony Lamb,1610612745,HOU,23.0,Backcourt,0,0,0.0,,49,0.0
-7,1630237,Anthony Lamb,1610612745,HOU,23.0,Corner 3,0,1,0.0,,49,0.0
-8,1629717,Armoni Brooks,1610612745,HOU,23.0,Restricted Area,0,2,0.0,,49,0.0
-9,1629717,Armoni Brooks,1610612745,HOU,23.0,In The Paint (Non-RA),0,1,0.0,,49,0.0
-10,1629717,Armoni Brooks,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,49,0.0
-11,1629717,Armoni Brooks,1610612745,HOU,23.0,Left Corner 3,1,2,0.5,,49,0.0
-12,1629717,Armoni Brooks,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,49,0.0
-13,1629717,Armoni Brooks,1610612745,HOU,23.0,Above the Break 3,2,7,0.286,,49,0.0
-14,1629717,Armoni Brooks,1610612745,HOU,23.0,Backcourt,0,0,0.0,,49,0.0
-15,1629717,Armoni Brooks,1610612745,HOU,23.0,Corner 3,1,3,0.333,,49,0.0
-16,1626174,Christian Wood,1610612745,HOU,25.0,Restricted Area,2,2,1.0,,49,0.0
-17,1626174,Christian Wood,1610612745,HOU,25.0,In The Paint (Non-RA),0,4,0.0,,49,0.0
-18,1626174,Christian Wood,1610612745,HOU,25.0,Mid-Range,0,1,0.0,,49,0.0
-19,1626174,Christian Wood,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,49,0.0
-20,1626174,Christian Wood,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,49,0.0
-21,1626174,Christian Wood,1610612745,HOU,25.0,Above the Break 3,2,8,0.25,,49,0.0
-22,1626174,Christian Wood,1610612745,HOU,25.0,Backcourt,0,0,0.0,,49,0.0
-23,1626174,Christian Wood,1610612745,HOU,25.0,Corner 3,0,0,0.0,,49,0.0
-24,1628391,D.J. Wilson,1610612745,HOU,25.0,Restricted Area,1,1,1.0,,49,0.0
-25,1628391,D.J. Wilson,1610612745,HOU,25.0,In The Paint (Non-RA),1,3,0.333,,49,0.0
-26,1628391,D.J. Wilson,1610612745,HOU,25.0,Mid-Range,0,0,0.0,,49,0.0
-27,1628391,D.J. Wilson,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,49,0.0
-28,1628391,D.J. Wilson,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,49,0.0
-29,1628391,D.J. Wilson,1610612745,HOU,25.0,Above the Break 3,0,3,0.0,,49,0.0
-30,1628391,D.J. Wilson,1610612745,HOU,25.0,Backcourt,0,0,0.0,,49,0.0
-31,1628391,D.J. Wilson,1610612745,HOU,25.0,Corner 3,0,0,0.0,,49,0.0
-32,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Restricted Area,2,2,1.0,,49,0.0
-33,1629610,DaQuan Jeffries,1610612759,SAS,23.0,In The Paint (Non-RA),0,0,0.0,,49,0.0
-34,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Mid-Range,0,1,0.0,,49,0.0
-35,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Left Corner 3,1,2,0.5,,49,0.0
-36,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Right Corner 3,0,0,0.0,,49,0.0
-37,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Above the Break 3,0,1,0.0,,49,0.0
-38,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Backcourt,0,0,0.0,,49,0.0
-39,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Corner 3,1,2,0.5,,49,0.0
-40,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Restricted Area,3,6,0.5,,49,0.0
-41,1630256,Jae'Sean Tate,1610612745,HOU,25.0,In The Paint (Non-RA),1,1,1.0,,49,0.0
-42,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Mid-Range,0,0,0.0,,49,0.0
-43,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,49,0.0
-44,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,49,0.0
-45,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Above the Break 3,1,3,0.333,,49,0.0
-46,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Backcourt,0,0,0.0,,49,0.0
-47,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Corner 3,0,0,0.0,,49,0.0
-48,203482,Kelly Olynyk,1610612745,HOU,30.0,Restricted Area,1,1,1.0,,49,0.0
-49,203482,Kelly Olynyk,1610612745,HOU,30.0,In The Paint (Non-RA),2,4,0.5,,49,0.0
-50,203482,Kelly Olynyk,1610612745,HOU,30.0,Mid-Range,0,1,0.0,,49,0.0
-51,203482,Kelly Olynyk,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,49,0.0
-52,203482,Kelly Olynyk,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,49,0.0
-53,203482,Kelly Olynyk,1610612745,HOU,30.0,Above the Break 3,0,3,0.0,,49,0.0
-54,203482,Kelly Olynyk,1610612745,HOU,30.0,Backcourt,0,0,0.0,,49,0.0
-55,203482,Kelly Olynyk,1610612745,HOU,30.0,Corner 3,0,0,0.0,,49,0.0
-56,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Restricted Area,3,3,1.0,,49,0.0
-57,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,In The Paint (Non-RA),3,4,0.75,,49,0.0
-58,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,49,0.0
-59,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Left Corner 3,0,0,0.0,,49,0.0
-60,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Right Corner 3,0,1,0.0,,49,0.0
-61,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Above the Break 3,0,2,0.0,,49,0.0
-62,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Backcourt,0,0,0.0,,49,0.0
-63,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Corner 3,0,1,0.0,,49,0.0
-64,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Restricted Area,2,3,0.667,,49,0.0
-65,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,In The Paint (Non-RA),1,4,0.25,,49,0.0
-66,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Mid-Range,1,3,0.333,,49,0.0
-67,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Left Corner 3,0,0,0.0,,49,0.0
-68,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Right Corner 3,1,2,0.5,,49,0.0
-69,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Above the Break 3,1,6,0.167,,49,0.0
-70,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Backcourt,0,0,0.0,,49,0.0
-71,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Corner 3,1,2,0.5,,49,0.0
-0,1630237,Anthony Lamb,1610612745,HOU,23.0,Restricted Area,0.0,0.0,0.0,,50,1.0
-1,1630237,Anthony Lamb,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,50,1.0
-2,1630237,Anthony Lamb,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,50,1.0
-3,1630237,Anthony Lamb,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,50,1.0
-4,1630237,Anthony Lamb,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,50,1.0
-5,1630237,Anthony Lamb,1610612745,HOU,23.0,Above the Break 3,0.0,1.0,0.0,,50,1.0
-6,1630237,Anthony Lamb,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,50,1.0
-7,1630237,Anthony Lamb,1610612745,HOU,23.0,Corner 3,0.0,0.0,0.0,,50,1.0
-8,1629717,Armoni Brooks,1610612745,HOU,23.0,Restricted Area,0.0,1.0,0.0,,50,1.0
-9,1629717,Armoni Brooks,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,50,1.0
-10,1629717,Armoni Brooks,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,50,1.0
-11,1629717,Armoni Brooks,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,50,1.0
-12,1629717,Armoni Brooks,1610612745,HOU,23.0,Right Corner 3,1.0,1.0,1.0,,50,1.0
-13,1629717,Armoni Brooks,1610612745,HOU,23.0,Above the Break 3,1.0,3.0,0.333,,50,1.0
-14,1629717,Armoni Brooks,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,50,1.0
-15,1629717,Armoni Brooks,1610612745,HOU,23.0,Corner 3,1.0,1.0,1.0,,50,1.0
-16,1626174,Christian Wood,1610612745,HOU,25.0,Restricted Area,1.0,4.0,0.25,,50,1.0
-17,1626174,Christian Wood,1610612745,HOU,25.0,In The Paint (Non-RA),2.0,6.0,0.333,,50,1.0
-18,1626174,Christian Wood,1610612745,HOU,25.0,Mid-Range,1.0,1.0,1.0,,50,1.0
-19,1626174,Christian Wood,1610612745,HOU,25.0,Left Corner 3,0.0,1.0,0.0,,50,1.0
-20,1626174,Christian Wood,1610612745,HOU,25.0,Right Corner 3,0.0,0.0,0.0,,50,1.0
-21,1626174,Christian Wood,1610612745,HOU,25.0,Above the Break 3,6.0,9.0,0.667,,50,1.0
-22,1626174,Christian Wood,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,50,1.0
-23,1626174,Christian Wood,1610612745,HOU,25.0,Corner 3,0.0,1.0,0.0,,50,1.0
-24,1628391,D.J. Wilson,1610612745,HOU,25.0,Restricted Area,2.0,5.0,0.4,,50,1.0
-25,1628391,D.J. Wilson,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,0.0,0.0,,50,1.0
-26,1628391,D.J. Wilson,1610612745,HOU,25.0,Mid-Range,0.0,1.0,0.0,,50,1.0
-27,1628391,D.J. Wilson,1610612745,HOU,25.0,Left Corner 3,0.0,0.0,0.0,,50,1.0
-28,1628391,D.J. Wilson,1610612745,HOU,25.0,Right Corner 3,0.0,1.0,0.0,,50,1.0
-29,1628391,D.J. Wilson,1610612745,HOU,25.0,Above the Break 3,3.0,4.0,0.75,,50,1.0
-30,1628391,D.J. Wilson,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,50,1.0
-31,1628391,D.J. Wilson,1610612745,HOU,25.0,Corner 3,0.0,1.0,0.0,,50,1.0
-32,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Restricted Area,0.0,0.0,0.0,,50,1.0
-33,1629610,DaQuan Jeffries,1610612759,SAS,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,50,1.0
-34,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Mid-Range,0.0,0.0,0.0,,50,1.0
-35,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Left Corner 3,0.0,1.0,0.0,,50,1.0
-36,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Right Corner 3,0.0,0.0,0.0,,50,1.0
-37,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Above the Break 3,0.0,0.0,0.0,,50,1.0
-38,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Backcourt,,,,,50,1.0
-39,1629610,DaQuan Jeffries,1610612759,SAS,23.0,Corner 3,0.0,1.0,0.0,,50,1.0
-40,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Restricted Area,3.0,7.0,0.429,,50,1.0
-41,1630256,Jae'Sean Tate,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,1.0,0.0,,50,1.0
-42,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Mid-Range,0.0,0.0,0.0,,50,1.0
-43,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Left Corner 3,0.0,0.0,0.0,,50,1.0
-44,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Right Corner 3,0.0,0.0,0.0,,50,1.0
-45,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Above the Break 3,2.0,3.0,0.667,,50,1.0
-46,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,50,1.0
-47,1630256,Jae'Sean Tate,1610612745,HOU,25.0,Corner 3,0.0,0.0,0.0,,50,1.0
-48,203482,Kelly Olynyk,1610612745,HOU,30.0,Restricted Area,5.0,9.0,0.556,,50,1.0
-49,203482,Kelly Olynyk,1610612745,HOU,30.0,In The Paint (Non-RA),1.0,2.0,0.5,,50,1.0
-50,203482,Kelly Olynyk,1610612745,HOU,30.0,Mid-Range,0.0,1.0,0.0,,50,1.0
-51,203482,Kelly Olynyk,1610612745,HOU,30.0,Left Corner 3,0.0,0.0,0.0,,50,1.0
-52,203482,Kelly Olynyk,1610612745,HOU,30.0,Right Corner 3,1.0,1.0,1.0,,50,1.0
-53,203482,Kelly Olynyk,1610612745,HOU,30.0,Above the Break 3,2.0,4.0,0.5,,50,1.0
-54,203482,Kelly Olynyk,1610612745,HOU,30.0,Backcourt,0.0,0.0,0.0,,50,1.0
-55,203482,Kelly Olynyk,1610612745,HOU,30.0,Corner 3,1.0,1.0,1.0,,50,1.0
-56,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Restricted Area,2.0,2.0,1.0,,50,1.0
-57,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,In The Paint (Non-RA),0.0,1.0,0.0,,50,1.0
-58,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Mid-Range,0.0,0.0,0.0,,50,1.0
-59,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Left Corner 3,0.0,0.0,0.0,,50,1.0
-60,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Right Corner 3,0.0,1.0,0.0,,50,1.0
-61,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Above the Break 3,0.0,1.0,0.0,,50,1.0
-62,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Backcourt,0.0,0.0,0.0,,50,1.0
-63,1630231,Kenyon Martin Jr.,1610612745,HOU,20.0,Corner 3,0.0,1.0,0.0,,50,1.0
-64,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Restricted Area,3.0,4.0,0.75,,50,1.0
-65,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,In The Paint (Non-RA),2.0,3.0,0.667,,50,1.0
-66,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Mid-Range,2.0,4.0,0.5,,50,1.0
-67,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Left Corner 3,0.0,0.0,0.0,,50,1.0
-68,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Right Corner 3,1.0,2.0,0.5,,50,1.0
-69,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Above the Break 3,8.0,13.0,0.615,,50,1.0
-70,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Backcourt,0.0,0.0,0.0,,50,1.0
-71,1629645,Kevin Porter Jr.,1610612745,HOU,21.0,Corner 3,1.0,2.0,0.5,,50,1.0
+,PLAYER_ID,PLAYER_NAME,NICKNAME,TEAM_ID,TEAM_ABBREVIATION,AGE,ZONE,FGM,FGA,FG_PCT,SEASON,game_id,win,pd,ortg
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,2,2,1.0,,41,0.0,-29,93
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,41,0.0,-29,93
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,41,0.0,-29,93
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,41,0.0,-29,93
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,41,0.0,-29,93
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,0,3,0.0,,41,0.0,-29,93
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,0,0,0.0,,41,0.0,-29,93
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,0,1,0.0,,41,0.0,-29,93
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,0,1,0.0,,41,0.0,-29,93
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,41,0.0,-29,93
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,41,0.0,-29,93
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,41,0.0,-29,93
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,1,1,1.0,,41,0.0,-29,93
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,5,17,0.294,,41,0.0,-29,93
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0,0,0.0,,41,0.0,-29,93
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,1,1,1.0,,41,0.0,-29,93
+16,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Restricted Area,3,3,1.0,,41,0.0,-29,93
+17,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,In The Paint (Non-RA),1,1,1.0,,41,0.0,-29,93
+18,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Mid-Range,1,2,0.5,,41,0.0,-29,93
+19,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Left Corner 3,0,0,0.0,,41,0.0,-29,93
+20,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Right Corner 3,0,0,0.0,,41,0.0,-29,93
+21,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Above the Break 3,0,3,0.0,,41,0.0,-29,93
+22,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Backcourt,0,0,0.0,,41,0.0,-29,93
+23,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Corner 3,0,0,0.0,,41,0.0,-29,93
+24,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Restricted Area,0,1,0.0,,41,0.0,-29,93
+25,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,In The Paint (Non-RA),0,0,0.0,,41,0.0,-29,93
+26,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Mid-Range,0,1,0.0,,41,0.0,-29,93
+27,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Left Corner 3,0,3,0.0,,41,0.0,-29,93
+28,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Right Corner 3,1,3,0.333,,41,0.0,-29,93
+29,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Above the Break 3,2,6,0.333,,41,0.0,-29,93
+30,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Backcourt,0,0,0.0,,41,0.0,-29,93
+31,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Corner 3,1,6,0.167,,41,0.0,-29,93
+32,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Restricted Area,1,1,1.0,,41,0.0,-29,93
+33,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,In The Paint (Non-RA),0,0,0.0,,41,0.0,-29,93
+34,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Mid-Range,0,0,0.0,,41,0.0,-29,93
+35,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Left Corner 3,0,1,0.0,,41,0.0,-29,93
+36,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Right Corner 3,1,1,1.0,,41,0.0,-29,93
+37,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Above the Break 3,3,8,0.375,,41,0.0,-29,93
+38,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Backcourt,0,0,0.0,,41,0.0,-29,93
+39,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Corner 3,1,2,0.5,,41,0.0,-29,93
+40,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Restricted Area,1,3,0.333,,41,0.0,-29,93
+41,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,In The Paint (Non-RA),1,1,1.0,,41,0.0,-29,93
+42,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Mid-Range,0,1,0.0,,41,0.0,-29,93
+43,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Left Corner 3,0,1,0.0,,41,0.0,-29,93
+44,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Right Corner 3,1,1,1.0,,41,0.0,-29,93
+45,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Above the Break 3,0,0,0.0,,41,0.0,-29,93
+46,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Backcourt,0,0,0.0,,41,0.0,-29,93
+47,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Corner 3,1,2,0.5,,41,0.0,-29,93
+48,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,1,6,0.167,,41,0.0,-29,93
+49,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),0,0,0.0,,41,0.0,-29,93
+50,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,0,0,0.0,,41,0.0,-29,93
+51,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,0,1,0.0,,41,0.0,-29,93
+52,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,41,0.0,-29,93
+53,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,2,4,0.5,,41,0.0,-29,93
+54,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0,0,0.0,,41,0.0,-29,93
+55,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,0,1,0.0,,41,0.0,-29,93
+56,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,2,4,0.5,,41,0.0,-29,93
+57,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),0,2,0.0,,41,0.0,-29,93
+58,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,41,0.0,-29,93
+59,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,0,0,0.0,,41,0.0,-29,93
+60,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0,0,0.0,,41,0.0,-29,93
+61,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,2,9,0.222,,41,0.0,-29,93
+62,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0,0,0.0,,41,0.0,-29,93
+63,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,0,0,0.0,,41,0.0,-29,93
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,2.0,4.0,0.5,,42,1.0,7,120
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),1.0,1.0,1.0,,42,1.0,7,120
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,42,1.0,7,120
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,3.0,5.0,0.6,,42,1.0,7,120
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,42,1.0,7,120
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,3.0,4.0,0.75,,42,1.0,7,120
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,42,1.0,7,120
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,42,1.0,7,120
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,3.0,7.0,0.429,,42,1.0,7,120
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,42,1.0,7,120
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+16,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Restricted Area,0.0,1.0,0.0,,42,1.0,7,120
+17,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,In The Paint (Non-RA),0.0,1.0,0.0,,42,1.0,7,120
+18,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Mid-Range,0.0,0.0,0.0,,42,1.0,7,120
+19,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Left Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+20,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Right Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+21,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Above the Break 3,1.0,2.0,0.5,,42,1.0,7,120
+22,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Backcourt,0.0,0.0,0.0,,42,1.0,7,120
+23,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+24,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Restricted Area,1.0,1.0,1.0,,42,1.0,7,120
+25,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,In The Paint (Non-RA),0.0,0.0,0.0,,42,1.0,7,120
+26,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Mid-Range,1.0,1.0,1.0,,42,1.0,7,120
+27,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Left Corner 3,,,,,42,1.0,7,120
+28,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Right Corner 3,,,,,42,1.0,7,120
+29,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Above the Break 3,0.0,0.0,0.0,,42,1.0,7,120
+30,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Backcourt,0.0,0.0,0.0,,42,1.0,7,120
+31,1629244,Cameron Reynolds,Cameron,1610612745,HOU,26.0,Corner 3,,,,,42,1.0,7,120
+32,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Restricted Area,3.0,4.0,0.75,,42,1.0,7,120
+33,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,In The Paint (Non-RA),0.0,0.0,0.0,,42,1.0,7,120
+34,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Mid-Range,0.0,1.0,0.0,,42,1.0,7,120
+35,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Left Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+36,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Right Corner 3,0.0,1.0,0.0,,42,1.0,7,120
+37,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Above the Break 3,2.0,6.0,0.333,,42,1.0,7,120
+38,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Backcourt,0.0,0.0,0.0,,42,1.0,7,120
+39,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Corner 3,0.0,1.0,0.0,,42,1.0,7,120
+40,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Restricted Area,4.0,4.0,1.0,,42,1.0,7,120
+41,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,1.0,0.0,,42,1.0,7,120
+42,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Mid-Range,0.0,0.0,0.0,,42,1.0,7,120
+43,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Left Corner 3,1.0,1.0,1.0,,42,1.0,7,120
+44,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Right Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+45,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Above the Break 3,2.0,4.0,0.5,,42,1.0,7,120
+46,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,42,1.0,7,120
+47,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Corner 3,1.0,1.0,1.0,,42,1.0,7,120
+48,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,5.0,5.0,1.0,,42,1.0,7,120
+49,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),0.0,4.0,0.0,,42,1.0,7,120
+50,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,0.0,1.0,0.0,,42,1.0,7,120
+51,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+52,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+53,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,1.0,4.0,0.25,,42,1.0,7,120
+54,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0.0,0.0,0.0,,42,1.0,7,120
+55,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+56,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,5.0,5.0,1.0,,42,1.0,7,120
+57,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),0.0,1.0,0.0,,42,1.0,7,120
+58,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0.0,0.0,0.0,,42,1.0,7,120
+59,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+60,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0.0,2.0,0.0,,42,1.0,7,120
+61,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,0.0,4.0,0.0,,42,1.0,7,120
+62,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0.0,0.0,0.0,,42,1.0,7,120
+63,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,0.0,2.0,0.0,,42,1.0,7,120
+64,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Restricted Area,5.0,7.0,0.714,,42,1.0,7,120
+65,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,0.0,0.0,,42,1.0,7,120
+66,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Mid-Range,2.0,3.0,0.667,,42,1.0,7,120
+67,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Left Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+68,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Right Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+69,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Above the Break 3,1.0,1.0,1.0,,42,1.0,7,120
+70,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,42,1.0,7,120
+71,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Corner 3,0.0,0.0,0.0,,42,1.0,7,120
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,3.0,4.0,0.75,,43,0.0,-2,119.2
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,43,0.0,-2,119.2
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,43,0.0,-2,119.2
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,1.0,3.0,0.333,,43,0.0,-2,119.2
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,43,0.0,-2,119.2
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,4.0,6.0,0.667,,43,0.0,-2,119.2
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),1.0,1.0,1.0,,43,0.0,-2,119.2
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,43,0.0,-2,119.2
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,4.0,11.0,0.364,,43,0.0,-2,119.2
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,43,0.0,-2,119.2
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+16,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Restricted Area,4.0,4.0,1.0,,43,0.0,-2,119.2
+17,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,In The Paint (Non-RA),1.0,1.0,1.0,,43,0.0,-2,119.2
+18,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Mid-Range,0.0,0.0,0.0,,43,0.0,-2,119.2
+19,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Left Corner 3,,,,,43,0.0,-2,119.2
+20,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Right Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+21,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Above the Break 3,2.0,5.0,0.4,,43,0.0,-2,119.2
+22,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Backcourt,,,,,43,0.0,-2,119.2
+23,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+24,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Restricted Area,1.0,2.0,0.5,,43,0.0,-2,119.2
+25,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,In The Paint (Non-RA),0.0,0.0,0.0,,43,0.0,-2,119.2
+26,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Mid-Range,0.0,0.0,0.0,,43,0.0,-2,119.2
+27,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Left Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+28,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Right Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+29,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Above the Break 3,1.0,5.0,0.2,,43,0.0,-2,119.2
+30,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Backcourt,0.0,0.0,0.0,,43,0.0,-2,119.2
+31,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+32,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Restricted Area,3.0,6.0,0.5,,43,0.0,-2,119.2
+33,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,1.0,0.0,,43,0.0,-2,119.2
+34,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Mid-Range,0.0,0.0,0.0,,43,0.0,-2,119.2
+35,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Left Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+36,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Right Corner 3,1.0,1.0,1.0,,43,0.0,-2,119.2
+37,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Above the Break 3,2.0,2.0,1.0,,43,0.0,-2,119.2
+38,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,43,0.0,-2,119.2
+39,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Corner 3,1.0,1.0,1.0,,43,0.0,-2,119.2
+40,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,2.0,4.0,0.5,,43,0.0,-2,119.2
+41,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),0.0,0.0,0.0,,43,0.0,-2,119.2
+42,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,0.0,1.0,0.0,,43,0.0,-2,119.2
+43,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+44,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+45,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,4.0,6.0,0.667,,43,0.0,-2,119.2
+46,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0.0,0.0,0.0,,43,0.0,-2,119.2
+47,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+48,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,4.0,5.0,0.8,,43,0.0,-2,119.2
+49,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),0.0,0.0,0.0,,43,0.0,-2,119.2
+50,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0.0,0.0,0.0,,43,0.0,-2,119.2
+51,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,1.0,1.0,1.0,,43,0.0,-2,119.2
+52,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0.0,0.0,0.0,,43,0.0,-2,119.2
+53,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,2.0,4.0,0.5,,43,0.0,-2,119.2
+54,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0.0,0.0,0.0,,43,0.0,-2,119.2
+55,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,1.0,1.0,1.0,,43,0.0,-2,119.2
+56,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Restricted Area,1.0,3.0,0.333,,43,0.0,-2,119.2
+57,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,In The Paint (Non-RA),1.0,3.0,0.333,,43,0.0,-2,119.2
+58,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Mid-Range,0.0,2.0,0.0,,43,0.0,-2,119.2
+59,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Left Corner 3,0.0,1.0,0.0,,43,0.0,-2,119.2
+60,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Right Corner 3,0.0,1.0,0.0,,43,0.0,-2,119.2
+61,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Above the Break 3,0.0,2.0,0.0,,43,0.0,-2,119.2
+62,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,43,0.0,-2,119.2
+63,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Corner 3,0.0,2.0,0.0,,43,0.0,-2,119.2
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,0.0,0.0,0.0,,44,0.0,-11,126
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,44,0.0,-11,126
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,44,0.0,-11,126
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,1.0,1.0,1.0,,44,0.0,-11,126
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,0.0,0.0,0.0,,44,0.0,-11,126
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,,,,,44,0.0,-11,126
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,1.0,1.0,1.0,,44,0.0,-11,126
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,0.0,0.0,0.0,,44,0.0,-11,126
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,44,0.0,-11,126
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,44,0.0,-11,126
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,0.0,2.0,0.0,,44,0.0,-11,126
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,6.0,7.0,0.857,,44,0.0,-11,126
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,44,0.0,-11,126
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,0.0,2.0,0.0,,44,0.0,-11,126
+16,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Restricted Area,4.0,6.0,0.667,,44,0.0,-11,126
+17,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,In The Paint (Non-RA),1.0,1.0,1.0,,44,0.0,-11,126
+18,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Mid-Range,0.0,0.0,0.0,,44,0.0,-11,126
+19,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Left Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+20,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Right Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+21,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Above the Break 3,1.0,3.0,0.333,,44,0.0,-11,126
+22,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Backcourt,0.0,0.0,0.0,,44,0.0,-11,126
+23,1628419,Cameron Oliver,Cameron,1610612745,HOU,24.0,Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+24,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Restricted Area,2.0,3.0,0.667,,44,0.0,-11,126
+25,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,In The Paint (Non-RA),0.0,0.0,0.0,,44,0.0,-11,126
+26,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Mid-Range,0.0,1.0,0.0,,44,0.0,-11,126
+27,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Left Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+28,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Right Corner 3,1.0,1.0,1.0,,44,0.0,-11,126
+29,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Above the Break 3,3.0,5.0,0.6,,44,0.0,-11,126
+30,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Backcourt,0.0,0.0,0.0,,44,0.0,-11,126
+31,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Corner 3,1.0,1.0,1.0,,44,0.0,-11,126
+32,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Restricted Area,0.0,0.0,0.0,,44,0.0,-11,126
+33,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,44,0.0,-11,126
+34,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Mid-Range,1.0,1.0,1.0,,44,0.0,-11,126
+35,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Left Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+36,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Right Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+37,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Above the Break 3,0.0,1.0,0.0,,44,0.0,-11,126
+38,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Backcourt,0.0,0.0,0.0,,44,0.0,-11,126
+39,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+40,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Restricted Area,0.0,1.0,0.0,,44,0.0,-11,126
+41,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,In The Paint (Non-RA),1.0,1.0,1.0,,44,0.0,-11,126
+42,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Mid-Range,2.0,2.0,1.0,,44,0.0,-11,126
+43,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Left Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+44,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Right Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+45,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Above the Break 3,0.0,2.0,0.0,,44,0.0,-11,126
+46,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Backcourt,0.0,0.0,0.0,,44,0.0,-11,126
+47,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+48,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Restricted Area,3.0,6.0,0.5,,44,0.0,-11,126
+49,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,1.0,0.0,,44,0.0,-11,126
+50,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Mid-Range,0.0,0.0,0.0,,44,0.0,-11,126
+51,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Left Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+52,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Right Corner 3,0.0,2.0,0.0,,44,0.0,-11,126
+53,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Above the Break 3,0.0,2.0,0.0,,44,0.0,-11,126
+54,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,44,0.0,-11,126
+55,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Corner 3,0.0,2.0,0.0,,44,0.0,-11,126
+56,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,3.0,6.0,0.5,,44,0.0,-11,126
+57,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),1.0,1.0,1.0,,44,0.0,-11,126
+58,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,0.0,3.0,0.0,,44,0.0,-11,126
+59,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,1.0,1.0,1.0,,44,0.0,-11,126
+60,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+61,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,0.0,1.0,0.0,,44,0.0,-11,126
+62,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0.0,0.0,0.0,,44,0.0,-11,126
+63,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,1.0,1.0,1.0,,44,0.0,-11,126
+64,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,2.0,5.0,0.4,,44,0.0,-11,126
+65,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),0.0,1.0,0.0,,44,0.0,-11,126
+66,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0.0,0.0,0.0,,44,0.0,-11,126
+67,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+68,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+69,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,3.0,3.0,1.0,,44,0.0,-11,126
+70,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0.0,0.0,0.0,,44,0.0,-11,126
+71,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,0.0,0.0,0.0,,44,0.0,-11,126
+72,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Restricted Area,3.0,5.0,0.6,,44,0.0,-11,126
+73,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,In The Paint (Non-RA),1.0,1.0,1.0,,44,0.0,-11,126
+74,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Mid-Range,0.0,2.0,0.0,,44,0.0,-11,126
+75,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Left Corner 3,1.0,1.0,1.0,,44,0.0,-11,126
+76,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Right Corner 3,0.0,2.0,0.0,,44,0.0,-11,126
+77,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Above the Break 3,1.0,4.0,0.25,,44,0.0,-11,126
+78,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,44,0.0,-11,126
+79,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Corner 3,1.0,3.0,0.333,,44,0.0,-11,126
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,1,4,0.25,,45,0.0,-8,113.2
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,45,0.0,-8,113.2
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,45,0.0,-8,113.2
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,45,0.0,-8,113.2
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,0,0,0.0,,45,0.0,-8,113.2
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,0,2,0.0,,45,0.0,-8,113.2
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,0,0,0.0,,45,0.0,-8,113.2
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,0,0,0.0,,45,0.0,-8,113.2
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,2,2,1.0,,45,0.0,-8,113.2
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,45,0.0,-8,113.2
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,45,0.0,-8,113.2
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,45,0.0,-8,113.2
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,45,0.0,-8,113.2
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,3,6,0.5,,45,0.0,-8,113.2
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0,0,0.0,,45,0.0,-8,113.2
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,0,1,0.0,,45,0.0,-8,113.2
+16,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Restricted Area,0,1,0.0,,45,0.0,-8,113.2
+17,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,In The Paint (Non-RA),0,1,0.0,,45,0.0,-8,113.2
+18,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Mid-Range,0,0,0.0,,45,0.0,-8,113.2
+19,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Left Corner 3,0,0,0.0,,45,0.0,-8,113.2
+20,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Right Corner 3,0,0,0.0,,45,0.0,-8,113.2
+21,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Above the Break 3,1,1,1.0,,45,0.0,-8,113.2
+22,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Backcourt,0,0,0.0,,45,0.0,-8,113.2
+23,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Corner 3,0,0,0.0,,45,0.0,-8,113.2
+24,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Restricted Area,2,2,1.0,,45,0.0,-8,113.2
+25,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,In The Paint (Non-RA),1,1,1.0,,45,0.0,-8,113.2
+26,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Mid-Range,1,1,1.0,,45,0.0,-8,113.2
+27,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Left Corner 3,1,1,1.0,,45,0.0,-8,113.2
+28,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Right Corner 3,0,1,0.0,,45,0.0,-8,113.2
+29,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Above the Break 3,2,8,0.25,,45,0.0,-8,113.2
+30,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Backcourt,0,0,0.0,,45,0.0,-8,113.2
+31,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Corner 3,1,2,0.5,,45,0.0,-8,113.2
+32,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Restricted Area,0,0,0.0,,45,0.0,-8,113.2
+33,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,In The Paint (Non-RA),1,1,1.0,,45,0.0,-8,113.2
+34,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Mid-Range,0,2,0.0,,45,0.0,-8,113.2
+35,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Left Corner 3,0,0,0.0,,45,0.0,-8,113.2
+36,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Right Corner 3,0,1,0.0,,45,0.0,-8,113.2
+37,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Above the Break 3,2,4,0.5,,45,0.0,-8,113.2
+38,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Backcourt,0,0,0.0,,45,0.0,-8,113.2
+39,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Corner 3,0,1,0.0,,45,0.0,-8,113.2
+40,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Restricted Area,3,7,0.429,,45,0.0,-8,113.2
+41,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,In The Paint (Non-RA),1,4,0.25,,45,0.0,-8,113.2
+42,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Mid-Range,0,1,0.0,,45,0.0,-8,113.2
+43,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,45,0.0,-8,113.2
+44,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,45,0.0,-8,113.2
+45,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Above the Break 3,1,6,0.167,,45,0.0,-8,113.2
+46,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Backcourt,0,0,0.0,,45,0.0,-8,113.2
+47,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Corner 3,0,0,0.0,,45,0.0,-8,113.2
+48,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,7,8,0.875,,45,0.0,-8,113.2
+49,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),0,3,0.0,,45,0.0,-8,113.2
+50,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,45,0.0,-8,113.2
+51,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,1,1,1.0,,45,0.0,-8,113.2
+52,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0,0,0.0,,45,0.0,-8,113.2
+53,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,3,7,0.429,,45,0.0,-8,113.2
+54,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0,0,0.0,,45,0.0,-8,113.2
+55,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,1,1,1.0,,45,0.0,-8,113.2
+56,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Restricted Area,5,6,0.833,,45,0.0,-8,113.2
+57,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,In The Paint (Non-RA),0,0,0.0,,45,0.0,-8,113.2
+58,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Mid-Range,1,3,0.333,,45,0.0,-8,113.2
+59,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Left Corner 3,1,2,0.5,,45,0.0,-8,113.2
+60,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,45,0.0,-8,113.2
+61,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Above the Break 3,3,10,0.3,,45,0.0,-8,113.2
+62,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Backcourt,0,0,0.0,,45,0.0,-8,113.2
+63,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Corner 3,1,2,0.5,,45,0.0,-8,113.2
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,1,2,0.5,,46,0.0,-8,121.7
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,46,0.0,-8,121.7
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,46,0.0,-8,121.7
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,1,2,0.5,,46,0.0,-8,121.7
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,0,0,0.0,,46,0.0,-8,121.7
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,3,8,0.375,,46,0.0,-8,121.7
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,0,0,0.0,,46,0.0,-8,121.7
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,1,2,0.5,,46,0.0,-8,121.7
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,1,1,1.0,,46,0.0,-8,121.7
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),0,1,0.0,,46,0.0,-8,121.7
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,1,3,0.333,,46,0.0,-8,121.7
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,1,1,1.0,,46,0.0,-8,121.7
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,0,0,0.0,,46,0.0,-8,121.7
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,4,8,0.5,,46,0.0,-8,121.7
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0,0,0.0,,46,0.0,-8,121.7
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,1,1,1.0,,46,0.0,-8,121.7
+16,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Restricted Area,1,2,0.5,,46,0.0,-8,121.7
+17,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,In The Paint (Non-RA),1,1,1.0,,46,0.0,-8,121.7
+18,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Mid-Range,0,2,0.0,,46,0.0,-8,121.7
+19,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Left Corner 3,0,0,0.0,,46,0.0,-8,121.7
+20,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Right Corner 3,0,0,0.0,,46,0.0,-8,121.7
+21,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Above the Break 3,4,9,0.444,,46,0.0,-8,121.7
+22,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Backcourt,0,0,0.0,,46,0.0,-8,121.7
+23,201571,D.J. Augustin,D.J.,1610612745,HOU,33.0,Corner 3,0,0,0.0,,46,0.0,-8,121.7
+24,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Restricted Area,1,1,1.0,,46,0.0,-8,121.7
+25,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,In The Paint (Non-RA),1,1,1.0,,46,0.0,-8,121.7
+26,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Mid-Range,1,1,1.0,,46,0.0,-8,121.7
+27,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Left Corner 3,1,1,1.0,,46,0.0,-8,121.7
+28,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Right Corner 3,1,1,1.0,,46,0.0,-8,121.7
+29,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Above the Break 3,0,1,0.0,,46,0.0,-8,121.7
+30,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Backcourt,0,0,0.0,,46,0.0,-8,121.7
+31,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Corner 3,2,2,1.0,,46,0.0,-8,121.7
+32,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Restricted Area,1,1,1.0,,46,0.0,-8,121.7
+33,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,In The Paint (Non-RA),0,1,0.0,,46,0.0,-8,121.7
+34,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Mid-Range,0,0,0.0,,46,0.0,-8,121.7
+35,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Left Corner 3,0,0,0.0,,46,0.0,-8,121.7
+36,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Right Corner 3,0,0,0.0,,46,0.0,-8,121.7
+37,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Above the Break 3,1,5,0.2,,46,0.0,-8,121.7
+38,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Backcourt,0,0,0.0,,46,0.0,-8,121.7
+39,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Corner 3,0,0,0.0,,46,0.0,-8,121.7
+40,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,5,6,0.833,,46,0.0,-8,121.7
+41,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),1,5,0.2,,46,0.0,-8,121.7
+42,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,0,0,0.0,,46,0.0,-8,121.7
+43,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,46,0.0,-8,121.7
+44,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,46,0.0,-8,121.7
+45,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,1,4,0.25,,46,0.0,-8,121.7
+46,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0,0,0.0,,46,0.0,-8,121.7
+47,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,0,0,0.0,,46,0.0,-8,121.7
+48,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,4,11,0.364,,46,0.0,-8,121.7
+49,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),0,0,0.0,,46,0.0,-8,121.7
+50,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,46,0.0,-8,121.7
+51,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,1,1,1.0,,46,0.0,-8,121.7
+52,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,1,1,1.0,,46,0.0,-8,121.7
+53,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,4,8,0.5,,46,0.0,-8,121.7
+54,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0,0,0.0,,46,0.0,-8,121.7
+55,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,2,2,1.0,,46,0.0,-8,121.7
+56,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Restricted Area,2,2,1.0,,46,0.0,-8,121.7
+57,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,In The Paint (Non-RA),1,1,1.0,,46,0.0,-8,121.7
+58,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Mid-Range,1,1,1.0,,46,0.0,-8,121.7
+59,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,46,0.0,-8,121.7
+60,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,46,0.0,-8,121.7
+61,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Above the Break 3,2,3,0.667,,46,0.0,-8,121.7
+62,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Backcourt,0,0,0.0,,46,0.0,-8,121.7
+63,1629017,Khyri Thomas,Khyri,1610612745,HOU,25.0,Corner 3,0,0,0.0,,46,0.0,-8,121.7
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,3,6,0.5,,47,0.0,-20,116.5
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,47,0.0,-20,116.5
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,47,0.0,-20,116.5
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,1,1,1.0,,47,0.0,-20,116.5
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,1,2,0.5,,47,0.0,-20,116.5
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,2,6,0.333,,47,0.0,-20,116.5
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,0,0,0.0,,47,0.0,-20,116.5
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,2,3,0.667,,47,0.0,-20,116.5
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,0,0,0.0,,47,0.0,-20,116.5
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),1,1,1.0,,47,0.0,-20,116.5
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0,1,0.0,,47,0.0,-20,116.5
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,47,0.0,-20,116.5
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,1,2,0.5,,47,0.0,-20,116.5
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,5,12,0.417,,47,0.0,-20,116.5
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0,0,0.0,,47,0.0,-20,116.5
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,1,2,0.5,,47,0.0,-20,116.5
+16,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Restricted Area,1,3,0.333,,47,0.0,-20,116.5
+17,202340,Avery Bradley,Avery,1610612745,HOU,30.0,In The Paint (Non-RA),0,0,0.0,,47,0.0,-20,116.5
+18,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Mid-Range,0,0,0.0,,47,0.0,-20,116.5
+19,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,47,0.0,-20,116.5
+20,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,47,0.0,-20,116.5
+21,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Above the Break 3,0,3,0.0,,47,0.0,-20,116.5
+22,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Backcourt,0,0,0.0,,47,0.0,-20,116.5
+23,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Corner 3,0,0,0.0,,47,0.0,-20,116.5
+24,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Restricted Area,2,6,0.333,,47,0.0,-20,116.5
+25,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,In The Paint (Non-RA),0,0,0.0,,47,0.0,-20,116.5
+26,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Mid-Range,0,0,0.0,,47,0.0,-20,116.5
+27,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Left Corner 3,0,1,0.0,,47,0.0,-20,116.5
+28,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Right Corner 3,0,0,0.0,,47,0.0,-20,116.5
+29,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Above the Break 3,0,3,0.0,,47,0.0,-20,116.5
+30,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Backcourt,0,0,0.0,,47,0.0,-20,116.5
+31,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Corner 3,0,1,0.0,,47,0.0,-20,116.5
+32,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,5,7,0.714,,47,0.0,-20,116.5
+33,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),0,2,0.0,,47,0.0,-20,116.5
+34,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,1,1,1.0,,47,0.0,-20,116.5
+35,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,47,0.0,-20,116.5
+36,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,1,1,1.0,,47,0.0,-20,116.5
+37,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,2,5,0.4,,47,0.0,-20,116.5
+38,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0,0,0.0,,47,0.0,-20,116.5
+39,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,1,1,1.0,,47,0.0,-20,116.5
+40,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,6,8,0.75,,47,0.0,-20,116.5
+41,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),2,5,0.4,,47,0.0,-20,116.5
+42,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,47,0.0,-20,116.5
+43,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,0,1,0.0,,47,0.0,-20,116.5
+44,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0,0,0.0,,47,0.0,-20,116.5
+45,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,2,3,0.667,,47,0.0,-20,116.5
+46,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0,0,0.0,,47,0.0,-20,116.5
+47,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,0,1,0.0,,47,0.0,-20,116.5
+48,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Restricted Area,4,6,0.667,,47,0.0,-20,116.5
+49,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,In The Paint (Non-RA),0,0,0.0,,47,0.0,-20,116.5
+50,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Mid-Range,0,2,0.0,,47,0.0,-20,116.5
+51,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Left Corner 3,0,0,0.0,,47,0.0,-20,116.5
+52,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Right Corner 3,0,0,0.0,,47,0.0,-20,116.5
+53,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Above the Break 3,2,5,0.4,,47,0.0,-20,116.5
+54,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Backcourt,0,0,0.0,,47,0.0,-20,116.5
+55,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Corner 3,0,0,0.0,,47,0.0,-20,116.5
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,1,2,0.5,,48,0.0,-25,100.6
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,48,0.0,-25,100.6
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,48,0.0,-25,100.6
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,48,0.0,-25,100.6
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,48,0.0,-25,100.6
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,1,1,1.0,,48,0.0,-25,100.6
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,0,0,0.0,,48,0.0,-25,100.6
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,0,1,0.0,,48,0.0,-25,100.6
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,0,0,0.0,,48,0.0,-25,100.6
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,48,0.0,-25,100.6
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,48,0.0,-25,100.6
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,0,1,0.0,,48,0.0,-25,100.6
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,48,0.0,-25,100.6
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,1,5,0.2,,48,0.0,-25,100.6
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0,0,0.0,,48,0.0,-25,100.6
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,0,2,0.0,,48,0.0,-25,100.6
+16,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Restricted Area,2,2,1.0,,48,0.0,-25,100.6
+17,202340,Avery Bradley,Avery,1610612745,HOU,30.0,In The Paint (Non-RA),0,0,0.0,,48,0.0,-25,100.6
+18,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Mid-Range,0,1,0.0,,48,0.0,-25,100.6
+19,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Left Corner 3,0,1,0.0,,48,0.0,-25,100.6
+20,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Right Corner 3,1,1,1.0,,48,0.0,-25,100.6
+21,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Above the Break 3,0,0,0.0,,48,0.0,-25,100.6
+22,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Backcourt,0,0,0.0,,48,0.0,-25,100.6
+23,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Corner 3,1,2,0.5,,48,0.0,-25,100.6
+24,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Restricted Area,6,6,1.0,,48,0.0,-25,100.6
+25,1626174,Christian Wood,Christian,1610612745,HOU,25.0,In The Paint (Non-RA),0,3,0.0,,48,0.0,-25,100.6
+26,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Mid-Range,0,0,0.0,,48,0.0,-25,100.6
+27,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,48,0.0,-25,100.6
+28,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,48,0.0,-25,100.6
+29,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Above the Break 3,0,5,0.0,,48,0.0,-25,100.6
+30,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Backcourt,0,0,0.0,,48,0.0,-25,100.6
+31,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Corner 3,0,0,0.0,,48,0.0,-25,100.6
+32,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Restricted Area,0,0,0.0,,48,0.0,-25,100.6
+33,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,In The Paint (Non-RA),0,0,0.0,,48,0.0,-25,100.6
+34,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Mid-Range,0,0,0.0,,48,0.0,-25,100.6
+35,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Left Corner 3,1,3,0.333,,48,0.0,-25,100.6
+36,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Right Corner 3,0,0,0.0,,48,0.0,-25,100.6
+37,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Above the Break 3,2,3,0.667,,48,0.0,-25,100.6
+38,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Backcourt,0,0,0.0,,48,0.0,-25,100.6
+39,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Corner 3,1,3,0.333,,48,0.0,-25,100.6
+40,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Restricted Area,2,3,0.667,,48,0.0,-25,100.6
+41,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,In The Paint (Non-RA),1,5,0.2,,48,0.0,-25,100.6
+42,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Mid-Range,0,0,0.0,,48,0.0,-25,100.6
+43,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,48,0.0,-25,100.6
+44,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Right Corner 3,0,1,0.0,,48,0.0,-25,100.6
+45,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Above the Break 3,0,2,0.0,,48,0.0,-25,100.6
+46,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Backcourt,0,0,0.0,,48,0.0,-25,100.6
+47,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Corner 3,0,1,0.0,,48,0.0,-25,100.6
+48,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,4,5,0.8,,48,0.0,-25,100.6
+49,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),0,0,0.0,,48,0.0,-25,100.6
+50,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,0,1,0.0,,48,0.0,-25,100.6
+51,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,48,0.0,-25,100.6
+52,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,48,0.0,-25,100.6
+53,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,1,4,0.25,,48,0.0,-25,100.6
+54,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0,0,0.0,,48,0.0,-25,100.6
+55,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,0,0,0.0,,48,0.0,-25,100.6
+56,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,4,7,0.571,,48,0.0,-25,100.6
+57,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),0,0,0.0,,48,0.0,-25,100.6
+58,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,48,0.0,-25,100.6
+59,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,0,0,0.0,,48,0.0,-25,100.6
+60,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0,0,0.0,,48,0.0,-25,100.6
+61,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,1,2,0.5,,48,0.0,-25,100.6
+62,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0,0,0.0,,48,0.0,-25,100.6
+63,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,0,0,0.0,,48,0.0,-25,100.6
+64,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Restricted Area,5,7,0.714,,48,0.0,-25,100.6
+65,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,In The Paint (Non-RA),1,2,0.5,,48,0.0,-25,100.6
+66,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Mid-Range,0,0,0.0,,48,0.0,-25,100.6
+67,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Left Corner 3,0,0,0.0,,48,0.0,-25,100.6
+68,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Right Corner 3,0,1,0.0,,48,0.0,-25,100.6
+69,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Above the Break 3,0,3,0.0,,48,0.0,-25,100.6
+70,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Backcourt,0,0,0.0,,48,0.0,-25,100.6
+71,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Corner 3,0,1,0.0,,48,0.0,-25,100.6
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,0,0,0.0,,49,0.0,-26,82.5
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,49,0.0,-26,82.5
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,49,0.0,-26,82.5
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,49,0.0,-26,82.5
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,49,0.0,-26,82.5
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,0,0,0.0,,49,0.0,-26,82.5
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,0,0,0.0,,49,0.0,-26,82.5
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,0,1,0.0,,49,0.0,-26,82.5
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,0,2,0.0,,49,0.0,-26,82.5
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),0,1,0.0,,49,0.0,-26,82.5
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,49,0.0,-26,82.5
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,1,2,0.5,,49,0.0,-26,82.5
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,49,0.0,-26,82.5
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,2,7,0.286,,49,0.0,-26,82.5
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0,0,0.0,,49,0.0,-26,82.5
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,1,3,0.333,,49,0.0,-26,82.5
+16,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Restricted Area,2,2,1.0,,49,0.0,-26,82.5
+17,1626174,Christian Wood,Christian,1610612745,HOU,25.0,In The Paint (Non-RA),0,4,0.0,,49,0.0,-26,82.5
+18,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Mid-Range,0,1,0.0,,49,0.0,-26,82.5
+19,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,49,0.0,-26,82.5
+20,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,49,0.0,-26,82.5
+21,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Above the Break 3,2,8,0.25,,49,0.0,-26,82.5
+22,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Backcourt,0,0,0.0,,49,0.0,-26,82.5
+23,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Corner 3,0,0,0.0,,49,0.0,-26,82.5
+24,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Restricted Area,1,1,1.0,,49,0.0,-26,82.5
+25,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,In The Paint (Non-RA),1,3,0.333,,49,0.0,-26,82.5
+26,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Mid-Range,0,0,0.0,,49,0.0,-26,82.5
+27,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,49,0.0,-26,82.5
+28,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,49,0.0,-26,82.5
+29,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Above the Break 3,0,3,0.0,,49,0.0,-26,82.5
+30,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Backcourt,0,0,0.0,,49,0.0,-26,82.5
+31,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Corner 3,0,0,0.0,,49,0.0,-26,82.5
+32,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Restricted Area,2,2,1.0,,49,0.0,-26,82.5
+33,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,In The Paint (Non-RA),0,0,0.0,,49,0.0,-26,82.5
+34,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Mid-Range,0,1,0.0,,49,0.0,-26,82.5
+35,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Left Corner 3,1,2,0.5,,49,0.0,-26,82.5
+36,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Right Corner 3,0,0,0.0,,49,0.0,-26,82.5
+37,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Above the Break 3,0,1,0.0,,49,0.0,-26,82.5
+38,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Backcourt,0,0,0.0,,49,0.0,-26,82.5
+39,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Corner 3,1,2,0.5,,49,0.0,-26,82.5
+40,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Restricted Area,3,6,0.5,,49,0.0,-26,82.5
+41,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,In The Paint (Non-RA),1,1,1.0,,49,0.0,-26,82.5
+42,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Mid-Range,0,0,0.0,,49,0.0,-26,82.5
+43,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,49,0.0,-26,82.5
+44,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,49,0.0,-26,82.5
+45,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Above the Break 3,1,3,0.333,,49,0.0,-26,82.5
+46,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Backcourt,0,0,0.0,,49,0.0,-26,82.5
+47,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Corner 3,0,0,0.0,,49,0.0,-26,82.5
+48,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,1,1,1.0,,49,0.0,-26,82.5
+49,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),2,4,0.5,,49,0.0,-26,82.5
+50,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,0,1,0.0,,49,0.0,-26,82.5
+51,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,49,0.0,-26,82.5
+52,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,49,0.0,-26,82.5
+53,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,0,3,0.0,,49,0.0,-26,82.5
+54,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0,0,0.0,,49,0.0,-26,82.5
+55,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,0,0,0.0,,49,0.0,-26,82.5
+56,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,3,3,1.0,,49,0.0,-26,82.5
+57,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),3,4,0.75,,49,0.0,-26,82.5
+58,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,49,0.0,-26,82.5
+59,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,0,0,0.0,,49,0.0,-26,82.5
+60,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0,1,0.0,,49,0.0,-26,82.5
+61,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,0,2,0.0,,49,0.0,-26,82.5
+62,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0,0,0.0,,49,0.0,-26,82.5
+63,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,0,1,0.0,,49,0.0,-26,82.5
+64,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Restricted Area,2,3,0.667,,49,0.0,-26,82.5
+65,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,In The Paint (Non-RA),1,4,0.25,,49,0.0,-26,82.5
+66,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Mid-Range,1,3,0.333,,49,0.0,-26,82.5
+67,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Left Corner 3,0,0,0.0,,49,0.0,-26,82.5
+68,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Right Corner 3,1,2,0.5,,49,0.0,-26,82.5
+69,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Above the Break 3,1,6,0.167,,49,0.0,-26,82.5
+70,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Backcourt,0,0,0.0,,49,0.0,-26,82.5
+71,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Corner 3,1,2,0.5,,49,0.0,-26,82.5
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,0.0,0.0,0.0,,50,1.0,7,132.5
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,50,1.0,7,132.5
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,50,1.0,7,132.5
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,0.0,1.0,0.0,,50,1.0,7,132.5
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,50,1.0,7,132.5
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,0.0,1.0,0.0,,50,1.0,7,132.5
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,50,1.0,7,132.5
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0.0,0.0,0.0,,50,1.0,7,132.5
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,1.0,1.0,1.0,,50,1.0,7,132.5
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,1.0,3.0,0.333,,50,1.0,7,132.5
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0.0,0.0,0.0,,50,1.0,7,132.5
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,1.0,1.0,1.0,,50,1.0,7,132.5
+16,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Restricted Area,1.0,4.0,0.25,,50,1.0,7,132.5
+17,1626174,Christian Wood,Christian,1610612745,HOU,25.0,In The Paint (Non-RA),2.0,6.0,0.333,,50,1.0,7,132.5
+18,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Mid-Range,1.0,1.0,1.0,,50,1.0,7,132.5
+19,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Left Corner 3,0.0,1.0,0.0,,50,1.0,7,132.5
+20,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Right Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+21,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Above the Break 3,6.0,9.0,0.667,,50,1.0,7,132.5
+22,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,50,1.0,7,132.5
+23,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Corner 3,0.0,1.0,0.0,,50,1.0,7,132.5
+24,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Restricted Area,2.0,5.0,0.4,,50,1.0,7,132.5
+25,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,0.0,0.0,,50,1.0,7,132.5
+26,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Mid-Range,0.0,1.0,0.0,,50,1.0,7,132.5
+27,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Left Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+28,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Right Corner 3,0.0,1.0,0.0,,50,1.0,7,132.5
+29,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Above the Break 3,3.0,4.0,0.75,,50,1.0,7,132.5
+30,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,50,1.0,7,132.5
+31,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Corner 3,0.0,1.0,0.0,,50,1.0,7,132.5
+32,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Restricted Area,0.0,0.0,0.0,,50,1.0,7,132.5
+33,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,In The Paint (Non-RA),0.0,0.0,0.0,,50,1.0,7,132.5
+34,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Mid-Range,0.0,0.0,0.0,,50,1.0,7,132.5
+35,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Left Corner 3,0.0,1.0,0.0,,50,1.0,7,132.5
+36,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Right Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+37,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Above the Break 3,0.0,0.0,0.0,,50,1.0,7,132.5
+38,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Backcourt,,,,,50,1.0,7,132.5
+39,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Corner 3,0.0,1.0,0.0,,50,1.0,7,132.5
+40,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Restricted Area,3.0,7.0,0.429,,50,1.0,7,132.5
+41,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,In The Paint (Non-RA),0.0,1.0,0.0,,50,1.0,7,132.5
+42,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Mid-Range,0.0,0.0,0.0,,50,1.0,7,132.5
+43,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Left Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+44,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Right Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+45,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Above the Break 3,2.0,3.0,0.667,,50,1.0,7,132.5
+46,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Backcourt,0.0,0.0,0.0,,50,1.0,7,132.5
+47,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+48,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,5.0,9.0,0.556,,50,1.0,7,132.5
+49,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),1.0,2.0,0.5,,50,1.0,7,132.5
+50,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,0.0,1.0,0.0,,50,1.0,7,132.5
+51,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+52,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,1.0,1.0,1.0,,50,1.0,7,132.5
+53,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,2.0,4.0,0.5,,50,1.0,7,132.5
+54,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0.0,0.0,0.0,,50,1.0,7,132.5
+55,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,1.0,1.0,1.0,,50,1.0,7,132.5
+56,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,2.0,2.0,1.0,,50,1.0,7,132.5
+57,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),0.0,1.0,0.0,,50,1.0,7,132.5
+58,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0.0,0.0,0.0,,50,1.0,7,132.5
+59,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+60,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0.0,1.0,0.0,,50,1.0,7,132.5
+61,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,0.0,1.0,0.0,,50,1.0,7,132.5
+62,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0.0,0.0,0.0,,50,1.0,7,132.5
+63,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,0.0,1.0,0.0,,50,1.0,7,132.5
+64,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Restricted Area,3.0,4.0,0.75,,50,1.0,7,132.5
+65,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,In The Paint (Non-RA),2.0,3.0,0.667,,50,1.0,7,132.5
+66,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Mid-Range,2.0,4.0,0.5,,50,1.0,7,132.5
+67,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Left Corner 3,0.0,0.0,0.0,,50,1.0,7,132.5
+68,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Right Corner 3,1.0,2.0,0.5,,50,1.0,7,132.5
+69,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Above the Break 3,8.0,13.0,0.615,,50,1.0,7,132.5
+70,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Backcourt,0.0,0.0,0.0,,50,1.0,7,132.5
+71,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Corner 3,1.0,2.0,0.5,,50,1.0,7,132.5
+0,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,0,0,0.0,,59,0.0,-7,103.1
+1,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,59,0.0,-7,103.1
+2,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0,1,0.0,,59,0.0,-7,103.1
+3,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,0,1,0.0,,59,0.0,-7,103.1
+4,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,0,0,0.0,,59,0.0,-7,103.1
+5,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,0,0,0.0,,59,0.0,-7,103.1
+6,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0,0,0.0,,59,0.0,-7,103.1
+7,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,0,1,0.0,,59,0.0,-7,103.1
+8,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Restricted Area,0,0,0.0,,59,0.0,-7,103.1
+9,202340,Avery Bradley,Avery,1610612745,HOU,30.0,In The Paint (Non-RA),0,0,0.0,,59,0.0,-7,103.1
+10,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Mid-Range,0,1,0.0,,59,0.0,-7,103.1
+11,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,59,0.0,-7,103.1
+12,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,59,0.0,-7,103.1
+13,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Above the Break 3,1,5,0.2,,59,0.0,-7,103.1
+14,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Backcourt,0,0,0.0,,59,0.0,-7,103.1
+15,202340,Avery Bradley,Avery,1610612745,HOU,30.0,Corner 3,0,0,0.0,,59,0.0,-7,103.1
+16,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Restricted Area,4,7,0.571,,59,0.0,-7,103.1
+17,1626174,Christian Wood,Christian,1610612745,HOU,25.0,In The Paint (Non-RA),1,1,1.0,,59,0.0,-7,103.1
+18,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Mid-Range,2,3,0.667,,59,0.0,-7,103.1
+19,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Left Corner 3,0,0,0.0,,59,0.0,-7,103.1
+20,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Right Corner 3,0,1,0.0,,59,0.0,-7,103.1
+21,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Above the Break 3,2,4,0.5,,59,0.0,-7,103.1
+22,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Backcourt,0,0,0.0,,59,0.0,-7,103.1
+23,1626174,Christian Wood,Christian,1610612745,HOU,25.0,Corner 3,0,1,0.0,,59,0.0,-7,103.1
+24,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Restricted Area,0,1,0.0,,59,0.0,-7,103.1
+25,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,In The Paint (Non-RA),1,1,1.0,,59,0.0,-7,103.1
+26,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Mid-Range,0,1,0.0,,59,0.0,-7,103.1
+27,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Left Corner 3,1,2,0.5,,59,0.0,-7,103.1
+28,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Right Corner 3,0,1,0.0,,59,0.0,-7,103.1
+29,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Above the Break 3,0,0,0.0,,59,0.0,-7,103.1
+30,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Backcourt,0,0,0.0,,59,0.0,-7,103.1
+31,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Corner 3,1,3,0.333,,59,0.0,-7,103.1
+32,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Restricted Area,0,0,0.0,,59,0.0,-7,103.1
+33,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,In The Paint (Non-RA),0,0,0.0,,59,0.0,-7,103.1
+34,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Mid-Range,1,1,1.0,,59,0.0,-7,103.1
+35,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Left Corner 3,0,1,0.0,,59,0.0,-7,103.1
+36,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Right Corner 3,0,0,0.0,,59,0.0,-7,103.1
+37,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Above the Break 3,0,1,0.0,,59,0.0,-7,103.1
+38,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Backcourt,0,0,0.0,,59,0.0,-7,103.1
+39,1627863,Danuel House Jr.,Danuel,1610612745,HOU,28.0,Corner 3,0,1,0.0,,59,0.0,-7,103.1
+40,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Restricted Area,8,10,0.8,,59,0.0,-7,103.1
+41,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,In The Paint (Non-RA),0,1,0.0,,59,0.0,-7,103.1
+42,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Mid-Range,0,0,0.0,,59,0.0,-7,103.1
+43,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Left Corner 3,1,1,1.0,,59,0.0,-7,103.1
+44,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,59,0.0,-7,103.1
+45,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Above the Break 3,0,0,0.0,,59,0.0,-7,103.1
+46,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Backcourt,0,0,0.0,,59,0.0,-7,103.1
+47,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Corner 3,1,1,1.0,,59,0.0,-7,103.1
+48,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,11,12,0.917,,59,0.0,-7,103.1
+49,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),1,1,1.0,,59,0.0,-7,103.1
+50,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,0,0,0.0,,59,0.0,-7,103.1
+51,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,59,0.0,-7,103.1
+52,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,59,0.0,-7,103.1
+53,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,0,4,0.0,,59,0.0,-7,103.1
+54,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0,0,0.0,,59,0.0,-7,103.1
+55,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,0,0,0.0,,59,0.0,-7,103.1
+56,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,6,8,0.75,,59,0.0,-7,103.1
+57,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),0,2,0.0,,59,0.0,-7,103.1
+58,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,59,0.0,-7,103.1
+59,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,0,1,0.0,,59,0.0,-7,103.1
+60,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0,1,0.0,,59,0.0,-7,103.1
+61,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,0,0,0.0,,59,0.0,-7,103.1
+62,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0,0,0.0,,59,0.0,-7,103.1
+63,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,0,2,0.0,,59,0.0,-7,103.1
+64,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Restricted Area,0,2,0.0,,59,0.0,-7,103.1
+65,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,In The Paint (Non-RA),0,2,0.0,,59,0.0,-7,103.1
+66,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Mid-Range,0,0,0.0,,59,0.0,-7,103.1
+67,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Left Corner 3,0,0,0.0,,59,0.0,-7,103.1
+68,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Right Corner 3,0,2,0.0,,59,0.0,-7,103.1
+69,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Above the Break 3,2,6,0.333,,59,0.0,-7,103.1
+70,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Backcourt,0,0,0.0,,59,0.0,-7,103.1
+71,1629645,Kevin Porter Jr.,Kevin,1610612745,HOU,21.0,Corner 3,0,2,0.0,,59,0.0,-7,103.1
+0,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Restricted Area,3,3,1.0,,60,0.0,-13,113.2
+1,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,In The Paint (Non-RA),1,2,0.5,,60,0.0,-13,113.2
+2,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,60,0.0,-13,113.2
+3,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Left Corner 3,0,0,0.0,,60,0.0,-13,113.2
+4,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Right Corner 3,1,1,1.0,,60,0.0,-13,113.2
+5,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Above the Break 3,3,8,0.375,,60,0.0,-13,113.2
+6,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Backcourt,0,0,0.0,,60,0.0,-13,113.2
+7,1630237,Anthony Lamb,Anthony,1610612745,HOU,23.0,Corner 3,1,1,1.0,,60,0.0,-13,113.2
+8,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Restricted Area,1,1,1.0,,60,0.0,-13,113.2
+9,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,In The Paint (Non-RA),0,0,0.0,,60,0.0,-13,113.2
+10,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Mid-Range,0,0,0.0,,60,0.0,-13,113.2
+11,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Left Corner 3,2,3,0.667,,60,0.0,-13,113.2
+12,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Right Corner 3,0,1,0.0,,60,0.0,-13,113.2
+13,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Above the Break 3,1,7,0.143,,60,0.0,-13,113.2
+14,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Backcourt,0,0,0.0,,60,0.0,-13,113.2
+15,1629717,Armoni Brooks,Armoni,1610612745,HOU,23.0,Corner 3,2,4,0.5,,60,0.0,-13,113.2
+16,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Restricted Area,4,6,0.667,,60,0.0,-13,113.2
+17,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,In The Paint (Non-RA),1,2,0.5,,60,0.0,-13,113.2
+18,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Mid-Range,2,2,1.0,,60,0.0,-13,113.2
+19,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Left Corner 3,1,1,1.0,,60,0.0,-13,113.2
+20,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Right Corner 3,0,1,0.0,,60,0.0,-13,113.2
+21,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Above the Break 3,2,5,0.4,,60,0.0,-13,113.2
+22,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Backcourt,0,0,0.0,,60,0.0,-13,113.2
+23,1628391,D.J. Wilson,D.J.,1610612745,HOU,25.0,Corner 3,1,2,0.5,,60,0.0,-13,113.2
+24,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Restricted Area,1,1,1.0,,60,0.0,-13,113.2
+25,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,In The Paint (Non-RA),0,1,0.0,,60,0.0,-13,113.2
+26,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Mid-Range,0,1,0.0,,60,0.0,-13,113.2
+27,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Left Corner 3,0,1,0.0,,60,0.0,-13,113.2
+28,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Right Corner 3,0,0,0.0,,60,0.0,-13,113.2
+29,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Above the Break 3,1,2,0.5,,60,0.0,-13,113.2
+30,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Backcourt,0,0,0.0,,60,0.0,-13,113.2
+31,1629610,DaQuan Jeffries,DaQuan,1610612759,SAS,23.0,Corner 3,0,1,0.0,,60,0.0,-13,113.2
+32,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Restricted Area,5,7,0.714,,60,0.0,-13,113.2
+33,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,In The Paint (Non-RA),0,1,0.0,,60,0.0,-13,113.2
+34,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Mid-Range,0,0,0.0,,60,0.0,-13,113.2
+35,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Left Corner 3,1,1,1.0,,60,0.0,-13,113.2
+36,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Right Corner 3,0,0,0.0,,60,0.0,-13,113.2
+37,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Above the Break 3,0,1,0.0,,60,0.0,-13,113.2
+38,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Backcourt,0,0,0.0,,60,0.0,-13,113.2
+39,1630256,Jae'Sean Tate,Jae'Sean,1610612745,HOU,25.0,Corner 3,1,1,1.0,,60,0.0,-13,113.2
+40,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Restricted Area,1,3,0.333,,60,0.0,-13,113.2
+41,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,In The Paint (Non-RA),0,1,0.0,,60,0.0,-13,113.2
+42,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Mid-Range,1,1,1.0,,60,0.0,-13,113.2
+43,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Left Corner 3,0,0,0.0,,60,0.0,-13,113.2
+44,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Right Corner 3,0,0,0.0,,60,0.0,-13,113.2
+45,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Above the Break 3,2,6,0.333,,60,0.0,-13,113.2
+46,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Backcourt,0,0,0.0,,60,0.0,-13,113.2
+47,203482,Kelly Olynyk,Kelly,1610612745,HOU,30.0,Corner 3,0,0,0.0,,60,0.0,-13,113.2
+48,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Restricted Area,6,7,0.857,,60,0.0,-13,113.2
+49,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,In The Paint (Non-RA),0,3,0.0,,60,0.0,-13,113.2
+50,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Mid-Range,0,0,0.0,,60,0.0,-13,113.2
+51,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Left Corner 3,0,0,0.0,,60,0.0,-13,113.2
+52,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Right Corner 3,0,0,0.0,,60,0.0,-13,113.2
+53,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Above the Break 3,1,2,0.5,,60,0.0,-13,113.2
+54,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Backcourt,0,0,0.0,,60,0.0,-13,113.2
+55,1630231,Kenyon Martin Jr.,Kenyon,1610612745,HOU,20.0,Corner 3,0,0,0.0,,60,0.0,-13,113.2
