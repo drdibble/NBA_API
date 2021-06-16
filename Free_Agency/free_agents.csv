@@ -1,0 +1,115 @@
+Player,Name,Position,Age,Height,Weight,FGM,FGA,FG Percentage,Type,Previous Salary
+<img src='dgreen.png' height='80'></img>,Danny Green,G,33,"6'6""",215,9,23,39.10%,Unrestricted,15000000
+<img src='bullock.png' height='80'></img>,Reggie Bullock,G-F,30,"6'7""",205,8,14,57.10%,Unrestricted,4100000
+<img src='niang.png' height='80'></img>,Georges Niang,F,27,"6'7""",230,8,18,44.40%,Unrestricted,1650000
+<img src='mclemore.png' height='80'></img>,Ben McLemore,G,28,"6'3""",195,6,9,66.70%,Unrestricted,610000
+<img src='robinson.png' height='80'></img>,Duncan Robinson,F,27,"6'7""",215,6,14,42.90%,Restricted,1030000
+<img src='powell.png' height='80'></img>,Norman Powell,G,28,"6'3""",215,6,8,75.00%,Player Option,10500000
+<img src='temple.png' height='80'></img>,Garrett Temple,G-F,35,"6'5""",195,6,8,75.00%,Unrestricted,4767000
+<img src='bazemore.png' height='80'></img>,Kent Bazemore,G-F,31,"6'4""",195,5,13,38.50%,Unrestricted,2320000
+<img src='korkmaz.png' height='80'></img>,Furkan Korkmaz,G-F,23,"6'7""",202,5,11,45.50%,Unrestricted,1700000
+<img src='collins.png' height='80'></img>,John Collins,F-C,23,"6'9""",235,5,9,55.60%,Restricted,2764000
+<img src='davis.png' height='80'></img>,Terence Davis,G,24,"6'4""",201,5,8,62.50%,Restricted,1208000
+<img src='green.png' height='80'></img>,Jeff Green,F,34,"6'8""",235,5,10,50.00%,Unrestricted,2564753
+<img src='jackson.png' height='80'></img>,Frank Jackson,G,23,"6'3""",205,4,4,100.00%,Restricted,1900000
+<img src='hardaway.png' height='80'></img>,Tim Hardaway Jr.,G-F,29,"6'5""",205,4,7,57.10%,Unrestricted,17737500
+<img src='fournier.png' height='80'></img>,Evan Fournier,G-F,28,"6'7""",205,4,4,100.00%,Unrestricted,17000000
+<img src='markkanen.png' height='80'></img>,Lauri Markkanen,F-C,24,"7'0""",240,4,5,80.00%,Restricted,5097417
+<img src='burks.png' height='80'></img>,Alec Burks,G,29,"6'6""",214,4,4,100.00%,Unrestricted,6000000
+<img src='craig.png' height='80'></img>,Torrey Craig,F,30,"6'7""",221,3,10,30.00%,Unrestricted,1678854
+<img src='snell.png' height='80'></img>,Tony Snell,G,29,"6'6""",213,3,3,100.00%,Unrestricted,11500000
+<img src='mcdermott.png' height='80'></img>,Doug McDermott,F,29,"6'7""",225,3,7,42.90%,Unrestricted,7333333
+<img src='batum.png' height='80'></img>,Nicolas Batum,G-F,32,"6'8""",230,3,6,50.00%,Unrestricted,2564753
+<img src='johnson.png' height='80'></img>,Tyler Johnson,G,29,"6'3""",186,3,5,60.00%,Unrestricted,2028594
+<img src='svi.png' height='80'></img>,Svi Mykhailiuk,G-F,24,"6'7""",205,3,7,42.90%,Restricted,1522802
+<img src='brooks.png' height='80'></img>,Armoni Brooks,G,23,"6'3""",195,3,8,37.50%,Restricted,898310
+<img src='graham.png' height='80'></img>,Devonte' Graham,G,26,"6'1""",195,2,5,40.00%,Restricted,1356392
+<img src='bey.png' height='80'></img>,Saddiq Bey,F,22,"6'7""",215,2,9,22.20%,Restricted,2689920
+<img src='valentine.png' height='80'></img>,Denzel Valentine,G,27,"6'4""",220,2,4,50.00%,Unrestricted,4642800
+<img src='patterson.png' height='80'></img>,Patrick Patterson,F,32,"6'8""",235,2,8,25.00%,Unrestricted,3077704
+<img src='dragic.png' height='80'></img>,Goran Dragic,G,35,"6'3""",190,2,5,40.00%,Team Option,18000000
+<img src='tucker.jpg' height='80'></img>,P.J. Tucker,F,36,"6'5""",245,2,9,22.20%,Unrestricted,7969537
+<img src='rjackson.png' height='80'></img>,Reggie Jackson,G,31,"6'2""",208,2,10,20.00%,Unrestricted,2331593
+<img src='matthews.png' height='80'></img>,Garrison Mathews,G,24,"6'4""",220,2,3,66.70%,Restricted,1489065
+<img src='richardson.png' height='80'></img>,Josh Richardson,G,27,"6'5""",200,2,2,100.00%,Player Option,10491264
+<img src='juanta.png' height='80'></img>,Juan Toscano-Anderson,F,28,"6'6""",209,2,5,40.00%,Restricted,1029944
+<img src='anthony.png' height='80'></img>,Carmelo Anthony,F,37,"6'7""",238,2,4,50.00%,Unrestricted,2564753
+<img src='scott.png' height='80'></img>,Mike Scott,F,32,"6'7""",238,2,4,50.00%,Unrestricted,4900000
+<img src='payne.png' height='80'></img>,Cameron Payne,G,26,"6'1""",183,2,2,100.00%,Unrestricted,1086650
+<img src='forrest.png' height='80'></img>,Trent Forrest,G,23,"6'4""",210,2,7,28.60%,Restricted,470690
+<img src='james.png' height='80'></img>,Mike James,G,30,"6'1""",175,2,3,66.70%,Unrestricted,9902
+<img src='ariza.png' height='80'></img>,Trevor Ariza,F,35,"6'8""",215,2,11,18.20%,Unrestricted,12500000
+<img src='thomas.png' height='80'></img>,Brodric Thomas,G,24,"6'5""",185,2,5,40.00%,Restricted,898310
+<img src='portis.png' height='80'></img>,Bobby Portis,F,26,"6'10""",250,2,6,33.30%,Player Option,3713575
+<img src='harkless.png' height='80'></img>,Maurice Harkless,G-F,28,"6'7""",220,2,5,40.00%,Unrestricted,3623000
+<img src='lamb.png' height='80'></img>,Anthony Lamb,F,23,"6'6""",227,2,6,33.30%,Restricted,215330
+<img src='ball.png' height='80'></img>,Lonzo Ball,G,23,"6'6""",190,2,10,20.00%,Restricted,8367906
+<img src='mcconell.png' height='80'></img>,T.J. McConnell,G,29,"6'1""",190,2,4,50.00%,Unrestricted,3500000
+<img src='nunn.png' height='80'></img>,Kendrick Nunn,G,25,"6'2""",190,2,6,33.30%,Restricted,1028483
+<img src='leonard.png' height='80'></img>,Kawhi Leonard,F,29,"6'7""",225,2,2,100.00%,Player Option,34379100
+<img src='olynyk.png' height='80'></img>,Kelly Olynyk,F-C,30,"6'11""",240,2,2,100.00%,Unrestricted,12500000
+<img src='hinton.png' height='80'></img>,Nate Hinton,G-F,22,"6'5""",210,1,1,100.00%,Restricted,449115
+<img src='galloway.png' height='80'></img>,Langston Galloway,G,29,"6'1""",200,1,1,100.00%,Unrestricted,2028594
+<img src='knight.png' height='80'></img>,Nathan Knight,F-C,23,"6'10""",253,1,3,33.30%,Restricted,449155
+<img src='guy.png' height='80'></img>,Kyle Guy,G,23,"6'1""",167,1,3,33.30%,Restricted,537888
+<img src='williams.png' height='80'></img>,Lou Williams,G,34,"6'1""",175,1,1,100.00%,Unrestricted,8000000
+<img src='strus.png' height='80'></img>,Max Strus,G-F,25,"6'5""",215,1,5,20.00%,Restricted,647098
+<img src='melli.png' height='80'></img>,Nicolo Melli,F,30,"6'9""",236,1,2,50.00%,Restricted,4000000
+<img src='jagreen.png' height='80'></img>,Javonte Green,G-F,27,"6'4""",205,1,1,100.00%,Restricted,1208146
+<img src='brantley.png' height='80'></img>,Jarrell Brantley,F,25,"6'5""",250,1,1,100.00%,Restricted,510586
+<img src='blevins.png' height='80'></img>,Keljin Blevins,G,25,"6'4""",200,1,1,100.00%,Restricted,449115
+<img src='jjohnson.png' height='80'></img>,James Johnson,F,34,"6'7""",240,1,9,11.10%,Unrestricted,14431700
+<img src='mills.png' height='80'></img>,Patty Mills,G,32,"6'1""",180,1,3,33.30%,Unrestricted,12000000
+<img src='rose.png' height='80'></img>,Derrick Rose,G,32,"6'2""",200,1,1,100.00%,Unrestricted,7500000
+<img src='harrison.png' height='80'></img>,Shaquille Harrison,G,27,"6'7""",190,1,4,25.00%,Restricted,1325531
+<img src='derozan.png' height='80'></img>,DeMar DeRozan,G-F,31,"6'6""",220,1,1,100.00%,Unrestricted,27800000
+<img src='smith.png' height='80'></img>,Ish Smith,G,32,"6'0""",175,1,3,33.30%,Unrestricted,6000000
+<img src='jefferies.png' height='80'></img>,DaQuan Jeffries,G-F,23,"6'5""",230,1,2,50.00%,Unrestricted,1445697
+<img src='luwawu-cabarrot.png' height='80'></img>,Timothe Luwawu-Cabarrot,G-F,26,"6'7""",220,1,2,50.00%,Unrestricted,1824003
+<img src='griffin.png' height='80'></img>,Blake Griffin,F,32,"6'9""",250,1,3,33.30%,Unrestricted,1229676
+<img src='bradley.png' height='80'></img>,Avery Bradley,G,30,"6'3""",180,1,1,100.00%,Team Option,5635000
+<img src='rivers.png' height='80'></img>,Austin Rivers,G,28,"6'4""",200,1,9,11.10%,Unrestricted,2271991
+<img src='coffey.png' height='80'></img>,Amir Coffey,G-F,23,"6'7""",210,1,3,33.30%,Restricted,79568
+<img src='wmatthews.png' height='80'></img>,Wesley Matthews,G,34,"6'4""",220,1,1,100.00%,Unrestricted,3623000
+<img src='gay.png' height='80'></img>,Rudy Gay,G-F,34,"6'8""",250,1,6,16.70%,Unrestricted,14000000
+<img src='sjohnson.png' height='80'></img>,Stanley Johnson,G-F,25,"6'6""",242,1,4,25.00%,Unrestricted,3713575
+<img src='howard.png' height='80'></img>,Dwight Howard,F-C,35,"6'10""",265,1,1,100.00%,Unrestricted,2564753
+<img src='payton.png' height='80'></img>,Elfrid Payton,G,27,"6'3""",195,1,2,50.00%,Unrestricted,4767000
+<img src='neto.png' height='80'></img>,Raul Neto,G,29,"6'1""",180,1,4,25.00%,Unrestricted,1882867
+<img src='trent.png' height='80'></img>,Gary Trent Jr.,G-F,22,"6'5""",209,1,3,33.30%,Unrestricted,1306392
+<img src='ntilikina.png' height='80'></img>,Frank Ntilikina,G,22,"6'4""",200,1,3,33.30%,Restricted,4672305
+<img src='conley.png' height='80'></img>,Mike Conley,G,33,"6'1""",175,0,2,0.00%,Unrestricted,30521116
+<img src='morris.png' height='80'></img>,Markieff Morris,F,31,"6'9""",245,0,2,0.00%,Unrestricted,2331593
+<img src='mannion.png' height='80'></img>,Nico Mannion,G,20,"6'2""",190,0,1,0.00%,Restricted,449115
+<img src='millsap.png' height='80'></img>,Paul Millsap,F,36,"6'7""",257,0,1,0.00%,Unrestricted,10000000
+<img src='waters.png' height='80'></img>,Tremont Waters,G,23,"5'10""",175,0,2,0.00%,Restricted,79568
+<img src='hill.png' height='80'></img>,Solomon Hill,F,30,"6'6""",226,0,5,0.00%,Unrestricted,2174318
+<img src='mays.png' height='80'></img>,Skylar Mays,G,23,"6'4""",205,0,1,0.00%,Restricted,11499
+<img src='thornwell.png' height='80'></img>,Sindarius Thornwell,G,26,"6'4""",215,0,4,0.00%,Restricted,1235889
+<img src='little.png' height='80'></img>,Nassir Little,G-F,21,"6'5""",220,0,1,0.00%,Unrestricted,2210640
+<img src='ojeleye.png' height='80'></img>,Semi Ojeleye,F,26,"6'6""",240,0,1,0.00%,Unrestricted,1429551
+<img src='antetokounmpo.png' height='80'></img>,Thanasis Antetokounmpo,F,28,"6'6""",219,0,2,0.00%,Unrestricted,1573645
+<img src='horton-tucker.png' height='80'></img>,Talen Horton-Tucker,G,20,"6'4""",234,0,2,0.00%,Restricted,1208146
+<img src='hood.png' height='80'></img>,Rodney Hood,G-F,28,"6'8""",208,0,2,0.00%,Restricted,10047450
+<img src='mclaughlin.png' height='80'></img>,Jordan McLaughlin,G,25,"5'11""",185,0,1,0.00%,Restricted,503760
+<img src='wilson.png' height='80'></img>,D.J. Wilson,F,25,"6'10""",231,0,3,0.00%,Restricted,3044680
+<img src='louzada.png' height='80'></img>,Didi Louzada,G,21,"6'5""",188,0,1,0.00%,Unrestricted,123056
+<img src='schroder.png' height='80'></img>,Dennis Schroder,G,27,"6'3""",172,0,1,0.00%,Unrestricted,17500000
+<img src='cousins.png' height='80'></img>,DeMarcus Cousins,C,30,"6'10""",170,0,1,0.00%,Unrestricted,335366
+<img src='randle.png' height='80'></img>,Chasson Randle,G,28,"6'2""",185,0,3,0.00%,Unrestricted,279927
+<img src='caruso.png' height='80'></img>,Alex Caruso,G,27,"6'4""",186,0,4,0.00%,Unrestricted,2750000
+<img src='aminu.png' height='80'></img>,Al-Farouq Aminu,F,30,"6'8""",220,0,1,0.00%,Unrestricted,9720900
+<img src='stanley.png' height='80'></img>,Cassius Stanley,G,21,"6'5""",190,0,1,0.00%,Restricted,1175000
+<img src='forbes.png' height='80'></img>,Bryn Forbes,G,27,"6'2""",205,0,3,0.00%,Player Option,2395574
+<img src='nwora.png' height='80'></img>,Jordan Nwora,F,22,"6'8""",225,0,1,0.00%,Restricted,1208146
+<img src='hall.png' height='80'></img>,Josh Hall,F,20,"6'9""",190,0,1,0.00%,Restricted,449115
+<img src='martin.png' height='80'></img>,Jeremiah Martin,G,24,"6'2""",185,0,1,0.00%,Restricted,58452
+<img src='oubrejr.png' height='80'></img>,Kelly Oubre Jr.,G-F,25,"6'7""",203,0,3,0.00%,Unrestricted,15000000
+<img src='kornet.png' height='80'></img>,Luke Kornet,F-C,25,"7'2""",250,0,1,0.00%,Unrestricted,2250000
+<img src='hoard.png' height='80'></img>,Jaylen Hoard,F,22,"6'8""",216,0,1,0.00%,Restricted,79568
+<img src='allen.png' height='80'></img>,Jarrett Allen,C,23,"6'11""",243,0,2,0.00%,Restricted,2508646
+<img src='vincent.png' height='80'></img>,Gabe Vincent,G,25,"6'3""",200,0,1,0.00%,Restricted,660750
+<img src='kaminsky.png' height='80'></img>,Frank Kaminsky,F-C,28,"7'0""",240,0,1,0.00%,Unrestricted,4767000
+<img src='giles.png' height='80'></img>,Harry Giles III,F-C,23,"6'11""",240,0,1,0.00%,Unrestricted,1678854
+<img src='bonga.png' height='80'></img>,Isaac Bonga,G,21,"6'8""",180,0,1,0.00%,Restricted,1360238
+<img src='sampson.png' height='80'></img>,JaKarr Sampson,F,28,"6'7""",214,0,2,0.00%,Unrestricted,1882867
