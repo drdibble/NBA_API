@@ -17,6 +17,7 @@ library(MLmetrics)
 library(healthcareai)
 library(plotly)
 library(shinythemes)
+library(hash)
 
 
 # read in CSV with table information
@@ -24,6 +25,8 @@ df = read.csv('official_free_agents.csv')
 df1 = read.csv('college.csv')
 df2 = read.csv('g_league.csv')
 #df$Previous.Salary <- sub("^", "", df$Previous.Salary )
+
+
 
 # #assign a class    
 # class(df$Previous.Salary) <- c("money", class(df$Previous.Salary))
@@ -56,6 +59,7 @@ ui <- dashboardPage(
   )),
   dashboardBody(
     tabItems(
+      #Presentation slides ---------------------------------------------------------------------
       tabItem(tabName = "slide1",
               fluidPage(
                 img(src = "slide1.png", height = 700, width = 1160), #1024,951
@@ -104,6 +108,7 @@ ui <- dashboardPage(
               ) #fluidPage
               
       ), #tabItem
+      #Probability Model page ---------------------------------------------------------------------
       tabItem(tabName = "model",
               fluidPage(
                 fluidRow(
@@ -180,7 +185,7 @@ ui <- dashboardPage(
       tabItem(tabName = "scouting",
               navbarPage("Players",
                          
-                         #NBA free agent page
+                         #NBA free agent page---------------------------------------------------------------------
                          tabPanel(img(src = "nba.png", height = 60, width = 30),
                                   fluidRow(
                                     h3("2021 Free Agents")
@@ -190,7 +195,7 @@ ui <- dashboardPage(
                                     
                                     #Position
                                     #Two options for multiple select: check boxes, or dropdown select.
-                                    column(4,
+                                    column(6,
                                            #Check boxes, uncomment to use.
                                            checkboxGroupInput(
                                              inputId = "pos",
@@ -208,7 +213,7 @@ ui <- dashboardPage(
                                     ), #column
                                     
                                     #Free agent type
-                                    column(4,
+                                    column(6,
                                            checkboxGroupInput(
                                              inputId = "type",
                                              label = "Free Agent Type:",
@@ -222,9 +227,9 @@ ui <- dashboardPage(
                                   #Row for sliders
                                   fluidRow(  
                                     #Previous salary range
-                                    column(4,
+                                    column(6,
                                            sliderInput(inputId = "sal",
-                                                       label = "Previous Salary Range",
+                                                       label = "Previous Salary Range:",
                                                        min = 0,
                                                        max = 40000000,
                                                        value = c(0,40000000),
@@ -235,9 +240,9 @@ ui <- dashboardPage(
                                     ), #column
                                     
                                     #Minimum attempts.
-                                    column(4,
+                                    column(6,
                                            sliderInput(inputId = "att",
-                                                       label = "Minimum Attempts",
+                                                       label = "Minimum Attempts:",
                                                        min = 0,
                                                        max = 124,
                                                        value = 0,
@@ -246,17 +251,19 @@ ui <- dashboardPage(
                                            ) #sliderInput
                                     )
                                   ),
-                                  
-                                  fluidRow("Note: The following table uses data from the entire 2020-21 season. 
-                                           Field goals are solely from the right corner 3."),
+                                  fluidRow(
+                                    actionButton("disclaimer_nba", label = "", icon = icon('info-circle')),
+                                    actionButton("dh_pick_nba", label = "DarkHorse Pick", icon = icon('horse-head'))
+                                  ),
                                   hr(),
                                   fluidRow(
-                                    DTOutput("my_table", width = "100%"), #DT output
+                                    div(DTOutput("my_table", width = "100%"), style = "font-size: 91%; width: 91%")
+                                     #DT output
                                   )
                                   
                          ), #tabPanel, NBA free agents
                          
-                         #College player page
+                         #College player page---------------------------------------------------------------------
                          tabPanel(img(src = "draft.png", height = 60, width = 60),
                                   fluidRow(
                                     h3("NBA Draft Prospects")
@@ -285,46 +292,43 @@ ui <- dashboardPage(
                                     
                                     #Draft projection
                                     column(4,
-                                           checkboxGroupInput(
-                                             inputId = "draft1",
-                                             label = "Draft Projection:",
-                                             choices = c("Early First Round", "Mid First Round", "Late First Round",
-                                                         "Early Second Round", "Mid Second Round", "Late Second Round",
-                                                         "Outside First Two Rounds"),
-                                             selected = c("Early First Round", "Mid First Round", "Late First Round",
-                                                          "Early Second Round", "Mid Second Round", "Late Second Round",
-                                                          "Outside First Two Rounds"),
-                                             inline = TRUE,
-                                             width = '700px'
-                                           ) #checkboxGroupInput
+                                           sliderInput(inputId = "mock",
+                                                       label = "Chad Ford's Top 100:",
+                                                       min = 1,
+                                                       max = 100,
+                                                       value = c(1,100),
+                                                       step = 1,
+                                                       ticks = FALSE,
+                                           ) #sliderInput
                                     ), #column
-                                  ), #fluid row
                                   
                                   #New row for slider
                                   fluidRow(  
                                     #Minimum attempts.
                                     column(4,
                                            sliderInput(inputId = "att1",
-                                                       label = "Minimum Attempts",
+                                                       label = "Minimum Attempts:",
                                                        min = 0,
                                                        max = 33,
                                                        value = 0,
                                                        step = 1,
                                                        ticks = FALSE,
-                                           ) #sliderInput
+                                                       ) #sliderInput
+                                          )
                                     )
                                   ),
                                   
-                                  fluidRow("Note: The following table uses data from the entire 2020-21 season
-                                           gathered from CBB Analytics. Field goals are solely from the right
-                                           corner 3."),
+                                  fluidRow(
+                                    actionButton("disclaimer_college", label = "", icon = icon('info-circle')),
+                                    actionButton("dh_pick_college", label = "DarkHorse Pick", icon = icon('horse-head'))
+                                  ),
                                   hr(),
                                   #New row for table
                                   fluidRow(
                                     DTOutput("my_table1", width = "100%"), #DT output
                                   )
                          ), #tabPanel, NBA free agents
-                         #G League page
+                         #G League page---------------------------------------------------------------------
                          tabPanel(img(src = "g_league.png", height = 60, width = 30),
                                   fluidRow(
                                     h3("G League Prospects")
@@ -334,7 +338,7 @@ ui <- dashboardPage(
                                     
                                     #Position
                                     #Two options for multiple select: check boxes, or dropdown select.
-                                    column(4,
+                                    column(6,
                                            #Check boxes, uncomment to use.
                                            checkboxGroupInput(
                                              inputId = "pos2",
@@ -350,13 +354,7 @@ ui <- dashboardPage(
                                            #             selected = c(unique(as.character(df$Position))),
                                            #             multiple = TRUE) #selectInput
                                     ), #column
-                                    
-                                  ), #fluid row
-                                  
-                                  #New row for slider
-                                  fluidRow(  
-                                    #Minimum attempts.
-                                    column(4,
+                                    column(6,
                                            sliderInput(inputId = "att2",
                                                        label = "Minimum Attempts",
                                                        min = 0,
@@ -365,12 +363,12 @@ ui <- dashboardPage(
                                                        step = 1,
                                                        ticks = FALSE,
                                            ) #sliderInput
-                                    )
+                                    ),
+                                  ), #fluid row
+                                  fluidRow(
+                                    actionButton("disclaimer_g", label = "", icon = icon('info-circle')),
+                                    actionButton("dh_pick_g", label = "DarkHorse Pick", icon = icon('horse-head'))
                                   ),
-                                  
-                                  fluidRow("Note: The following table uses data from the entire 2020-21 season
-                                           gathered from the NBA website. Field goals are solely from the right
-                                           corner 3."),
                                   hr(),
                                   #New row for table
                                   fluidRow(
@@ -391,17 +389,58 @@ ui <- dashboardPage(
 
 # Define server
 server <- function(input, output) {
-  #Output for NBA panel
+  #populate dictionary with youtube links
+  nba_vid <- read.csv('nba_video.csv')
+  dict <- hash()
+  for (row in 1:nrow(nba_vid)){
+    dict[[nba_vid[row, 'Name']]] <- nba_vid[row, 'Video']
+  }
+  college_vid <- read.csv('college_video.csv')
+  for (row in 1:nrow(college_vid)){
+    dict[[college_vid[row, 'Name']]] <- college_vid[row, 'Video']
+  }
+  g_vid <- read.csv('g_league_video.csv')
+  for (row in 1:nrow(g_vid)){
+    dict[[g_vid[row, 'Name']]] <- g_vid[row, 'Video']
+  }
+  
+  # a call creating input buttons:
+  shinyInput <- function(FUN, len, id, ...) {
+    inputs <- character(len)
+    for (i in seq_len(len)) {
+      inputs[i] <- as.character(FUN(paste0(id, i), ...))
+    }
+    inputs
+  }
+  
+  subsetModal <- function(session, player_id, size) {
+    #ns <- session$ns
+    showModal(modalDialog(
+      HTML('<iframe width="560" height="315" src=', dict[[player_id]], 'frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'),
+      size = size,
+      easyClose = TRUE))
+  }
+  
+  #Output for NBA panel-------------------------------------------------------
+  values_nba <- reactiveValues(df = NULL)
+  values_nba$df <- data.frame(df)
+  values_nba$df <- data.frame(
+    df,
+    Highlights = shinyInput(actionButton, nrow(df), 'button_', label = "Watch",
+                            onclick = 'Shiny.onInputChange(\"select_button\",  this.id)' ),
+    stringsAsFactors = FALSE
+  )
+
   output$my_table = DT::renderDataTable(
     DT::datatable(
-      {data <- df
-        data <- data[data$Position %in% input$pos,]
-        data <- data[data$Type %in% input$type,]
-        data <- data[(data$Previous.Salary <= input$sal[2]) &
+      {data <- isolate(values_nba$df)
+      data <- data[data$Position %in% input$pos,]
+      data <- data[data$Type %in% input$type,]
+      data <- data[(data$Previous.Salary <= input$sal[2]) &
                      (data$Previous.Salary >= input$sal[1]),]
-        data <- data[data$FGA >= input$att,]
+      data <- data[data$FGA >= input$att,]
       data
-    },
+      },
       escape = FALSE,
       rownames = FALSE,
       options = list(
@@ -412,14 +451,49 @@ server <- function(input, output) {
     ) %>% #datatable
       formatCurrency(c("Previous.Salary"), "$")
   )#renderDataTable
+
+
+  observeEvent(input$select_button, {
+    selectedRow <- as.numeric(strsplit(input$select_button, "_")[[1]][2])
+    subsetted <- df[selectedRow, , drop = FALSE]
+    subsetModal(session, subsetted[1, 2], size = "m")
+  })
   
-  #Output for college panel
+  observeEvent(input$disclaimer_nba, {
+    showModal(modalDialog(
+      title = "Disclaimer",
+      "Note: The following table uses data from the entire 2020-21 season
+      gathered from the NBA website. Field goals are solely from the right
+      corner 3.",
+      easyClose = TRUE
+    ))
+  })
+  
+  observeEvent(input$dh_pick_nba, {
+    showModal(modalDialog(
+      title = "DarkHorse Pick",
+      img(src = "slide1.png", width = '100%'),
+      easyClose = TRUE
+    ))
+  })
+  
+  #Output for college panel-------------------------------------------------
+  values_col <- reactiveValues(df = NULL)
+  values_col$df <- data.frame(df1)
+  values_col$df <- data.frame(
+    df1,
+    Highlights = shinyInput(actionButton, nrow(df1), 'button_', label = "Watch",
+                         onclick = 'Shiny.onInputChange(\"select_button1\",  this.id)' ),
+    stringsAsFactors = FALSE
+  )
+
   output$my_table1 = DT::renderDataTable(
     DT::datatable(
-      {data1 <- df1
+      {data1 <- isolate(values_col$df)
       #if (input$pos != 'All') {
       data1 <- data1[data1$Position %in% input$pos1,]
-      data1 <- data1[data1$Mock.Draft %in% input$draft1,]
+      data1 <- data1[(data1$Mock.Draft >= input$mock[1]) &
+                     (data1$Mock.Draft <= input$mock[2]),]
       data1 <- data1[data1$FGA >= input$att1,]
       #}
       data1
@@ -433,11 +507,45 @@ server <- function(input, output) {
       selection = 'single'
     ) #datatable
   ) #renderDataTable
+
+  observeEvent(input$select_button1, {
+    selectedRow1 <- as.numeric(strsplit(input$select_button1, "_")[[1]][2])
+    subsetted1 <- df1[selectedRow1, , drop = FALSE]
+    subsetModal(session, subsetted1[1, 2], size = "m")
+  })
+
   
-  #Output for college panel
+  observeEvent(input$disclaimer_college, {
+    showModal(modalDialog(
+      title = "Disclaimer",
+      "Note: The following table uses data from the entire 2020-21 season
+      gathered from CBB Analytics. Field goals are solely from the right
+      corner 3. Gaps in Chad Ford's top 100 represent international players.",
+      easyClose = TRUE
+    ))
+  })
+  
+  observeEvent(input$dh_pick_college, {
+    showModal(modalDialog(
+      title = "DarkHorse Pick",
+      img(src = "slide1.png", width = '100%'),
+      easyClose = TRUE
+    ))
+  })
+  
+  #Output for g-league panel------------------------------------------
+  values_g <- reactiveValues(df = NULL)
+  values_g$df <- data.frame(df2)
+  values_g$df <- data.frame(
+    df2,
+    Highlights = shinyInput(actionButton, nrow(df2), 'button_', label = "Watch",
+                            onclick = 'Shiny.onInputChange(\"select_button2\",  this.id)' ),
+    stringsAsFactors = FALSE
+  )
+
   output$my_table2 = DT::renderDataTable(
     DT::datatable(
-      {data2 <- df2
+      {data2 <- isolate(values_g$df)
       #if (input$pos != 'All') {
       data2 <- data2[data2$Position %in% input$pos2,]
       data2 <- data2[data2$FGA >= input$att2,]
@@ -453,9 +561,32 @@ server <- function(input, output) {
       selection = 'single'
     ) #datatable
   ) #renderDataTable
+
+  observeEvent(input$select_button2, {
+    selectedRow2 <- as.numeric(strsplit(input$select_button2, "_")[[1]][2])
+    subsetted2 <- df2[selectedRow2, , drop = FALSE]
+    subsetModal(session, subsetted2[1, 2], size = "m")
+  })
   
+  observeEvent(input$disclaimer_g, {
+    showModal(modalDialog(
+      title = "Disclaimer",
+      "Note: The following table uses data from the entire 2020-21 season
+      gathered from the NBA website. Field goals are solely from the right
+      corner 3.",
+      easyClose = TRUE
+    ))
+  })
   
-  #Model
+  observeEvent(input$dh_pick_g, {
+    showModal(modalDialog(
+      title = "DarkHorse Pick",
+      img(src = "slide1.png", width = '100%'),
+      easyClose = TRUE
+    ))
+  })
+  
+  #Model ---------------------------------------------------------------------
   #NEW CODE: Pie chart for when users enter model tab.
   pre_data <- data.frame(
     outcome=c("Click Run Model Button"),
